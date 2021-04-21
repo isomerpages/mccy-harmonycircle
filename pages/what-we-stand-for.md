@@ -2,7 +2,7 @@
 title: What we stand for
 permalink: /what-we-stand-for
 ---
-### Our Vision
+![](/images/IRCC Logo.png)### Our Vision
 
 To be networks of trust that unite people regardless of race or religion.
 
@@ -33,3 +33,9 @@ We are considerate and sensitive towards each other, and respect each other's re
 #### Trust
 
 We value our friendship and will stand by each other in times of need. We place confidence in each other to act responsibly in the best interests of the larger community, regardless of race or religion.
+
+### Our Logo
+
+Image
+
+Our logo consists of four interlocking figures that represent different races and religions working together with understanding and tolerance. They are coloured red, green, orange and violet to reflect our core values of Trust, Respect, Harmony and Cooperation. Accompanying the logomark, the initials IRCC are set in bold letters, highlighting the strength and confidence of the community.
