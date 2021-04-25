@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ about the Commitment
 permalink: /faq/
 ---
 ### Frequently Asked Questions about the Commitment
