@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - About IRCC
+      - what-we-stand-for.md
