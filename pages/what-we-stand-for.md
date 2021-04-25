@@ -2,7 +2,7 @@
 title: What we stand for
 permalink: /what-we-stand-for
 ---
-![](/images/IRCC Logo.png)### Our Vision
+### Our Vision
 
 To be networks of trust that unite people regardless of race or religion.
 
