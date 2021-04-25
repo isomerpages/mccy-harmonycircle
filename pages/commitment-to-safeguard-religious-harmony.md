@@ -1,6 +1,6 @@
 ---
 title: Commitment to Safeguard Religious Harmony
-permalink: /commitment-to-safeguard-religious-harmony/
+permalink: /commitment/
 ---
 Singapore has enjoyed a high level of harmony and peace in our religiously diverse society. This is not by accident, and we must constantly work to protect, cherish and promote our religious harmony, as it is key to our peace, prosperity and progress. To this end, we reaffirm the following:
  
