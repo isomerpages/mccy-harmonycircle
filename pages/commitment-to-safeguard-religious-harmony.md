@@ -2,6 +2,15 @@
 title: Commitment to Safeguard Religious Harmony
 permalink: /commitment/
 ---
+
+### About the Commitment
+
+Singapore’s religious leaders have come together to affirm our shared commitment to safeguard religious harmony. This is a stand against division and discord between religious communities. While we are of different faiths and beliefs, we are united in promoting the common good. We see difference not as separation, but as contribution – diverse gifts we bring to the future that we all share.    
+ 
+We invite all religious organisations in Singapore to take a stand with us.
+
+### Commitment to Safeguard Religious Harmony
+
 Singapore has enjoyed a high level of harmony and peace in our religiously diverse society. This is not by accident, and we must constantly work to protect, cherish and promote our religious harmony, as it is key to our peace, prosperity and progress. To this end, we reaffirm the following:
  
 #### Upholding Freedom of Religion
@@ -36,10 +45,3 @@ We will support national institutions that aim to uphold and promote religious h
 #### Safeguarding Religious Harmony for a Better Singapore for All
 
 We embrace and will practise the affirmations in this Commitment. Through our words and actions, we can contribute to religious harmony in Singapore. Together, we ensure that our nation continues to progress and prosper in peace and harmony, and enable all to lead fulfilling lives in accordance with their beliefs.
-
-### About the Commitment
-
-Singapore’s religious leaders have come together to affirm our shared commitment to safeguard religious harmony. This is a stand against division and discord between religious communities. While we are of different faiths and beliefs, we are united in promoting the common good. We see difference not as separation, but as contribution – diverse gifts we bring to the future that we all share.    
- 
-We invite all religious organisations in Singapore to take a stand with us.
-
