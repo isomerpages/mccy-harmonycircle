@@ -1,5 +1,5 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: IRCC
+url: 'https://www.ircc.sg'
 favicon: /images/favicon-isomer.ico
 
 # Site colors
@@ -20,9 +20,12 @@ colors:
 
 
 collections:
-  example-collection:
+  Who We Are:
     output: true
-resources_name: example-resource
+  Get Involved:
+    output: true
+resources_name: Resources
+resources_name: Media Room
 
 description: An Isomer site of the Singapore Government
 
