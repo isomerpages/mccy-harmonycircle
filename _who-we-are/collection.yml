@@ -2,6 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - About IRCC
+      - about-ircc.md
       - what-we-stand-for.md
       - our-partners.md
