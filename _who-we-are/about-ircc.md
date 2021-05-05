@@ -1,6 +1,6 @@
 ---
 title: About IRCC
-permalink: /ircc/about-ircc/
+permalink: /about-ircc
 ---
 The Inter-Racial and Religious Confidence Circle (IRCC) is a platform to promote racial and religious harmony in Singapore, with a presence in every constituency. 
 
