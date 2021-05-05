@@ -2,10 +2,10 @@ logo: /images/ircc-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-    - title: Who We Are
+  - title: Who We Are
     collection: who-we-are
-  - title: Get Involved
-    collection: get-involved
+  - title: Commitment
+    collection: commitment
   - title: Example Collection
     collection: example-collection
   - title: Example Resource
