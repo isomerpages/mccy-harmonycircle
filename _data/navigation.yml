@@ -1,14 +1,12 @@
-logo: /images/IRCC-Logo-cropped-543KB.jpg
+logo: /images/ircc-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+    - title: Who We Are
+    collection: who-we-are
+  - title: Get Involved
+    collection: get-involved
   - title: Example Collection
     collection: example-collection
   - title: Example Resource
     resource_room: true
-  - title: Who We Are
-    collection: who-we-are
-  - title: Get Involved
-    collection: get-involved
