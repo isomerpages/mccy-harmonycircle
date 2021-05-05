@@ -1,0 +1,6 @@
+collections:
+  example-collection:
+    output: false
+    order:
+      - example-page/.keep
+      - example-page/example-subpage.md
