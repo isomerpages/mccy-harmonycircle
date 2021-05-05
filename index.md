@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Inter-Racial and Religious Confidence Circle Site
+description: The Inter-Racial and Religious Confidence Circle site aims to be networks of trust that unite people regardless of race or religion.
+image: /images/ircc-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
