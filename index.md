@@ -11,8 +11,6 @@ sections:
       subtitle: The Inter-Racial and Religious Confidence Circle aims to be networks
         of trust that unite people regardless of race or religion.
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
