@@ -8,8 +8,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      subtitle: The Inter-Racial and Religious Confidence Circle aims to be networks
+        of trust that unite people regardless of race or religion.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
