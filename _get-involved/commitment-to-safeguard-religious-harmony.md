@@ -1,7 +1,8 @@
 ---
-title: Commitment to Safeguard Religious Harmony
-permalink: /commitment/
+title: Commitment To Safeguard Religious Harmony
+permalink: /commitment-to-safeguard-religious-harmony/
 ---
+
 
 
 ### About the Commitment
