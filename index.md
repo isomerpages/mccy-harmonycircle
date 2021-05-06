@@ -23,6 +23,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      title: Many Beliefs, One Future
   - infobar:
       title: Infobar title
       subtitle: Subtitle
