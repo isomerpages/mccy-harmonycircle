@@ -2,7 +2,7 @@
 title: Pledge your Commitment
 permalink: /get-involved/pledge-your-commitment
 ---
-### Community Support for The Commitment
+### Community Support for the Commitment
 
 All segments of society – not just religious organisations – have stepped forward to express support to safeguard religious harmony in Singapore. These include workplaces, educational institutions, and social, civic and community organisations. 
 
