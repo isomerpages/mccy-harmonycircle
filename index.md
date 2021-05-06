@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Inter-Racial and Religious Confidence Circle (IRCC)
+title: Inter-Racial and Religious Confidence Circle
 description: The Inter-Racial and Religious Confidence Circle site aims to be
   networks of trust that unite people regardless of race or religion.
 image: /images/ircc-logo.svg
