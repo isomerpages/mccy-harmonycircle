@@ -1,5 +1,5 @@
 collections:
-  commitment:
+  get-involved:
     output: true
     order:
       - commitment-to-safeguard-religious-harmony.md
