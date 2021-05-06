@@ -5,7 +5,7 @@ description: The Inter-Racial and Religious Confidence Circle site aims to be
   networks of trust that unite people regardless of race or religion.
 image: /images/ircc-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       subtitle: The Inter-Racial and Religious Confidence Circle aims to be networks
