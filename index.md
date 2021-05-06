@@ -22,12 +22,6 @@ sections:
           description: Page A is important too
           url: /privacy/
       title: Many Beliefs, One Future
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
