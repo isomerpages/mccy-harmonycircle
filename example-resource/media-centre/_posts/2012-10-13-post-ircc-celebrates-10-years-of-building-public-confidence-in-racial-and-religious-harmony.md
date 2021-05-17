@@ -1,9 +1,10 @@
 ---
-title: IRCC Celebrates 10 Years of Building Public Confidence in Racial and
+title: Ircc Celebrates 10 Years Of Building Public Confidence In Racial And
   Religious Harmony
 date: 2012-10-13
-permalink: /media-centre/13-10-2012-ircc-10th-anniversary
+permalink: /resources/media-centre/ircc-10th-anniversary
 ---
+
 
 Singapore, 13 October 2012 - 2012 marks the 10th anniversary of the Inter-Racial and Religious Confidence Circles (IRCCs). In celebration of the IRCCs’ achievements over the past decade, Mr Chan Chun Sing, Acting Minister for Community Development, Youth and Sports, today launched an exhibition titled “The IRCC Journey 2002 – 2012” at the National IRCC Seminar held at Singapore Expo Max Atria. The interactive exhibition featured significant milestones and highlights of the IRCCs over the past ten years, including a multi-touch screen display of photos, newspaper articles and videos of the efforts of the IRCCs.
 
