@@ -24,6 +24,7 @@ Today, many religions are registered here, ranging from Buddhism to Christianity
 #### Religious Freedom And Harmony Go Hand In Hand
  
 ![Interior of Sultan Mosque, Singapore](/images/religion/singapore-sultan-mosque-interior.jpg)
+
 With such diversity in the religious landscape spread across a land area of just 728 km2, Singapore’s 5.69 million residents have learnt to live, work and play harmoniously in close proximity with each other.
  
 The State is secular, but not against religion.The people are free to practise their faiths, as long as the activities do not have a negative impact on public order, health or morality.
