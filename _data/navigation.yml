@@ -6,7 +6,7 @@ links:
     collection: get-involved
   - title: Example Collection
     collection: example-collection
-  - title: Example Resource
+  - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
