@@ -6,6 +6,8 @@ permalink: /resources/religion/islam
 The word Islam itself has a two-fold meaning – peace, and submission to God (Allah). This submission requires a fully conscious and willing effort to worship the one Almighty God. It is believed that only when Muslims are able to completely submit to God’s will, can they establish peace in their hearts which will then manifest in their external conduct.
  
 “Peace” is the most common word on a Muslim’s tongue. Whenever two people meet, they exchange greetings, wishing each other peace: Assalamu’alaikum - “Peace be upon you”. To which, the reply is “Wa-Alaikumus-Salaam” or “and upon you be peace”.
+
+![Sultan Mosque, Singapore](/images/religion/singapore-sultan-mosque-exterior.jpg)
  
 #### Key Tenets of Islam
  
@@ -27,6 +29,8 @@ Muslims follow five core practices, which include:
 5.  Making a pilgrimage to Mecca for those who are able to and can afford the trip
  
 Muslims eat only halal meat, meaning lawful or permissible. Permissible here means the animals are slaughtered by slicing the oesophagus and jugular veins with a sharp knife without torturing the animals. Kosher meat, as it is slaughtered the same way as Halal meat is also permissible for Muslims to consume.
+
+![Muslims praying together](/images/religion/muslims-praying-muis.jpg)
  
 #### Major Events
  
