@@ -35,7 +35,7 @@ For example, mosques lower the volume of their loudspeakers when broadcasting th
  
 Through give and take, religious groups in Singapore have gone beyond co-existing in peaceful harmony, to be on friendly terms with each other – even extending goodwill.
  
-In one of many instances of inter-faith kindness, two Taoist temples, Lian Sheng Tan and Shan Fu Gong, shared the tentage set up for their separate Hungry Ghost Festival events with their neighbour, Masjid Ar-Raudhah mosque, so that about 1,000 congregants can be sheltered for Hari Raya Haji prayers.
+In one of many instances of [inter-faith kindness](https://www.straitstimes.com/singapore/multi-religious-cooperation-bukit-batok-temples-keep-tentage-erected-for-muslim), two Taoist temples, Lian Sheng Tan and Shan Fu Gong, shared the tentage set up for their separate Hungry Ghost Festival events with their neighbour, Masjid Ar-Raudhah mosque, so that about 1,000 congregants can be sheltered for Hari Raya Haji prayers.
  
 #### The More We Get Together…
  
@@ -52,5 +52,7 @@ As of 2020, more than 650 religious organisations in Singapore have signed a com
 Another thing going for multi-racial and multi-religious Singapore is the abundance of festivals here. Some of these commemorate religious occasions, like Christmas, Deepavali and Hari Raya Haji, allowing the public to gain a better understanding of the festivals associated with different faiths. A day of rest also means that people can celebrate together, even if they do not practise the religion.
  
 #### A Multi-Racial and Multi-Religious Singapore
+
+![Sri Krishana Temple, Singapore](/images/religion/sri-krishnan-temple.jpg)
 
 Though Singapore does not boast a long history, it has become a place where cultures and religions coexist in harmony. It is here that people have the freedom – and the confidence – to practise their faiths alongside each other, with a healthy appreciation for others’ beliefs.
