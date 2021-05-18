@@ -36,6 +36,6 @@ We value our friendship and will stand by each other in times of need. We place 
 
 ### Our Logo
 
-![](/images/IRCC%20Logo.png)
+![IRCC Logo](/images/IRCC-logo-1024.jpg)
 
 Our logo consists of four interlocking figures that represent different races and religions working together with understanding and tolerance. They are coloured red, green, orange and violet to reflect our core values of Trust, Respect, Harmony and Cooperation. Accompanying the logomark, the initials IRCC are set in bold letters, highlighting the strength and confidence of the community.
