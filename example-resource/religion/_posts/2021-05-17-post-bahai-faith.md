@@ -1,8 +1,9 @@
 ---
 title: Bahai Faith
 date: 2021-05-17
-permalink: /example-resource/religion/bahai-faith
+permalink: /resources/religion/bahai-faith
 ---
+
 
 ### A Belief in the Oneness of Religion and Humanity
  
