@@ -2,14 +2,12 @@
 title: About IRCC
 permalink: /about-ircc
 ---
-
 The Inter-Racial and Religious Confidence Circle (IRCC) is a platform to promote racial and religious harmony in Singapore, with a presence in every constituency. 
 
 We see ourselves as a bridge between religious, ethnic and community groups. By being part of the IRCC network, leaders from these various groups can come together to build friendship and trust. 
 
 We also seek to deepen Singaporeans’ understanding of various faiths, beliefs and practices. For example, through inter-faith and inter-ethnic activities, such as heritage trails, dialogues, visits to places of worship, ethnic and religious celebrations, which are open to the community.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0HG_jUsq_kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Our milestones
 
