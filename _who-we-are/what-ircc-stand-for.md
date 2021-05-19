@@ -3,6 +3,7 @@ title: What IRCC Stand For
 permalink: /what-ircc-stand-for
 ---
 
+
 ### Our Vision
 
 To be networks of trust that unite people regardless of race or religion.
