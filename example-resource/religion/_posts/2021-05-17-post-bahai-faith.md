@@ -1,8 +1,9 @@
 ---
-title: Bahá’í Faith
+title: Bahai Faith
 date: 2021-05-17
-permalink: /resources/religion/bahai-faith
+permalink: /example-resource/religion/bahai-faith
 ---
+
 ### A Belief in the Oneness of Religion and Humanity
  
 With just eight Continental Houses of Worship around the world, and a few local and national Houses of Worship currently in construction in various countries, the Baha’i Faith may not be familiar to most people. After all, the religion is only around 200 years old.
