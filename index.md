@@ -23,7 +23,7 @@ sections:
           url: /privacy/
       title: Many Beliefs, One Future
   - resources:
-      title: Media
+      title: Resources
       subtitle: Learn more
       button: View More
 ---
