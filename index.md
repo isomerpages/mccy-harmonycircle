@@ -15,9 +15,9 @@ sections:
         - title: Commitment
           description: Safeguard religious harmony
           url: https://www.ircc.sg/commitment-to-safeguard-religious-harmony/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Religious Organisations
+          description: Pledge your commitment
+          url: https://www.ircc.sg/get-involved/pledge-your-commitment
         - title: Page A
           description: Page A is important too
           url: /privacy/
