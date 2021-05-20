@@ -18,9 +18,6 @@ sections:
         - title: Religious Organisations
           description: Pledge your commitment
           url: https://www.ircc.sg/get-involved/pledge-your-commitment
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
       title: Many Beliefs, One Future
   - resources:
       title: Resources
