@@ -12,9 +12,9 @@ sections:
         of trust that unite people regardless of race or religion.
       background: /images/commitment-to-safeguard-religious-harmony.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Commitment
+          description: Safeguard religious harmony
+          url: https://www.ircc.sg/commitment-to-safeguard-religious-harmony/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
