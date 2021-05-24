@@ -1,7 +1,8 @@
 ---
-title: FAQs About The Commitment
+title: Faqs about the Commitment
 permalink: /faqs-about-the-commitment/
 ---
+
 ### Frequently Asked Questions about the Commitment
 
 **1.	What is the Commitment to Safeguard Religious Harmony?**
