@@ -5,40 +5,38 @@ permalink: /faqs
 **1. What are the Inter-Racial and Religious Confidence Circle (IRCC)?**
 
 The Inter-Racial and Religious Confidence Circle – better known as IRCC  – are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony.
- When was the IRCC formed? Who are the members of IRCCs?
-Members of IRCCs comprise  leaders from religious and ethnic-based organisations, as well as community organisations located within each constituency. IRCCs in the various constituencies adhere to the same mission: to build close ties between people regardless of their race or religion.
+
+**2. When was the IRCC formed? Who are the members of IRCCs?**
+
+Members of IRCCs comprise  leaders from religious and ethnic-based organisations, as well as community organisations located within each constituency. IRCCs in the various constituencies adhere to the same mission – to build close ties between people regardless of their race or religion.
  
-**2. What do IRCCs do? Who are the members of IRCCs?**
+**3. What do IRCCs do?**
 
 The IRCCs serve as important bridges between religious, ethnic and community groups at the local grassroots level. Leaders from these diverse groups come together to form the IRCC network to build friendship and trust among each other.
 
 The IRCCs also aim to deepen people's understanding of the various faiths, beliefs and practices through inter-faith and inter-ethnic themed activities such as heritage trails, inter-faith talks and various ethnic and religious celebrations.
 
-In addition, the IRCCs are trained to respond quickly to racial and religious tensions. IRCCs will be the key links to disseminate timely and accurate information and to maintain confidence in the community
+In addition, the IRCCs are trained to respond quickly to racial and religious tensions. IRCCs will be the key links to disseminate timely and accurate information and to maintain confidence in the community.
 
-**3. What are some of IRCC’s programmes?**
+**4. What are some of IRCC’s programmes?**
 
-Interfaith Dialogues
-Dialogue enhances understanding and appreciation of the different faiths and beliefs though sharing of knowledge and perspectives from religious leaders and representatives.
+Interfaith Dialogues – Dialogue enhances understanding and appreciation of the different faiths and beliefs though sharing of knowledge and perspectives from religious leaders and representatives.
 
-Interfaith Visits
-Guided visits to places of worship allow for greater insights into the various faiths and their religious practices. Participants will be able to better appreciate Singapore’s rich heritage and religious diversity through first hand experience and in-depth explanations from religious leaders and representatives.
+Interfaith Visits – Guided visits to places of worship allow for greater insights into the various faiths and their religious practices. Participants will be able to better appreciate Singapore’s rich heritage and religious diversity through first hand experience and in-depth explanations from religious leaders and representatives.
 
-IRCC Cares
-Launched in 2009, "IRCC Cares" aims to help the less privileged in the community through a series of fund-raising and/or charity projects. The programme allows community leaders, religious organisations and partners to connect with one another, forge relationships and play their part for the less fortunate. It is a good example of the IRCCs’ commitment in constantly exploring new ways of interaction and communication. 
+IRCC Cares – Launched in 2009, "IRCC Cares" aims to help the less privileged in the community through a series of fund-raising and/or charity projects. The programme allows community leaders, religious organisations and partners to connect with one another, forge relationships and play their part for the less fortunate. It is a good example of the IRCCs’ commitment in constantly exploring new ways of interaction and communication. 
 
-Capability-building Programmes
-Courses, workshops and crisis-preparedness exercises are conducted to equip members with the skills and knowledge to facilitate their work in promoting inter-faith and inter-racial harmony and overcome challenges in maintaining peace in the community.
+Capability-building Programmes – Courses, workshops and crisis-preparedness exercises are conducted to equip members with the skills and knowledge to facilitate their work in promoting inter-faith and inter-racial harmony and overcome challenges in maintaining peace in the community.
  
-**4. How can I volunteer with the IRCCs?**
+**5. How can I volunteer with the IRCCs?**
 
 Please indicate your interest via feedback@ircc.sg and we will get back to you as soon as possible.
  
-**5. Who can I contact for enquiries/feedback?**
+**6. Who can I contact for enquiries/feedback?**
 
 Kindly send your queries to feedback@ircc.sg and we will [](https://www.facebook.com/SGIRCC)get back to you as soon as possible.
  
-**6. Where can I follow the latest news and activities of IRCCs?**
+**7. Where can I follow the latest news and activities of IRCCs?**
 
 Please like and follow us on our social media platforms for more updated news of IRCC.
 - [Facebook @IRCCSG](https://www.facebook.com/SGIRCC)
