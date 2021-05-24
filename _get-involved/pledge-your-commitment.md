@@ -8,13 +8,13 @@ All segments of society – not just religious organisations – have stepped fo
 
 This shows that Singapore society is united on the importance of safeguarding religious harmony, and the values and behaviours we expect from ourselves and others, as expressed in the Commitment. With unity as a foundation, the more diverse we are, the richer the possibilities of what we can build together for Singapore.
 
-View the list of religious organisations who have affirmed their commitment.
+[View the list of religious organisations](/files/ROs_Commitment_Affirmation_List_updated_24May2021.pdf) who have affirmed their commitment.
 
 ### Pledge your Commitment
 
 We invite all religious organisations in Singapore to affirm their commitment to safeguarding religious harmony in Singapore by completing the sign up form below. 
 
-Not a religious organisation but wish to support the Commitment? Write in to commitment@ircc.sg to share a message of support!
+Not a religious organisation but wish to support the Commitment? Write in to [commitment@ircc.sg](mailto:commitment@ircc.sg) to share a message of support!
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/60a4d7e35308590011e6dc90">here</a>.</div>
 
