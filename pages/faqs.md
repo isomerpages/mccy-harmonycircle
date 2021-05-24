@@ -2,7 +2,7 @@
 title: FAQs
 permalink: /faqs
 ---
-** 1. What are the Inter-Racial and Religious Confidence Circle (IRCC)?**
+**1. What are the Inter-Racial and Religious Confidence Circle (IRCC)?**
 
 The Inter-Racial and Religious Confidence Circle – better known as IRCC  – are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony.
  When was the IRCC formed? Who are the members of IRCCs?
@@ -43,6 +43,3 @@ Kindly send your queries to feedback@ircc.sg and we will [](https://www.facebook
 Please like and follow us on our social media platforms for more updated news of IRCC.
 - [Facebook @IRCCSG](https://www.facebook.com/SGIRCC)
 - [Instagram @IRCCSG](https://www.instagram.com/irccsg)
-
-
- 
