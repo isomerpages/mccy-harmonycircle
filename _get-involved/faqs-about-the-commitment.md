@@ -1,7 +1,8 @@
 ---
-title: FAQs about the Commitment
+title: FAQs About The Commitment
 permalink: /faqs-about-the-commitment/
 ---
+
 
 
 ### Frequently Asked Questions about the Commitment
