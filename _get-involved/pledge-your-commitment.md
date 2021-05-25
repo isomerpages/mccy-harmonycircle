@@ -8,7 +8,10 @@ All segments of society – not just religious organisations – have stepped fo
 
 This shows that Singapore society is united on the importance of safeguarding religious harmony, and the values and behaviours we expect from ourselves and others, as expressed in the Commitment. With unity as a foundation, the more diverse we are, the richer the possibilities of what we can build together for Singapore.
 
-[View the list of religious organisations](/files/ROs_Commitment_Affirmation_List_updated_24May2021.pdf) who have affirmed their commitment.
+Organisations who have affirmed the Commitment:
+
+* [List of religious organisations](/files/ROs_Commitment_Affirmation_List_updated_24May2021.pdf) 
+* [List of community organisations](/files/Community_Support_for_Commitment.pdf)
 
 ### Pledge your Commitment
 
