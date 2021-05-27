@@ -18,7 +18,7 @@ permalink: /terms-of-use/
 
 **PRIVACY POLICY**
 
-* [View](https://www.ircc.sg/privacy/ target="_blank") this Website’s Privacy Statement.
+* [View](https://www.ircc.sg/privacy/) this Website’s Privacy Statement.
 
 **RESTRICTIONS ON USE OF CONTENTS**
 
