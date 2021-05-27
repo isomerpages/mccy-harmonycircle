@@ -4,12 +4,11 @@ date: 2018-01-27
 permalink: /resources/media-centre/ircc-convention-2018
 layout: post
 ---
-
 #### Inaugural National IRCC Convention 2018 aims to strengthen communal bonds and deepen interfaith understanding
  
 Singapore, 27 January 2018 - More than 600 participants attended the inaugural National Inter-Racial and Religious Confidence Circle (IRCC) Convention 2018 at Suntec Singapore this morning. The aim of the Convention was to foster communal bonds and deepen inter-racial and –religious understanding through dialogues with community activists, academics and private sector experts.
 
-2. 	At the event, Guest-of-Honour President Halimah Yacob encouraged the community to strengthen networks of trust among different religious groups, participate in the shared experience of doing good together, and build our crisis-readiness as a community. She also had the chance to speak with community leaders and various panellists from the breakout sessions.
+At the event, Guest-of-Honour President Halimah Yacob encouraged the community to strengthen networks of trust among different religious groups, participate in the shared experience of doing good together, and build our crisis-readiness as a community. She also had the chance to speak with community leaders and various panellists from the breakout sessions.
 
 Hosting the event, Ms Grace Fu, Minister for Culture, Community and Youth, said, “Trust and harmony among our communities are fundamental to Singapore. All of us must protect these values, and prevent divisive actions or teachings from taking root. Let us continue to encourage our fellow Singaporeans to come together, and better understand one another through honest and open dialogue. Together, we can build a stronger and more united Singapore”.
 
