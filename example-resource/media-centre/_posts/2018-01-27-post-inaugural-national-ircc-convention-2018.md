@@ -3,7 +3,6 @@ title: Inaugural National Ircc Convention 2018
 date: 2018-01-27
 permalink: /resources/media-centre/ircc-convention-2018
 ---
-
 #### Inaugural National IRCC Convention 2018 aims to strengthen communal bonds and deepen interfaith understanding
  
 Singapore, 27 January 2018 - More than 600 participants attended the inaugural National Inter-Racial and Religious Confidence Circle (IRCC) Convention 2018 at Suntec Singapore this morning. The aim of the Convention was to foster communal bonds and deepen inter-racial and –religious understanding through dialogues with community activists, academics and private sector experts.
