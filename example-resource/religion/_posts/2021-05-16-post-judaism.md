@@ -77,3 +77,9 @@ In remembrance of Yom Kippur, Jews refrain from: eating or drinking, wearing lea
 The Passover Festival celebrate the Jews’ redemption from the bondage and exile of Egypt, it also commemorates how God passed over the houses of Jewish families when the firstborn sons in Egypt were killed, which was the last of 10 plagues that God brought upon the Egyptians to force Pharoah to free the Jews from slavery.
 
 Jews celebrate Passover for 8 days (in the diaspora) and join in the Seder nights, to recount the story of the exodus and to fulfill the Passover observances and rituals as a family.
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Islam](https://www.ircc.sg/resources/religion/islam)
+* [Jainism](https://www.ircc.sg/resources/religion/jainism)
