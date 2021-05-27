@@ -1,8 +1,9 @@
 ---
-title: "Diversity In Harmony: The Singapore Story"
-date: 2021-05-17
+title: Diversity In Harmony The Singapore Story
+date: 2021-05-18
 permalink: /resources/religion/diversity-in-harmony
 ---
+
 Take a stroll along Telok Ayer Street, and you will come across a church, a mosque, two temples and an Indian Muslim heritage centre that used to be a shrine.
  
 More than beautiful sights, the neighbourly co-existence of these places of worship paints a picture of religious diversity and harmony in Singapore.
@@ -19,13 +20,13 @@ Drawn to the opportunities created by Sir Stamford Raffles’ decision to set up
  
 Putting down roots in this foreign land, the newcomers went on to build places of worship so that they could come together to express their faiths within their communities. These early-day efforts paved the way for the making of a multi-religious Singapore.
  
-Today, many religions are registered here, ranging from Buddhism to Christianity, Hinduism, Islam, Taoism, Baha’i Faith, Jainism, Judaism, Sikhism and Zoroastrianism. Buddhism has the biggest following, with 33.2% of the population declaring that they are adherents of the faith in a 2015 census.
+Today, many religions are registered here, ranging from Buddhism to Christianity, Hinduism, [Islam](https://www.ircc.sg/resources/religion/islam), Taoism, [Baha’i Faith](https://www.ircc.sg/resources/religion/bahai-faith), [Jainism](https://www.ircc.sg/resources/religion/jainism), [Judaism](https://www.ircc.sg/resources/religion/judaism), Sikhism and Zoroastrianism. Buddhism has the biggest following, with 33.2% of the population declaring that they are adherents of the faith in a 2015 census.
  
-#### Religious Freedom And Harmony Go Hand In Hand
+#### Religious Freedom and Harmony Go Hand In Hand
  
 ![Interior of Sultan Mosque, Singapore](/images/religion/singapore-sultan-mosque-interior.jpg)
 
-With such diversity in the religious landscape spread across a land area of just 728 km2, Singapore’s 5.69 million residents have learnt to live, work and play harmoniously in close proximity with each other.
+With such diversity in the religious landscape spread across a land area of just 728 square kilometers, Singapore’s 5.69 million residents have learnt to live, work and play harmoniously in close proximity with each other.
  
 The State is secular, but not against religion.The people are free to practise their faiths, as long as the activities do not have a negative impact on public order, health or morality.
  
@@ -45,9 +46,9 @@ The Housing and Development Board’s Ethnic Integration Policy, for instance, e
  
 From its establishment in 1989, the policy has brought people of different cultures, customs and religious practices together. Sharing a common corridor, attending the same school in the neighbourhood and basically growing up alongside each other paves the way for friendships and trust to be formed between neighbours. This also makes it easier to develop a mutual understanding that enables people to overcome differences in cultural and religious beliefs and practices.
  
-There are also a number of inter-faith platforms and organisations, such as the Inter-Racial and Religious Confidence Circle (IRCC) and Inter-Religious Organisation, Singapore (IRO), that seek to build friendship and cooperation between religious groups through inter-faith events and networks.
+There are also a number of inter-faith platforms and organisations, such as the [Inter-Racial and Religious Confidence Circle (IRCC)](https://www.ircc.sg/about-ircc) and Inter-Religious Organisation, Singapore (IRO), that seek to build friendship and cooperation between religious groups through inter-faith events and networks.
  
-As of 2020, more than 650 religious organisations in Singapore have signed a commitment to safeguard religious harmony, an initiative spearheaded by various faith groups and supported by the IRCC. 
+As of 2020, more than 650 religious organisations in Singapore have signed a [commitment](https://www.ircc.sg/commitment-to-safeguard-religious-harmony/) to safeguard religious harmony, an initiative spearheaded by various faith groups and supported by the IRCC. 
  
 Another thing going for multi-racial and multi-religious Singapore is the abundance of festivals here. Some of these commemorate religious occasions, like Christmas, Deepavali and Hari Raya Haji, allowing the public to gain a better understanding of the festivals associated with different faiths. A day of rest also means that people can celebrate together, even if they do not practise the religion.
  
@@ -56,3 +57,9 @@ Another thing going for multi-racial and multi-religious Singapore is the abunda
 ![Sri Krishana Temple, Singapore](/images/religion/sri-krishnan-temple.jpg)
 
 Though Singapore does not boast a long history, it has become a place where cultures and religions coexist in harmony. It is here that people have the freedom – and the confidence – to practise their faiths alongside each other, with a healthy appreciation for others’ beliefs.
+
+#### Related Content
+* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Islam](https://www.ircc.sg/resources/religion/islam)
+* [Jainism](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
