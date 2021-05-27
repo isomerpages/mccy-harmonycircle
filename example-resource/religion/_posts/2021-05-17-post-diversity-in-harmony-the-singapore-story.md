@@ -21,7 +21,7 @@ Putting down roots in this foreign land, the newcomers went on to build places o
  
 Today, many religions are registered here, ranging from Buddhism to Christianity, Hinduism, Islam, Taoism, Baha’i Faith, Jainism, Judaism, Sikhism and Zoroastrianism. Buddhism has the biggest following, with 33.2% of the population declaring that they are adherents of the faith in a 2015 census.
  
-#### Religious Freedom And Harmony Go Hand In Hand
+#### Religious Freedom and Harmony Go Hand In Hand
  
 ![Interior of Sultan Mosque, Singapore](/images/religion/singapore-sultan-mosque-interior.jpg)
 
