@@ -12,7 +12,7 @@ permalink: /terms-of-use/
 
 **PROPRIETARY RIGHTS**
 
-* This Website is the official website for the CPRO It is an official Government of Singapore (“the Government”) website that is owned and operated by the Ministry of Culture Community and Youth (“MCCY”).
+* This Website is the official website for the IRCC. It is owned and operated by IRCC.
 
 * The materials located on the Website including the graphics, images, statistical data, reports, charts, graphs, information and documentation (the “Contents”), are protected by copyright, trademark and other intellectual property rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by the Government.
 
