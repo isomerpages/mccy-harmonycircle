@@ -19,9 +19,9 @@ We invite all religious organisations in Singapore to affirm their commitment to
 
 Not a religious organisation but wish to support the Commitment? Write in to [commitment@ircc.sg](mailto:commitment@ircc.sg) to share a message of support!
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/60ac95ada786e70012fa21d9">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/60af645f1f455b0012269b75">here</a>.</div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/60ac95ada786e70012fa21d9" style="width:100%;height:500px"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/60af645f1f455b0012269b75" style="width:100%;height:500px"></iframe>
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
