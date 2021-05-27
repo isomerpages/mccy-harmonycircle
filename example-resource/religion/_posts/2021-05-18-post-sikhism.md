@@ -72,6 +72,7 @@ Sikhs also celebrate Bandhi Chhor Divas, which falls on the same day as Deepaval
 Besides these, every year Sikhs also celebrate the Parkash Dihara (birth anniversary), Jothi Jot (merging) and Gurgaddi Divas (Guruship day) of their Gurus, as well as the anniversary of the installation of the Sri Guru Granth Sahib Ji as their eternal Guru in 1708.
 
 #### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
 * [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith)
 * [Islam](https://www.ircc.sg/resources/religion/islam)
 * [Jainism](https://www.ircc.sg/resources/religion/jainism)
