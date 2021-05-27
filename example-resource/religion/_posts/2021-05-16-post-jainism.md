@@ -3,7 +3,6 @@ title: Jainism
 date: 2021-05-16
 permalink: /resources/religion/jainism
 ---
-
 ### Upholding Non-Violence, Compassion and Respect
 
 Jainism may be an ancient religion, but its ideas and values may just be the answer to a modern world fraught with problems such as climate change and political tension.
@@ -65,3 +64,9 @@ The intent is to divert attention from pleasures, focusing instead on abstinence
 Mahavir Jayanti is a joyous event celebrating the birthday of the twenty-fourth Tirthankara, Lord Mahavir. 
  
 The occasion sees Jains gathering to sing Lord Mahavir’s praises and retell the stories of his childhood with the purpose of remembering the values and virtues of the most recent Tirthankara, whose example every follower of Jainism aspires to follow.
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Islam](https://www.ircc.sg/resources/religion/islam)
+* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
