@@ -1,0 +1,7 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - about-ircc.md
+      - what-ircc-stand-for.md
+      - our-partners.md
