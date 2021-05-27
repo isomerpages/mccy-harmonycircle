@@ -45,3 +45,9 @@ Hari Raya Puasa or Eid-ul-Fitri marks the end of the holy month of Ramadan and t
 The commemoration of the Prophet Muhammad’s birthday or Maulud Nabi is a celebration to signify the love of Muslims for the Prophet Muhammad (Peace be upon him). The celebration will normally include the reading of poetry or Qasidah and Sirah or the life history and the many moral examples of the Prophet.
  
 The Maulud is also commonly held throughout the year in conjunction with birthdays or weddings as a form of blessings and guidance for the congregation.
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Jainism](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
