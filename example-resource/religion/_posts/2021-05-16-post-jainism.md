@@ -70,3 +70,4 @@ The occasion sees Jains gathering to sing Lord Mahavir’s praises and retell th
 * [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
 * [Islam](https://www.ircc.sg/resources/religion/islam)
 * [Judaism](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
