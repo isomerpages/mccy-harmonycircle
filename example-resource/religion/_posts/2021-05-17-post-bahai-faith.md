@@ -3,8 +3,6 @@ title: Bahai Faith
 date: 2021-05-17
 permalink: /resources/religion/bahai-faith
 ---
-
-
 ### A Belief in the Oneness of Religion and Humanity
  
 With just eight Continental Houses of Worship around the world, and a few local and national Houses of Worship currently in construction in various countries, the Baha’i Faith may not be familiar to most people. After all, the religion is only around 200 years old.
@@ -58,3 +56,9 @@ The Twin Holy Days – two successive Baha’i festival marking the birthdays of
 Born just a day shy of two years earlier than Baha’u’llah, the Bab, whose name means “the Gate”, was the forerunner of the former. His mission from God was to herald the arrival and open the way for the coming of Baha’u’llah.
  
 The double celebration of the birthdays of the two Manifestations of God in the Baha’i Faith holds great meaning for Baha’is around the world. They mark this joyous time of the year by coming together to pray, read the writings of the faith, reflect on the purpose and implications of the appearance of the Manifestations of God in the world, and express their joy through song and dance.
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Islam](https://www.ircc.sg/resources/religion/islam)
+* [Jainism](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
