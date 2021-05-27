@@ -70,3 +70,5 @@ They also celebrate Vesakhi in April. Vesakhi marks the day when Sri Guru Gobind
 Sikhs also celebrate Bandhi Chhor Divas, which falls on the same day as Deepavali. Bandhi Chhor Divas celebrates the sixth Sikh guru, Guru Hargobind Sahib’s release from captivity by the Mughal empire. When Guru Hargobind Sahib Ji was informed of his release, he had asked for the freedom of 52 Hindu kings who were also held in captivity but was told that only those who managed to hold onto his cloak tail could leave. Outwitting the authorities, the Guru made a cloak with 52 cloth panels attached allowing all the kings to latch on to them thus saving them.
  
 Besides these, every year Sikhs also celebrate the Parkash Dihara (birth anniversary), Jothi Jot (merging) and Gurgaddi Divas (Guruship day) of their Gurus, as well as the anniversary of the installation of the Sri Guru Granth Sahib Ji as their eternal Guru in 1708.
+
+#### Related Content
