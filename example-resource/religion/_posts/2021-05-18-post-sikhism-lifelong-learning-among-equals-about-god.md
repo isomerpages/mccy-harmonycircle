@@ -4,16 +4,13 @@ date: 2021-05-18
 permalink: /resources/religion/sikhism
 layout: post
 ---
-
-### Lifelong Learning Among Equals About God
- 
 The literal translation of a “Sikh” is a “learner, student or disciple” or “seeker”.
  
 Sikhism teaches that there is only one God, who is formless, fearless and is the Supreme Creator of the Universe.  
  
 So although Sikhs may be seen to be at different stages on this learning path, their ultimate goal is to have their soul unite with God. 
  
-#### Key Tenets of Sikhism
+### Key Tenets of Sikhism
  
 The Sikh way of life was founded by Sri Guru Nanak Dev Ji, the first of 10 Gurus who manifested themselves in the human form. Each of them taught and advocated values that form the bedrock of Sikhism, with its basic tenets including the equality of mankind – regardless of gender, income, social status, caste, creed or religion.
  
@@ -34,7 +31,7 @@ Hoisted at every Gurdwara is a flag known as the Nishan Sahib. It symbolizes ref
  
 Any Sikh, whether male or female, can lead in the prayer service and the recitation of Gurbani (sacred verses) from the Sri Guru Granth Sahib Ji, Sikhism’s eternal Guru. 
  
-**Three Golden Rules and “Five Thieves”**
+#### Three Golden Rules and “Five Thieves”
  
 Guru Nanak Dev Ji also emphasized three core principles that Sikhs around the world today aspire to adhere to. 
  
@@ -44,7 +41,7 @@ The second principle requires Sikhs to earn an honest living, while the third ex
  
 Balancing the dos, are the don’ts known as the “Five Thieves”. Sikhs are to beware of and live above the five inner vices of lust, uncontrolled anger, greed, attachment and ego, as guided by the Gurus.
  
-**Instruments of Faith (Kakkaars)**
+#### Instruments of Faith (Kakkaars)
  
 Once Sikhs are baptized into the Khalsa through the Amrit Sanchar (initiation ceremony), they are to maintain a daily discipline of meditation and prayer, and also keep five instruments of faith (Kakkaars) with them at all times. 
  
@@ -62,7 +59,7 @@ Lastly, the Kachera (undershorts) is worn as a reminder of self-restraint and mo
  
 ![Instruments of Faith (Kakkaars)](/images/religion/sikhism-instruments-of-faith-kakkaars.jpg)
  
-#### Major Events in the Sikh Calendar
+### Major Events in the Sikh Calendar
  
 Every year, Sikhs celebrate some key festivals and momentous occasions. Sikhs celebrate the new year in the month of Chet (in mid-March). 
  
