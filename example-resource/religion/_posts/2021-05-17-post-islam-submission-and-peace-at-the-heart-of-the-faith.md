@@ -1,7 +1,8 @@
 ---
-title: Islam
+title: "Islam: Submission And Peace At The Heart Of The Faith"
 date: 2021-05-17
 permalink: /resources/religion/islam
+layout: post
 ---
 The word Islam itself has a two-fold meaning – peace, and submission to God (Allah). This submission requires a fully conscious and willing effort to worship the one Almighty God. It is believed that only when Muslims are able to completely submit to God’s will, can they establish peace in their hearts which will then manifest in their external conduct.
  
@@ -9,7 +10,7 @@ The word Islam itself has a two-fold meaning – peace, and submission to God (A
 
 ![Sultan Mosque, Singapore](/images/religion/singapore-sultan-mosque-exterior.jpg)
  
-#### Key Tenets of Islam
+### Key Tenets of Islam
  
 Monotheism as the core of the Islamic belief, this is expressed in the primary declaration of faith “there is none worthy of worship except God”. This phrase is the foundation of Islam and its essence, serving as a guiding belief for all Muslims.
  
@@ -19,7 +20,7 @@ Muslims believe that God is One and guidance has been imparted by God through hi
  
 Muslims believe in the 6 articles of faith in which one of the articles is to believe in the prophets and messengers sent by God to the different communities. Muslims look to all prophets mentioned in the Quran including Prophet Muhammad and his life as an esteemed point of reference to emulate and learn from. One of the core messages of the prophecy is to perfect good character as exemplified in a prophetic saying (Hadith) “I was sent to perfect good character.”
  
-#### Islam In Practice
+### Islam In Practice
  
 Muslims follow five core practices, which include: 
 1.  Profession of faith in the Oneness of God. 
@@ -32,7 +33,7 @@ Muslims eat only halal meat, meaning lawful or permissible. Permissible here mea
 
 ![Muslims praying together](/images/religion/muslims-praying-muis.jpg)
  
-#### Major Events
+### Major Events
  
 There are many major events in the Islamic calendar. The main events that are generally celebrated are Hari Raya Puasa, Hari Raya Haji and the commemoration of Prophet Muhammad’s (Peace be upon him) birthday. 
  
@@ -48,7 +49,7 @@ The Maulud is also commonly held throughout the year in conjunction with birthda
 
 #### Related Content
 * [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
-* [Jainism](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
-* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)

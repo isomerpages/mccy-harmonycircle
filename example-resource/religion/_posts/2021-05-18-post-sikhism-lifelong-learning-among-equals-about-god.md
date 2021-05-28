@@ -1,18 +1,16 @@
 ---
-title: Sikhism
+title: "Sikhism: Lifelong Learning Among Equals About God"
 date: 2021-05-18
 permalink: /resources/religion/sikhism
 layout: post
 ---
-### Lifelong Learning Among Equals About God
- 
 The literal translation of a “Sikh” is a “learner, student or disciple” or “seeker”.
  
 Sikhism teaches that there is only one God, who is formless, fearless and is the Supreme Creator of the Universe.  
  
 So although Sikhs may be seen to be at different stages on this learning path, their ultimate goal is to have their soul unite with God. 
  
-#### Key Tenets of Sikhism
+### Key Tenets of Sikhism
  
 The Sikh way of life was founded by Sri Guru Nanak Dev Ji, the first of 10 Gurus who manifested themselves in the human form. Each of them taught and advocated values that form the bedrock of Sikhism, with its basic tenets including the equality of mankind – regardless of gender, income, social status, caste, creed or religion.
  
@@ -61,7 +59,7 @@ Lastly, the Kachera (undershorts) is worn as a reminder of self-restraint and mo
  
 ![Instruments of Faith (Kakkaars)](/images/religion/sikhism-instruments-of-faith-kakkaars.jpg)
  
-#### Major Events in the Sikh Calendar
+### Major Events in the Sikh Calendar
  
 Every year, Sikhs celebrate some key festivals and momentous occasions. Sikhs celebrate the new year in the month of Chet (in mid-March). 
  
@@ -73,7 +71,7 @@ Besides these, every year Sikhs also celebrate the Parkash Dihara (birth anniver
 
 #### Related Content
 * [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Islam](https://www.ircc.sg/resources/religion/islam)
-* [Jainism](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaisim)
