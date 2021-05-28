@@ -58,7 +58,7 @@ Another thing going for multi-racial and multi-religious Singapore is the abunda
 Though Singapore does not boast a long history, it has become a place where cultures and religions coexist in harmony. It is here that people have the freedom – and the confidence – to practise their faiths alongside each other, with a healthy appreciation for others’ beliefs.
 
 #### Related Content
-* [Bahá’í Faith: A Belief in the Oneness of Religion and Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
 * [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaisim)
