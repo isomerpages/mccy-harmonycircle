@@ -9,7 +9,7 @@ More than beautiful sights, the neighbourly co-existence of these places of wors
 
 ![Telok Ayer Street](/images/religion/telok-ayer-street-signs.jpg)
  
-#### Forming a Cohesive Singapore Tapestry 
+### Forming a Cohesive Singapore Tapestry 
  
 Singapore is one of the most religiously diverse countries in the world. In fact, it took the top spot in a 2014 study conducted by the Pew Research Center, a nonpartisan fact tank headquartered in Washington DC.
  
@@ -19,9 +19,9 @@ Drawn to the opportunities created by Sir Stamford Raffles’ decision to set up
  
 Putting down roots in this foreign land, the newcomers went on to build places of worship so that they could come together to express their faiths within their communities. These early-day efforts paved the way for the making of a multi-religious Singapore.
  
-Today, many religions are registered here, ranging from Buddhism to Christianity, Hinduism, [Islam](https://www.ircc.sg/resources/religion/islam), Taoism, [Baha’i Faith](https://www.ircc.sg/resources/religion/bahai-faith), [Jainism](https://www.ircc.sg/resources/religion/jainism), [Judaism](https://www.ircc.sg/resources/religion/judaism), Sikhism and Zoroastrianism. Buddhism has the biggest following, with 33.2% of the population declaring that they are adherents of the faith in a 2015 census.
+Today, many religions are registered here, ranging from Buddhism to Christianity, Hinduism, [Islam](https://www.ircc.sg/resources/religion/islam), Taoism, [Baha’i Faith](https://www.ircc.sg/resources/religion/bahai-faith), [Jainism](https://www.ircc.sg/resources/religion/jainism), [Judaism](https://www.ircc.sg/resources/religion/judaism), [Sikhism](https://www.ircc.sg/resources/religion/sikhism) and Zoroastrianism. Buddhism has the biggest following, with 33.2% of the population declaring that they are adherents of the faith in a 2015 census.
  
-#### Religious Freedom and Harmony Go Hand In Hand
+### Religious Freedom and Harmony Go Hand In Hand
  
 ![Interior of Sultan Mosque, Singapore](/images/religion/singapore-sultan-mosque-interior.jpg)
 
@@ -37,7 +37,7 @@ Through give and take, religious groups in Singapore have gone beyond co-existin
  
 In one of many instances of [inter-faith kindness](https://www.straitstimes.com/singapore/multi-religious-cooperation-bukit-batok-temples-keep-tentage-erected-for-muslim), two Taoist temples, Lian Sheng Tan and Shan Fu Gong, shared the tentage set up for their separate Hungry Ghost Festival events with their neighbour, Masjid Ar-Raudhah mosque, so that about 1,000 congregants can be sheltered for Hari Raya Haji prayers.
  
-#### The More We Get Together…
+### The More We Get Together…
  
 For a young nation, the display of such grace among religious groups is something that does not come easy. It is the culmination of hard work from all levels of society to foster a spirit of common understanding and unity.
  
@@ -51,15 +51,15 @@ As of 2020, more than 650 religious organisations in Singapore have signed a [co
  
 Another thing going for multi-racial and multi-religious Singapore is the abundance of festivals here. Some of these commemorate religious occasions, like Christmas, Deepavali and Hari Raya Haji, allowing the public to gain a better understanding of the festivals associated with different faiths. A day of rest also means that people can celebrate together, even if they do not practise the religion.
  
-#### A Multi-Racial and Multi-Religious Singapore
+### A Multi-Racial and Multi-Religious Singapore
 
 ![Sri Krishana Temple, Singapore](/images/religion/sri-krishnan-temple.jpg)
 
 Though Singapore does not boast a long history, it has become a place where cultures and religions coexist in harmony. It is here that people have the freedom – and the confidence – to practise their faiths alongside each other, with a healthy appreciation for others’ beliefs.
 
 #### Related Content
-* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Islam](https://www.ircc.sg/resources/religion/islam)
-* [Jainism](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
-* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
+* [Bahá’í Faith: A Belief in the Oneness of Religion and Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
