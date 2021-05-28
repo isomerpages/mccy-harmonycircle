@@ -4,18 +4,13 @@ date: 2021-05-17
 permalink: /resources/religion/bahai-faith
 layout: post
 ---
-
-
-
-### A Belief in the Oneness of Religion and Humanity
- 
 With just eight Continental Houses of Worship around the world, and a few local and national Houses of Worship currently in construction in various countries, the Baha’i Faith may not be familiar to most people. After all, the religion is only around 200 years old.
  
 The teachings of Bahá’u’lláh, the Prophet Founder of the Faith, provides a compelling vision and means for the creation of a united and just world that embraces the diversity of the human race.
 
 Baha’is believe in collaborating with people from diverse backgrounds  be they friends, family, neighbours, or co-workers, to put what they have learnt into action for the betterment of society.
 
-#### Key Tenets of the Baha’i Faith
+### Key Tenets of the Baha’i Faith
  
 If there is one thing that stands out about the Baha’i Faith, it is the principle of oneness – oneness of religion and oneness of humankind.
  
@@ -35,7 +30,7 @@ Baha’u’llah likens the world of humanity to the human body, in which million
  
 In his writings, he posits: “The fundamental purpose animating the Faith of God and His Religion is to safeguard the interests and promote the unity of the human race, and to foster the spirit of love and fellowship amongst men”.
  
-#### The Baha’i Faith in Practice 
+### The Baha’i Faith in Practice 
  
 The Baha’i community in Singapore is modest in size, numbering around 2,000 as of 2020. The bedrock of the Baha’i community life is the Nineteen Day Feast, where members gather to pray, discuss matters relating to the welfare of the community, and engage in fellowship every 19 days.
  
@@ -43,7 +38,7 @@ Baha’is are encouraged to cultivate the habit of praying in the morning and ev
  
 Followers of the faith spend time in private study and personal reflection on the writings of Baha’u’llah as well. The learning continues through educational programmes by the Training Institute, open to all, with the aim of gaining spiritual insights and practical skills to make a difference within their fields of influence.
  
-#### Major Events
+### Major Events
  
 **Riḍván**
  
@@ -63,7 +58,7 @@ The double celebration of the birthdays of the two Manifestations of God in the 
 
 #### Related Content
 * [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Islam](https://www.ircc.sg/resources/religion/islam)
-* [Jainism](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
-* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
