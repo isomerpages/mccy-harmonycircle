@@ -31,7 +31,7 @@ Hoisted at every Gurdwara is a flag known as the Nishan Sahib. It symbolizes ref
  
 Any Sikh, whether male or female, can lead in the prayer service and the recitation of Gurbani (sacred verses) from the Sri Guru Granth Sahib Ji, Sikhism’s eternal Guru. 
  
-#### Three Golden Rules and “Five Thieves”
+**Three Golden Rules and “Five Thieves”**
  
 Guru Nanak Dev Ji also emphasized three core principles that Sikhs around the world today aspire to adhere to. 
  
@@ -41,7 +41,7 @@ The second principle requires Sikhs to earn an honest living, while the third ex
  
 Balancing the dos, are the don’ts known as the “Five Thieves”. Sikhs are to beware of and live above the five inner vices of lust, uncontrolled anger, greed, attachment and ego, as guided by the Gurus.
  
-#### Instruments of Faith (Kakkaars)
+**Instruments of Faith (Kakkaars)**
  
 Once Sikhs are baptized into the Khalsa through the Amrit Sanchar (initiation ceremony), they are to maintain a daily discipline of meditation and prayer, and also keep five instruments of faith (Kakkaars) with them at all times. 
  
