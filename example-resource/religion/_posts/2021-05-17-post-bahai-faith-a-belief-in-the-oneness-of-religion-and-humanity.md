@@ -1,9 +1,10 @@
 ---
-title: "Bahá’í Faith: A Belief in the Oneness of Religion and Humanity"
+title: "Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity"
 date: 2021-05-17
 permalink: /resources/religion/bahai-faith
 layout: post
 ---
+
 
 
 ### A Belief in the Oneness of Religion and Humanity
