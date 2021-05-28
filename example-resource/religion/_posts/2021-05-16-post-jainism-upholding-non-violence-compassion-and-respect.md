@@ -4,9 +4,6 @@ date: 2021-05-16
 permalink: /resources/religion/jainism
 layout: post
 ---
-
-### Upholding Non-Violence, Compassion and Respect
-
 Jainism may be an ancient religion, but its ideas and values are timeless responses to a modern world fraught with problems such as climate change and political tension.
 
 At the core of the faith are the virtues of non-violence, compassion and respect for all living beings – from humans right down to plants and microorganisms.
@@ -19,7 +16,7 @@ The most recent Tirthankara of this era is Lord Mahavir. His teachings have been
  
 For Jains, the ultimate goal in life is to attain the Three Jewels of gyan, darshan and charitra, which refer to the right knowledge, right belief and right conduct respectively. This constitutes the path to enlightenment.
  
-#### Key Tenets of Jainism
+### Key Tenets of Jainism
  
 The foundational premise in Jainism is ahimsa, which is translated as “non-violence”. Jains avoid causing harm, whether intentional or unintentional, to any living being through their speech, actions or thoughts, choosing instead to practise compassion towards all life forms.
  
@@ -27,7 +24,7 @@ Anekantavad is another important principle in Jainism. Translating to “non-abs
  
 Aparigraha, meaning “non-possessiveness”, is a call to Jains to minimise their desire for material things and limit their attachment to their possessions. Living a simple life is how Jains conserve the world’s scarce resources.
  
-#### Jainism in Practice 
+### Jainism in Practice 
  
 Jains strive to live their lives in accordance with the Five Vows: ahimsa, or non-violence; satya, which refers to truth at all times; asteya, not taking anything without the permission of its rightful owner; brahmacharya, the practice of celibacy, or chaste living for lay followers; and aparigraha, limiting desires. 
  
@@ -43,7 +40,7 @@ Drinking alcohol, taking drugs and smoking cigarettes are also forbidden in Jain
  
 In Singapore, the Jain community is close-knit and comprises about 2000 people from 450 families. They hold prayer meetings, religious classes and celebrate major Jain festivals at The Singapore Jain Religious Society.
  
-#### Major Events in the Jain Calendar 
+### Major Events in the Jain Calendar 
  
 Paryushan, Ayambil Oli and Mahavir Jayanti are some of the important festivals that Jains commemorate.
  
@@ -69,7 +66,7 @@ The occasion sees Jains gathering to sing Lord Mahavir’s praises and retell th
 
 #### Related Content
 * [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
-* [Islam](https://www.ircc.sg/resources/religion/islam)
-* [Judaism](https://www.ircc.sg/resources/religion/judaisim)
-* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
