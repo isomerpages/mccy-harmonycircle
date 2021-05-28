@@ -4,14 +4,11 @@ date: 2021-05-16
 permalink: /resources/religion/judaism
 layout: post
 ---
-
-### Covenant, Commandments and the Coming of the Messiah
- 
 Judaism had its beginnings about 4,000 years ago, when God promised Abraham that he would bless him with offspring as numerous as the stars and make him into a great nation. The people of this nation are called Jews.
  
 The birth of Judaism as a faith as it is practiced and lived by today begins with G-d’s revelation to the Jewish people at Mount Sinai and the giving of the Torah. Essentially, Jews entered a covenant with almighty at Sinai which binds them to keep all the 613 commandments contained in the Torah.
  
-#### Key Tenets of Judaism
+### Key Tenets of Judaism
  
 Jews believe in one God, who is omnipotent, omniscient and omnipresent.
  
@@ -24,7 +21,7 @@ The 10 commandments revealed at Sinai, are the main tenets of the rest of the To
  
 It is prophesied in the Tanakh that the savior, the righteous messiah, (literally translated as “anointed one”), will come and bring the whole of mankind to an era of peace and prosperity. Jews are enjoined to yearn for his coming every moment. 
  
-#### Judaism in Practice
+### Judaism in Practice
  
 **Communal Worship**
  
@@ -54,7 +51,7 @@ The dietary laws in the Torah prohibits Jews from, for example, mixing dairy and
  
 Only food that satisfies all the dietary commandments as listed in the Torah and the Shulcha Aruch (Jewish legal code) is considered kosher and fit for consumption.
  
-#### Major Events in the Jewish Calendar
+### Major Events in the Jewish Calendar
  
 The Jewish calendar is filled with festivals that involve elaborate rituals and symbolisms. 
  
@@ -82,7 +79,7 @@ Jews celebrate Passover for 8 days (in the diaspora) and join in the Seder night
 
 #### Related Content
 * [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
-* [Islam](https://www.ircc.sg/resources/religion/islam)
-* [Jainism](https://www.ircc.sg/resources/religion/jainism)
-* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
