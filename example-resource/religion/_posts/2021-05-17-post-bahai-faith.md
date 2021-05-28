@@ -62,3 +62,4 @@ The double celebration of the birthdays of the two Manifestations of God in the 
 * [Islam](https://www.ircc.sg/resources/religion/islam)
 * [Jainism](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)

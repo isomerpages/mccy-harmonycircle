@@ -3,7 +3,6 @@ title: Diversity In Harmony The Singapore Story
 date: 2021-05-18
 permalink: /resources/religion/diversity-in-harmony
 ---
-
 Take a stroll along Telok Ayer Street, and you will come across a church, a mosque, two temples and an Indian Muslim heritage centre that used to be a shrine.
  
 More than beautiful sights, the neighbourly co-existence of these places of worship paints a picture of religious diversity and harmony in Singapore.
@@ -63,3 +62,4 @@ Though Singapore does not boast a long history, it has become a place where cult
 * [Islam](https://www.ircc.sg/resources/religion/islam)
 * [Jainism](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)

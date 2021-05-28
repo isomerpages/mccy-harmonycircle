@@ -5,7 +5,7 @@ permalink: /resources/religion/jainism
 ---
 ### Upholding Non-Violence, Compassion and Respect
 
-Jainism may be an ancient religion, but its ideas and values may just be the answer to a modern world fraught with problems such as climate change and political tension.
+Jainism may be an ancient religion, but its ideas and values are timeless responses to a modern world fraught with problems such as climate change and political tension.
 
 At the core of the faith are the virtues of non-violence, compassion and respect for all living beings – from humans right down to plants and microorganisms.
 
@@ -70,3 +70,4 @@ The occasion sees Jains gathering to sing Lord Mahavir’s praises and retell th
 * [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
 * [Islam](https://www.ircc.sg/resources/religion/islam)
 * [Judaism](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)

@@ -51,3 +51,4 @@ The Maulud is also commonly held throughout the year in conjunction with birthda
 * [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
 * [Jainism](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism](https://www.ircc.sg/resources/religion/judaisim)
+* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)

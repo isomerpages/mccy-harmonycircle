@@ -83,3 +83,4 @@ Jews celebrate Passover for 8 days (in the diaspora) and join in the Seder night
 * [Bahá’í Faith](https://www.ircc.sg/resources/religion/bahai-faith) 
 * [Islam](https://www.ircc.sg/resources/religion/islam)
 * [Jainism](https://www.ircc.sg/resources/religion/jainism)
+* [Sikhism](https://www.ircc.sg/resources/religion/sikhism)
