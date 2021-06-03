@@ -24,3 +24,47 @@ To overcome the lure of duality, Hindus need to discern what is good and pursue 
  
 Hinduism is practised by 6.5% of the population in Singapore, according to a census conducted in 2015.
 
+Hindus can worship at 24 temples here, each housing a presiding god, along with several other deities. Some Hindus also have altars for deities at home.
+ 
+These deities help followers to gain a better understanding of the invisible Brahman, whose attributes they have been created with. 
+ 
+For example, the Trinity of gods – Brahma, the creator of worlds; Vishnu, the preserver of worlds; and Shiva, the dissolution of worlds – enable believers to grasp the concepts of creation, sustenance and dissolution respectively. Brahma, Vishnu, Shiva and their incarnations thus become the subjects of Hindu worship. 
+ 
+An act of devotion commonly performed is the chanting of mantras, which are sounds or groups of words that are believed to be capable of creating transformations when uttered with true understanding and devotion. This chanting is often performed alongside other rituals.
+ 
+One of the most important rituals in the Hindu faith is the aarti. It involves the offering of light from wicks soaked in ghee, which represents one of the five cosmic elements – fire. In a typical worship session, aarti lamps are circulated around a deity while devotees sing songs of praise. The lamp is then passed around to those present so they can receive blessings. 
+ 
+Besides light, other articles are offered, including a conch, representing the element of water; flowers, symbolising earth; cloth, pointing to space; and a whisk made of yak hair, signifying air.
+ 
+Some Hindus also wear a mark on the forehead called a tilaka as a statement of worship. The tilaka symbolises the third eye, pointing to the idea of meditation and spiritual enlightenment.
+ 
+### Major Events In The Hindu Calendar
+ 
+Hindus also worship through the observance of festivals such as Deepavali, Pongal and Thaipusam.
+ 
+Deepavali
+ 
+Deepavali, also known as the Festival of Lights, celebrates the triumph of good over evil. 
+Lamps are lit to represent illumination and the elimination of darkness, which signifies ignorance. 
+ 
+To prepare for the festival, Hindu families spring-clean their homes and make snacks to create a festive mood.
+ 
+On Deepavali, Hindus generally begin their day by donning new clothes, usually bright-coloured traditional Indian attire. They then go to the temple to offer their prayers, before visiting family and friends to celebrate the occasion together.
+ 
+In the evening, doorways are decorated with clay lamps called diyas. Rangolis – beautiful patterns made from coloured rice powder – are drawn on the floor to welcome auspiciousness into the home. 
+ 
+Pongal
+ 
+Pongal is an agrarian festival that was instituted from ancient times. 
+ 
+Congruent with its name, which means “boil over” or “flourish”, the main highlight of Pongal is boiling milk, newly harvested rice and jaggery in a clay pot over a stove till the mixture overflows. The resultant pudding is distributed to family, friends and offered to deities as well.
+ 
+Pongal festivities usually span four days. The first two days are dedicated to Lord Indra, who gives rain and agricultural success, and the sun god Surya. The third day puts the spotlight on the cattle, while the fourth is when family and friends gather.
+ 
+Thaipusam
+ 
+Come Thaipusam, processions of bare-footed devotees carrying the kavadi, a wooden structure consisting of an arch across a horizontal pole and decorated with peacock feathers, catch the public’s eye. Joining in, too, are devotees carrying milk pots on their heads.
+
+Thaipusam is a thanksgiving festival dedicated to Lord Murugan, who symbolises bravery, power and virtue. Going through the sacrificial ritual is how devotees show their gratitude to him after having their wishes granted.
+
+![Thaipusam procession in Singapore](/images/religion/thaipusam-in-singapore.jpg)
