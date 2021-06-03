@@ -40,7 +40,7 @@ Besides light, other articles are offered, including a conch, representing the e
  
 Some Hindus also wear a mark on the forehead called a tilaka as a statement of worship. The tilaka symbolises the third eye, pointing to the idea of meditation and spiritual enlightenment.
  
-### Major Events In The Hindu Calendar
+### Major Events in the Hindu Calendar
  
 Hindus also worship through the observance of festivals such as Deepavali, Pongal and Thaipusam.
  
@@ -70,3 +70,11 @@ Come Thaipusam, processions of bare-footed devotees carrying the kavadi, a woode
 Thaipusam is a thanksgiving festival dedicated to Lord Murugan, who symbolises bravery, power and virtue. Going through the sacrificial ritual is how devotees show their gratitude to him after having their wishes granted.
 
 ![Thaipusam procession in Singapore](/images/religion/thaipusam-in-singapore.jpg)
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
