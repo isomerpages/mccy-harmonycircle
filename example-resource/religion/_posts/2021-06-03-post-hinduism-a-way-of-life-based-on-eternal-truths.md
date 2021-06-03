@@ -24,6 +24,8 @@ To overcome the lure of duality, Hindus need to discern what is good and pursue 
  
 Hinduism is practised by 6.5% of the population in Singapore, according to a census conducted in 2015.
 
+![Hindus praying at a temple in Singapore](/images/religion/hindus-praying-at-temple.jpg)
+
 Hindus can worship at 24 temples here, each housing a presiding god, along with several other deities. Some Hindus also have altars for deities at home.
  
 These deities help followers to gain a better understanding of the invisible Brahman, whose attributes they have been created with. 
@@ -42,7 +44,7 @@ Some Hindus also wear a mark on the forehead called a tilaka as a statement of w
  
 Hindus also worship through the observance of festivals such as Deepavali, Pongal and Thaipusam.
  
-Deepavali
+**Deepavali**
  
 Deepavali, also known as the Festival of Lights, celebrates the triumph of good over evil. 
 Lamps are lit to represent illumination and the elimination of darkness, which signifies ignorance. 
@@ -53,7 +55,7 @@ On Deepavali, Hindus generally begin their day by donning new clothes, usually b
  
 In the evening, doorways are decorated with clay lamps called diyas. Rangolis – beautiful patterns made from coloured rice powder – are drawn on the floor to welcome auspiciousness into the home. 
  
-Pongal
+**Pongal**
  
 Pongal is an agrarian festival that was instituted from ancient times. 
  
@@ -61,7 +63,7 @@ Congruent with its name, which means “boil over” or “flourish”, the main
  
 Pongal festivities usually span four days. The first two days are dedicated to Lord Indra, who gives rain and agricultural success, and the sun god Surya. The third day puts the spotlight on the cattle, while the fourth is when family and friends gather.
  
-Thaipusam
+**Thaipusam**
  
 Come Thaipusam, processions of bare-footed devotees carrying the kavadi, a wooden structure consisting of an arch across a horizontal pole and decorated with peacock feathers, catch the public’s eye. Joining in, too, are devotees carrying milk pots on their heads.
 
