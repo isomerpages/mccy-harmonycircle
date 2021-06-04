@@ -15,7 +15,7 @@ colors:
       color: "#744d9f"
     - title: media-color-five
       color: "#FF6900"
-resources_name: example-resource
+resources_name: resources
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
