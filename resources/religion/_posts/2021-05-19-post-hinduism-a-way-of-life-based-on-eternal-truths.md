@@ -4,7 +4,6 @@ date: 2021-05-19
 permalink: /resources/religion/hinduism
 layout: post
 ---
-
 Hinduism is one of the oldest religions in the world, but it may be more accurate to call it a way of life. 
  
 Unlike other religions, Hinduism does not have a specific founder. Neither did it originate from a particular period of human history. Rather, it is a combination of philosophies, beliefs and practices that are recorded in ancient scriptures called the Vedas, meaning “knowledge”. 
@@ -23,7 +22,7 @@ To overcome the lure of duality, Hindus need to discern what is good and pursue 
  
 ### Hinduism In Practice
  
-Hinduism is practised by 6.5% of the population in Singapore, according to a census conducted in 2015.
+Hinduism is practised by 5% of the population in Singapore, according to a census conducted in 2020.
 
 ![Hindus praying at a temple in Singapore](/images/religion/hindus-praying-at-temple.jpg)
 
@@ -79,3 +78,4 @@ Thaipusam is a thanksgiving festival dedicated to Lord Murugan, who symbolises b
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
 * [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
