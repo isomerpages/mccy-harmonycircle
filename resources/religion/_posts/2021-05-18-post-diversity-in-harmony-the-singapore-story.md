@@ -20,7 +20,7 @@ Drawn to the opportunities created by Sir Stamford Raffles’ decision to set up
  
 Putting down roots in this foreign land, the newcomers went on to build places of worship so that they could come together to express their faiths within their communities. These early-day efforts paved the way for the making of a multi-religious Singapore.
  
-Today, many religions are registered here, ranging from Buddhism to Christianity, Hinduism, [Islam](https://www.ircc.sg/resources/religion/islam), Taoism, [Baha’i Faith](https://www.ircc.sg/resources/religion/bahai-faith), [Jainism](https://www.ircc.sg/resources/religion/jainism), [Judaism](https://www.ircc.sg/resources/religion/judaism), [Sikhism](https://www.ircc.sg/resources/religion/sikhism) and Zoroastrianism. Buddhism has the biggest following, with 33.2% of the population declaring that they are adherents of the faith in a 2015 census.
+Today, many religions are registered here, ranging from Buddhism to Christianity, [Hinduism](https://www.ircc.sg/resources/religion/hinduism), [Islam](https://www.ircc.sg/resources/religion/islam), [Taoism](https://www.ircc.sg/resources/religion/taoism), [Baha’i Faith](https://www.ircc.sg/resources/religion/bahai-faith), [Jainism](https://www.ircc.sg/resources/religion/jainism), [Judaism](https://www.ircc.sg/resources/religion/judaism), [Sikhism](https://www.ircc.sg/resources/religion/sikhism) and Zoroastrianism. Buddhism has the biggest following, with 31.1% of the population declaring that they are adherents of the faith in a 2020 census.
  
 ### Religious Freedom and Harmony Go Hand In Hand
  
@@ -65,3 +65,4 @@ Though Singapore does not boast a long history, it has become a place where cult
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
 * [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
