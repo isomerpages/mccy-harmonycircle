@@ -53,3 +53,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 facebook-pixel: "267576805065895"
+google_analytics: UA-47362268-1
