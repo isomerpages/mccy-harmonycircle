@@ -84,3 +84,4 @@ Jews celebrate Passover for 8 days (in the diaspora) and join in the Seder night
 * [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
