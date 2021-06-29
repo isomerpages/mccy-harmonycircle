@@ -33,7 +33,7 @@ Any Sikh, whether male or female, can lead in the prayer service and the recitat
  
 **Three Golden Rules and “Five Thieves”**
  
-Guru Nanak Dev Ji also emphasized three core principles that Sikhs around the world today aspire to adhere to. 
+Guru Nanak Dev Ji also emphasised three core principles that Sikhs around the world today aspire to adhere to. 
  
 The first is to meditate on or always remember God’s name, through devotional practices such as praying, singing of praises and studying the holy scriptures, which provides guidance on how to live in this world.
  
@@ -76,3 +76,4 @@ Besides these, every year Sikhs also celebrate the Parkash Dihara (birth anniver
 * [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
