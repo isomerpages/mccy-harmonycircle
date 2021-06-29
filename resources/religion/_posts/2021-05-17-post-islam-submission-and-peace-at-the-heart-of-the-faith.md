@@ -54,3 +54,4 @@ The Maulud is also commonly held throughout the year in conjunction with birthda
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
 * [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
