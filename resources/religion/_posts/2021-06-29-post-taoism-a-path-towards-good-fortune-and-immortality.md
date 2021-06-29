@@ -68,3 +68,11 @@ It begins with the raising of the jiu qu deng, an oil lamp with nine wicks, to i
 During the festival, worshippers visit temples with offerings to ask the Nine Emperor Gods to bless them with wealth and longevity.
  
 The festival ends with the urn being brought in a procession back to where the Nine Emperor Gods first arrived. The jiu qu deng is lowered the next day.
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
