@@ -2,11 +2,11 @@ logo: /images/IRCC Logo.png
 links:
   - title: Who We Are
     collection: who-we-are
+  - title: SGinHarmony
+    collection: sginharmony
   - title: Get Involved
     collection: get-involved
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: SGinHarmony
-    collection: sginharmony
