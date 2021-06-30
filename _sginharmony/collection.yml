@@ -2,5 +2,5 @@ collections:
   sginharmony:
     output: true
     order:
-      - example-page/.keep
-      - example-page/example-subpage.md
+      - about-sginharmony/.keep
+      - about-sginharmony/example-subpage.md
