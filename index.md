@@ -12,12 +12,18 @@ sections:
         of trust that unite people regardless of race or religion.
       background: /images/pledge-commitment-religious-leaders.jpg
       key_highlights:
+        - title: "SGinHarmony: Converse"
+          description: Participate in dialogues
+          url: https://www.ircc.sg/sginharmony/converse
+        - title: "SGinHarmony: Experience"
+          description: Explore activities
+          url: https://www.ircc.sg/sginharmony/experience
+        - title: "SGinHarmony: Take Action"
+          description: Join an activity
+          url: https://www.ircc.sg/sginharmony/take-action
         - title: Commitment
           description: Safeguard religious harmony
           url: https://www.ircc.sg/commitment-to-safeguard-religious-harmony/
-        - title: Religious Organisations
-          description: Pledge your commitment
-          url: https://www.ircc.sg/get-involved/pledge-your-commitment
       title: Many Beliefs, One Future
   - resources:
       title: Resources

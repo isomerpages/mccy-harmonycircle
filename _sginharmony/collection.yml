@@ -1,0 +1,8 @@
+collections:
+  sginharmony:
+    output: true
+    order:
+      - about-sginharmony.md
+      - converse.md
+      - experience.md
+      - take-action.md
