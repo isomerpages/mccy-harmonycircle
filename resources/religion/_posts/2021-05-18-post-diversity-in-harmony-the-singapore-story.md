@@ -36,7 +36,7 @@ For example, mosques lower the volume of their loudspeakers when broadcasting th
  
 Through give and take, religious groups in Singapore have gone beyond co-existing in peaceful harmony, to be on friendly terms with each other – even extending goodwill.
  
-In one of many instances of <a href=" https://www.straitstimes.com/singapore/multi-religious-cooperation-bukit-batok-temples-keep-tentage-erected-for-muslim" target="_blank">inter-faith kindness</a>, two Taoist temples, Lian Sheng Tan and Shan Fu Gong, shared the tentage set up for their separate Hungry Ghost Festival events with their neighbour, Masjid Ar-Raudhah mosque, so that about 1,000 congregants can be sheltered for Hari Raya Haji prayers.
+In one of many instances of <a href="https://www.straitstimes.com/singapore/multi-religious-cooperation-bukit-batok-temples-keep-tentage-erected-for-muslim" target="_blank">inter-faith kindness</a>, two Taoist temples, Lian Sheng Tan and Shan Fu Gong, shared the tentage set up for their separate Hungry Ghost Festival events with their neighbour, Masjid Ar-Raudhah mosque, so that about 1,000 congregants can be sheltered for Hari Raya Haji prayers.
  
 ### The More We Get Together…
  
