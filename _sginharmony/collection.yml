@@ -1,6 +1,4 @@
 collections:
   sginharmony:
     output: true
-    order:
-      - about-sginharmony/.keep
-      - about-sginharmony/example-subpage.md
+    order: []
