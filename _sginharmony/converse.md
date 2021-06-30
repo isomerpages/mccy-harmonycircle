@@ -1,7 +1,8 @@
 ---
 title: Converse
-permalink: /converse
+permalink: /sginharmony/converse
 ---
+
 
 ### Being Community
 ***By Being Bridges***
