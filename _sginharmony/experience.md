@@ -1,7 +1,8 @@
 ---
 title: Experience
-permalink: /experience
+permalink: /sginharmony/experience
 ---
+
 
 ### Night Walker 2021
 ***By RuanAtWorkz Musical Arts***
