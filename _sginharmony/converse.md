@@ -13,6 +13,12 @@ Join a series of online conversations on racial and religious discrimination and
 
 Conversations for Awareness on Religion and the Environment, is a series of dialogues to discuss religion and climate change across different disciplinaries and intersections to inspire care for the environment. An expert panel represented by the religious leaders and environmental activist will almagamate religious values and scientific understanding onto the environmental crisis, to inspire care for the environment. At the end of each dialogue, participants can sign up as volunteers onto existing programmes or join groups that deal with environmental concerns, and further pitch ideas! <a href="http://icbuddhism.org/" target="_blank">Find out more</a>.
 
+### hash.peace Conversational Series 2021
+***By hash.peace***
+
+![Alt text for image on Isomer site](/images/sginharmony/hashpeace.jpeg)
+The hash.peace Conversation Series takes a critical look at the many facets in which inter-racial and inter-religious issues affect society. Through three themes, participants will strengthen their cultural knowledge by learning more about the various communities in Singapore, and explore critical questions of our racial-religious harmony. Conversations would include how racial issues affect our mental well-being, or how companies could enable and encourage racial/religious diversity initiatives at the workplace. Ideas and solutions from these conversations will be presented at a closing dialogue to showcase how we can work towards building sustainable social harmony. <a href="https://www.hashpeace.com/" target="_blank">Find out more</a>.
+
 ### Scriptural Reasoning
 ***By Interfaith Youth Circle***
 
