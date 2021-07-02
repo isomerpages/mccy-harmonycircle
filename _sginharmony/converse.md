@@ -18,3 +18,9 @@ Conversations for Awareness on Religion and the Environment, is a series of dial
 
 ![Interfaith Youth Circle](/images/sginharmony/Interfaith-Youth-Circle.jpg)
 Wonder how other faith traditions view different contemporary issues of environment, helping the vulnerable and others? Don’t miss the intimate gatherings at Scriptural Reasoning that invite participants of different faiths to read and reflect on passages from their religious scriptures across common themes. Be engaged in meaningful dialogue in a safe space for deeper understanding and appreciation of different religions. <a href="https://www.interfaithyouthcircle.com/" target="_blank">Find out more</a>.
+
+### hash.peace Conversational Series 2021
+***By hash.peace***
+
+![Alt text for image on Isomer site](/images/sginharmony/hashpeace.jpeg)
+The hash.peace Conversation Series takes a critical look at the many facets in which inter-racial and inter-religious issues affect society. Through three themes, participants will strengthen their cultural knowledge by learning more about the various communities in Singapore, and explore critical questions of our racial-religious harmony. Conversations would include how racial issues affect our mental well-being, or how companies could enable and encourage racial/religious diversity initiatives at the workplace. Ideas and solutions from these conversations will be presented at a closing dialogue to showcase how we can work towards building sustainable social harmony. <a href="https://www.hashpeace.com/" target="_blank">Find out more</a>.
