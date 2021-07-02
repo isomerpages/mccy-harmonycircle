@@ -10,7 +10,7 @@ sections:
   - hero:
       subtitle: The Inter-Racial and Religious Confidence Circle aims to be networks
         of trust that unite people regardless of race or religion.
-      background: /images/Family-Bakin-RHfamily-1077-Edit-1-grey.jpg
+      background: /images/Family-Story-Telling_RHfamily-860.jpg
       key_highlights:
         - title: "SGinHarmony: Converse"
           description: Participate in dialogues
