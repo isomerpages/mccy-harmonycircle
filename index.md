@@ -10,7 +10,7 @@ sections:
   - hero:
       subtitle: The Inter-Racial and Religious Confidence Circle aims to be networks
         of trust that unite people regardless of race or religion.
-      background: /images/Test1.png
+      background: /images/Test2.png
       key_highlights:
         - title: Commitment
           description: Safeguard religious harmony
