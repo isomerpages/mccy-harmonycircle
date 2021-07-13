@@ -13,6 +13,12 @@ Join a series of online conversations on racial and religious discrimination and
 
 Conversations for Awareness on Religion and the Environment, is a series of dialogues to discuss religion and climate change across different disciplinaries and intersections to inspire care for the environment. An expert panel represented by the religious leaders and environmental activist will almagamate religious values and scientific understanding onto the environmental crisis, to inspire care for the environment. At the end of each dialogue, participants can sign up as volunteers onto existing programmes or join groups that deal with environmental concerns, and further pitch ideas! <a href="http://icbuddhism.org/" target="_blank">Find out more</a>.
 
+### HarmonyWorks! Conference 2021
+***By OnePeople.sg***
+
+![Alt text for image on Isomer site](/images/sginharmony/HWC.jpg)
+Themed "Confronting the Uncomfortable, Embracing OUR Differences", this year's dialogue focuses on how participants could play a role in advocating for change, and steps they can take to build an environment of racial and religious understanding. Keep a lookout for post-dialogue updates on their Facebook page!   <a href="https://www.facebook.com/OnePeople.sg" target="_blank">Find out more</a>.
+
 ### hash.peace Conversational Series 2021
 ***By hash.peace***
 
