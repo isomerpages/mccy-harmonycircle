@@ -15,8 +15,8 @@ Conversations for Awareness on Religion and the Environment, is a series of dial
 
 ### HarmonyWorks! Conference 2021
 ***By OnePeople.sg***
-![Alt text for image on Isomer site](/images/sginharmony/HWC.jpg)
 
+![Alt text for image on Isomer site](/images/sginharmony/HWC.jpg)
 Themed "Confronting the Uncomfortable, Embracing OUR Differences", this year's dialogue focuses on how participants could play a role in advocating for change, and steps they can take to build and environment of racial and religious understanding. Keep a lookout for post-dialogue updates on their Facebook page!   <a href="https://www.facebook.com/OnePeople.sg" target="_blank">Find out more</a>.
 
 ### hash.peace Conversational Series 2021
