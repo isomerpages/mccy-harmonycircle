@@ -12,3 +12,4 @@ Watch theatrical recital “Night Walker”  to experience the intersection of f
 ***By Singapore’s Sikh community and the Indian Heritage Centre***
 
 ![Alt text for image on Isomer site](/images/sginharmony/SikhExhibition.JPG)
+Between 27 March to 30 September 2021, visit the Sikhs in Singapore - A Story Untold Exhibition held at the Indian Heritage Centre to gain a deeper understanding of Sikhism through lesser-known stories on its beginnings, as well as the contributions made by Sikhs in Singapore for our beloved nation. You may even arrange a screening session to watch the full film of the Sikh Road, a documentary on the history of Sikhism, together with present experiences of the Sikh Community, and their future aspirations.  <a href="https://www.indianheritage.gov.sg/en/whats-on/exhibitions/detail/sikhs-in-singapore-a-story-untold" target="_blank">Find out more</a>. 
