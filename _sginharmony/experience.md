@@ -11,8 +11,8 @@ Enjoy a day at the Asian Civilisations Museum, where visitors can marvel at stun
 ### Night Walker 2021
 ***By RuanAtWorkz Musical Arts***
 
-![Night Walker Performance](/images/sginharmony/Night-Walker.jpg)
-Watch theatrical recital “Night Walker”  to experience the intersection of five musical elements – Indian classical dance Bharatanatyam, Chinese musical instrument Ruan, electronic music, contemporary dance, and traditional Chinese time-keeping method. Follow a troubled composer, a curious night elf and a tireless sound designer on their journey through five cultural experiences and the evolution of the Ruan. <a href="https://www.ruanatworkz.com/" target="_blank">Find out more</a>.
+![Alt text for image on Isomer site](/images/sginharmony/Nightwalker1.png)
+Dedicated to Racial Harmony Day 2021, Night Walker The Album brings you on an immersive journey through the five stages of the night. Open your mind, cast away the norms, and let your imagination run wild. Hear the ruan like you never heard before and feel the music as it tickles you throughout the night. <a href="https://www.ruanatworkz.com/nightwalkerthealbum" target="_blank">Find out more</a>.
 
 ### Sikhs in Singapore - A Story Untold Exhibition
 ***By Singapore’s Sikh community and the Indian Heritage Centre***
