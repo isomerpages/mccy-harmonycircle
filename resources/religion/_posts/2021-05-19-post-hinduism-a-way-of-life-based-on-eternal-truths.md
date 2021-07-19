@@ -20,7 +20,7 @@ In Hinduism, the purpose of life is to recognise the essential oneness of existe
  
 To overcome the lure of duality, Hindus need to discern what is good and pursue it according to their *dharma*, or duty. The action involved in this pursuit is their *karma*. The more dutifully they perform their *karma* in accordance with their *dharma*, the closer they get to attaining enlightenment.
  
-### Hinduism In Practice
+### Hinduism in Practice
  
 Hinduism is practised by 5% of the population in Singapore, according to a census conducted in 2020.
 
