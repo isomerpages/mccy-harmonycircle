@@ -20,7 +20,7 @@ Muslims believe that God is One and guidance has been imparted by God through hi
  
 Muslims believe in the 6 articles of faith in which one of the articles is to believe in the prophets and messengers sent by God to the different communities. Muslims look to all prophets mentioned in the Quran including Prophet Muhammad and his life as an esteemed point of reference to emulate and learn from. One of the core messages of the prophecy is to perfect good character as exemplified in a prophetic saying (Hadith) “I was sent to perfect good character.”
  
-### Islam In Practice
+### Islam in Practice
  
 Muslims follow five core practices, which include: 
 1.  Profession of faith in the Oneness of God. 
@@ -33,7 +33,7 @@ Muslims eat only *halal* meat, meaning lawful or permissible. Permissible here m
 
 ![Muslims praying together](/images/religion/muslims-praying-muis.jpg)
  
-### Major Events
+### Major Events in the Islamic Calendar
  
 There are many major events in the Islamic calendar. The main events that are generally celebrated are Hari Raya Puasa, Hari Raya Haji and the commemoration of Prophet Muhammad’s (Peace be upon him) birthday. 
  
