@@ -12,7 +12,7 @@ It gained widespread recognition from the advocacy of *Lao Tzu*, an ancient Chin
  
 The symbol of Taoism is the *Tai Ji*, which represents opposing energy forces – *yin and yang* – counterbalancing each other to achieve true harmony and unity.
  
-### Key Tenets Of Taoism
+### Key Tenets of Taoism
  
 In Taoism, everything revolves around the *Dao*. Followers are to learn the *Dao*, cultivate the *Dao* and practise the *Dao*. 
  
@@ -20,7 +20,7 @@ Translated directly from the Chinese word, *Dao* means “path” or “way”. 
  
 Because it is everlasting, Taoists believe that when they achieve the *Dao*, they will not only be able to lead a life of good fortune on earth, but also live on eternally in the heavenly realms, achieving immortality.  
  
-### Taoism In Practice
+### Taoism in Practice
  
 Although the *Dao* cannot be seen, heard or touched, it manifests itself in the form of deities, such as the Three Pristine Ones, the Jade Emperor and the Golden Mother of the Jasper Lake.
  
@@ -71,9 +71,12 @@ The festival ends with the urn being brought in a procession back to where the N
 
 #### Related Content
 * [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith) 
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
 * [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
 * [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
 * [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
 * [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
 * [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
