@@ -90,3 +90,15 @@ Much of the day revolves around performing good deeds, such as giving financiall
 In the evening, candlelight processions are held, and the ceremony of “three-step, one-bow” is practised at some monasteries.
 
 <sup>1</sup> *Based on a 2020 census.*
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
