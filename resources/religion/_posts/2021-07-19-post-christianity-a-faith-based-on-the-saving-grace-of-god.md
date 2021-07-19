@@ -17,7 +17,7 @@ By reading the holy book, Christians get a better understanding of God’s relat
 ![A cross displayed at the altar in a church](/images/religion/Altar-Saint-Andrews-Cathedral-Singapore.jpg)
 *A cross displayed at the altar in a church*
  
-### Key Tenets Of Christianity
+### Key Tenets of Christianity
  
 Christians believe there are three divine persons in the one true and living God – the Father, the Son and the Holy Spirit, known as the Holy Trinity. 
  
@@ -27,7 +27,7 @@ Christians believe that they can receive salvation through faith in Jesus Christ
  
 Having believed in Jesus, Christians enjoy spiritual communion with God on earth, and look forward to  the physical return of Jesus, their resurrection from the dead, and life with God in the new heavens and new earth.
  
-### Christianity In Practice
+### Christianity in Practice
  
 In Singapore, Christians make up 18.9% of the population, according to a 2020 census. Followers of Christianity identify themselves with different groups – Catholic, Orthodox and Protestant. Protestant Christianity is further distinguished into various denominations such as Anglican, Methodist and Presbyterian. 
  
