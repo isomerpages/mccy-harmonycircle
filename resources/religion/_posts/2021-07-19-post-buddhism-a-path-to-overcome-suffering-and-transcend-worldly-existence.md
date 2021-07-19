@@ -72,7 +72,7 @@ Lay-Buddhists also follow a code of ethics known as the Five Precepts – a call
  
 As a nod to the first precept of not taking life, some Buddhists are vegetarians while others adopt a vegetarian diet on the first and fifteenth day of each lunar month.
 
-### The Most Important Event In The Buddhist Calendar
+### The Most Important Event in the Buddhist Calendar
  
 Buddhism has the largest following among all the religions in Singapore, with 31.1%<sup>1</sup> of the population professing to be Buddhists. 
 
@@ -88,3 +88,5 @@ Devotees bring offerings of flowers, candles and joss sticks to the monastery, w
 Much of the day revolves around performing good deeds, such as giving financially to the monastery and the Sangha, supporting social welfare needs and donating blood.
  
 In the evening, candlelight processions are held, and the ceremony of “three-step, one-bow” is practised at some monasteries.
+
+<sup>1</sup> *Based on a 2020 census.*
