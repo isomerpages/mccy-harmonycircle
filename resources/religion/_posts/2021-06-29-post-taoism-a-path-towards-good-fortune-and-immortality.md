@@ -12,7 +12,7 @@ It gained widespread recognition from the advocacy of *Lao Tzu*, an ancient Chin
  
 The symbol of Taoism is the *Tai Ji*, which represents opposing energy forces – *yin and yang* – counterbalancing each other to achieve true harmony and unity.
  
-### Key Tenets Of Taoism
+### Key Tenets of Taoism
  
 In Taoism, everything revolves around the *Dao*. Followers are to learn the *Dao*, cultivate the *Dao* and practise the *Dao*. 
  
@@ -20,7 +20,7 @@ Translated directly from the Chinese word, *Dao* means “path” or “way”. 
  
 Because it is everlasting, Taoists believe that when they achieve the *Dao*, they will not only be able to lead a life of good fortune on earth, but also live on eternally in the heavenly realms, achieving immortality.  
  
-### Taoism In Practice
+### Taoism in Practice
  
 Although the *Dao* cannot be seen, heard or touched, it manifests itself in the form of deities, such as the Three Pristine Ones, the Jade Emperor and the Golden Mother of the Jasper Lake.
  
