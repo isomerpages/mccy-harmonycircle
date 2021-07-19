@@ -15,10 +15,9 @@ To Christians, the Bible is the Word of God. Even though human authors wrote the
 By reading the holy book, Christians get a better understanding of God’s relationship with humanity and receive godly instructions on Christian living.
  
 ![A cross displayed at the altar in a church](/images/religion/Altar-Saint-Andrews-Cathedral-Singapore.jpg)
-A cross displayed at the altar in a church
+*A cross displayed at the altar in a church*
  
- 
-Key Tenets Of Christianity
+### Key Tenets Of Christianity
  
 Christians believe there are three divine persons in the one true and living God – the Father, the Son and the Holy Spirit, known as the Holy Trinity. 
  
@@ -28,7 +27,7 @@ Christians believe that they can receive salvation through faith in Jesus Christ
  
 Having believed in Jesus, Christians enjoy spiritual communion with God on earth, and look forward to  the physical return of Jesus, their resurrection from the dead, and life with God in the new heavens and new earth.
  
-Christianity In Practice
+### Christianity In Practice
  
 In Singapore, Christians make up 18.9% of the population, according to a 2020 census. Followers of Christianity identify themselves with different groups – Catholic, Orthodox and Protestant. Protestant Christianity is further distinguished into various denominations such as Anglican, Methodist and Presbyterian. 
  
@@ -40,22 +39,22 @@ Communally, Christians attend a church service every week to worship God togethe
  
 In addition to church services, some Christians also gather for Bible study classes, prayer meetings or cell group meetings.
  
-Major Events In The Christian Calendar
+### Major Events in the Christian Calendar
  
 Christian celebrations revolve around Jesus – his birth, death and resurrection from the grave.
  
-Christmas
+**Christmas**
  
 Christmas is probably the most well-known festival in Christianity. On 25 December every year, Christians commemorate the birth of Jesus more than 2,000 years ago with much joy and celebration. From traditional Christmas services to nativity plays, evangelistic musicals and Christmas carolling, there are countless ways to spread the Christmas cheer. 
  
-Good Friday
+**Good Friday**
  
 Another important event in the Christian calendar is Good Friday, which marks the day Jesus died on the cross for the sins of humanity. Good Friday services are generally solemn and reflective in nature, as Christians remember the great sacrifice that Jesus made to save them from eternal spiritual death. 
  
 ![A candlelight procession commemorating Good Friday](/images/religion/Good-Friday-congregation-St-Josephs-Church-Singapore.jpg)
-A candlelight procession commemorating Good Friday 
+*A candlelight procession commemorating Good Friday* 
  
-Easter Sunday
+**Easter Sunday**
  
 The mood turns jubilant three days later on Easter Sunday, when Christians celebrate Jesus’ resurrection from the grave. 
  
