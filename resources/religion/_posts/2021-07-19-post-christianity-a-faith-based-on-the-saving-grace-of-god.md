@@ -61,3 +61,15 @@ The mood turns jubilant three days later on Easter Sunday, when Christians celeb
 According to the Bible, three days after Jesus’ crucifixion, some of his faithful followers went to his tomb to lay spices on his body. Upon arrival, they discovered that the huge stone that blocked the entrance of the tomb had been rolled away. Most importantly, Jesus’ body was not inside. He had risen from the dead!
  
 Jesus’ victory over death is a precursor of Christians’ resurrection from physical death to a perfect life in the new heavens and new earth in the presence of God. As such, Easter Sunday service is characterised by joyful singing, preaching about Jesus’ resurrection and the partaking of the Holy Communion.
+
+#### Related Content
+* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
