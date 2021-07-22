@@ -29,4 +29,4 @@ Between 27 March to 30 September 2021, visit the Sikhs in Singapore - A Story Un
 ***By Better.sg***
 
 ![Alt text for image on Isomer site](/images/sginharmony/TBY%20Promotional%20Key%20Visual.png)
-Have you ever wondered how it feels like to live the life of someone else from another community? Try out the newly launched To Be You interactive online game, developed by one of the winning teams from #MissionUnite Hackathon, Better.sg, which allows players to experience “life” as another person! Walk in the shoes of either Nadia, a Malay Muslim student, or Aman, a Punjabi Sikh Model, and discover the challenges and dilemmas they face while making their life choices!
+Have you ever wondered how it feels like to live the life of someone else from another community? Try out the newly launched To Be You interactive online game,  which allows players to experience “life” as another person! Walk in the shoes of either Nadia, a Malay Muslim student, or Aman, a Punjabi Sikh Model, and discover the challenges and dilemmas they face while making their life choices! <a href="https://game.tobeyou.sg" target="_blank">Find out more</a>.
