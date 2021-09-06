@@ -4,6 +4,8 @@ date: 2021-09-06
 permalink: /resources/culture/festivals-of-singapore
 layout: post
 ---
+![Firework display in downtown Singapore](/images/culture/firework-display-in-downtown-singapore.jpg)
+
 Living in a multicultural society, Singaporeans are no strangers to festivities observed and celebrated by different communities.
 
 From the annual River Hongbao with its towering God of Fortune to the bustling Geylang Serai Hari Raya Bazaar, colourful Little India, and vibrant Christmas light-up along Orchard Road, festivals are celebrated with much joy and fanfare throughout the year in Singapore.
