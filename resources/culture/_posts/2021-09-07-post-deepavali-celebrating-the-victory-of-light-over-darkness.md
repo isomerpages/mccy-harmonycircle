@@ -49,3 +49,9 @@ Every year, when the festival is round the corner, Little India shines brighter 
 In a visit to the Indian Heritage Centre, visitors can take part in Deepavali-themed activities such as rangoli-making workshops and cooking demonstrations. They can also take the chance to learn more about the festival through guided tours and special exhibitions.
 
 These community Deepavali events are eye-opening cultural experiences and help Singaporeans of all races to deepen their understanding of the festival.
+
+#### Related Content
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
