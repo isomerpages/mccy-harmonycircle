@@ -14,7 +14,7 @@ In fact, eight out of 10 public holidays in Singapore are set aside for major fe
 
 This is a reflection of our multicultural roots and a celebration of Singapore’s diversity.
 
-### Festivities that bring people together
+### Festivities that Bring People Together
 
 ![Multi-coloured lion dance display](/images/culture/lion-dance-heads-display.jpg)
 
@@ -26,7 +26,7 @@ People from all walks of life are drawn to the food and cultural sights at festi
 
 During Christmas, friends, colleagues, and family members of different faiths get together and enjoy one another’s company over food, gift-giving traditions, and Christmas carols.
 
-### From a shared history to a collective future
+### From a Shared History to a Collective Future
 
 Centuries ago, Singapore’s early immigrants had brought along their cultural and religious practices, including the celebration of festivals from their respective homelands to our shores. Today, we are used to living alongside others of different cultures, ethnicities, and beliefs — and even join in the celebrations.
 
@@ -40,7 +40,7 @@ School-going children also get to learn about Singapore’s many different festi
 
 Cultivating understanding between different ethnic groups from a young age paves the way for a united future.
 
-### Many festivals, one people
+### Many Festivals, One People
 
 ![Decorated streets at night in Little India Singapore](/images/culture/decorated-streets-in-little-india-singapore.jpg)
 
