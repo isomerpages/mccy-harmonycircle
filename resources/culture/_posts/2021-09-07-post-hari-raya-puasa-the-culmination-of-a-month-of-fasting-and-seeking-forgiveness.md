@@ -69,3 +69,9 @@ Another way to celebrate the festival is to take in the sights at the Geylang Se
 In 2021, Kampong Glam joined in the celebratory mood and started lighting up too, for the first time in more than 10 years.
 
 Open to all Singaporeans, twinkling shophouses in neon along the streets form a magical ambience on the heritage site. No matter your ethnicity or faith, you can celebrate the festival by taking in the sights and the breathtaking light projections on the façade of the Sultan Mosque!
+
+#### Related Content
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
