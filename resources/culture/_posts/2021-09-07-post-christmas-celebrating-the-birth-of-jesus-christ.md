@@ -40,7 +40,7 @@ On Christmas, Christians usually attend a special service. The singing of worshi
 Another Christmas service that is sometimes held is the midnight service on the eve of Christmas. Although there is no mention of it in the Bible, the tradition is believed to have started to honour Jesus’ birth with a night vigil, lit candles, and carolling.
 
 **Gathering with Family**
-![Family having a Christmas meal](/images/culture/family-enjoying-a-christmas-meal.jpg)
+![Family having a Christmas meal](/images/culture/family-having-a-christmas-meal.jpg)
 
 Christmas is a time when family and friends get together for a Christmas feast. While everyone has their personal favourites, a traditional meal usually includes a turkey filled with stuffing, ham, roast beef, and mashed potatoes. After stomachs are filled, gifts are exchanged.
 
