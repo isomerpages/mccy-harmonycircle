@@ -1,9 +1,10 @@
 ---
 title: "The Festivals of Singapore: A Beautiful Tapestry of Cultures"
 date: 2021-09-06
-permalink: /resources/culture/festivals-of-singapore
+permalink: /resources/culture/singapore-festivals
 layout: post
 ---
+
 ![Firework display in downtown Singapore](/images/culture/firework-display-in-downtown-singapore.jpg)
 
 Living in a multicultural society, Singaporeans are no strangers to festivities observed and celebrated by different communities.
