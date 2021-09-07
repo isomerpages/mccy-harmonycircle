@@ -30,7 +30,7 @@ During Christmas, friends, colleagues, and family members of different faiths ge
 
 Centuries ago, Singapore’s early immigrants had brought along their cultural and religious practices, including the celebration of festivals from their respective homelands to our shores. Today, we are used to living alongside others of different cultures, ethnicities, and beliefs — and even join in the celebrations.
 
-Building on this spirit of unity, organisations, ranging from statutory boards such as respective cultural centres to inter-faith platforms like the Inter-Racial and Religious Confidence Circle (IRCC), carry out various events during major festivals. The aim is to enable the public to better understand other traditions and practices that may not be familiar to them.
+Building on this spirit of unity, organisations, ranging from statutory boards such as respective cultural centres to inter-faith platforms like the [Inter-Racial and Religious Confidence Circle (IRCC)](https://www.ircc.sg/), carry out various events during major festivals. The aim is to enable the public to better understand other traditions and practices that may not be familiar to them.
 
 The Malay Heritage Centre, for example, holds an annual open house during Hari Raya Puasa, inviting the public for a weekend of celebrations that involve Malay cultural performances, craft activities, and exhibition tours. The Sun Yat Sen Nanyang Memorial Hall welcomes visitors young and old to take part in lantern-making workshops and night walks during the Mid-Autumn Lantern Festival.
 
