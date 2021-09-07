@@ -59,3 +59,9 @@ One highlight is the annual Chinese New Year Bazaar in Chinatown. Every year, it
 Another highlight is the River Hongbao. Started in 1987, this annual event has become a must do tradition for locals and tourists. Visitors are treated to a showcase of cultural display and performances from local and international talents.
 
 Lastly, the evening-to-night Chingay Parade is a uniquely Singaporean tradition and is usually held on the second week of the Chinese New Year. Celebrated by Singaporeans of different races, audiences can expect a marvel of dazzling floats, dragon dance and lively multi-ethnic performances.
+
+#### Related Content
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
