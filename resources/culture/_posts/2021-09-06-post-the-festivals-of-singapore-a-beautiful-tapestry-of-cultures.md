@@ -4,7 +4,6 @@ date: 2021-09-06
 permalink: /resources/culture/singapore-festivals
 layout: post
 ---
-
 ![Firework display in downtown Singapore](/images/culture/firework-display-in-downtown-singapore.jpg)
 
 Living in a multicultural society, Singaporeans are no strangers to festivities observed and celebrated by different communities.
@@ -50,3 +49,9 @@ The many colourful festivals celebrated in Singapore are an expression of the pe
 Each celebration is an opportunity to learn about our heritage, enrich the local culture, and strengthen our multicultural roots. Singaporeans can take small steps in deepening our understanding of one another’s cultures, which could start with a simple greeting to a fellow neighbour, or an invitation to a meal during celebrations.
 
 Even though the festivals commemorate different things and the rituals associated with them are vastly different, common threads such as reunion, traditional cuisine, well-wishing, and piety run through them. And these are values that everyone, regardless of ethnicity, culture and religion, can understand and relate to.
+
+#### Related Content
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
