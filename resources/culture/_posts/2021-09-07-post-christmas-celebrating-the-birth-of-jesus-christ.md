@@ -49,3 +49,9 @@ Christmas is a time when family and friends get together for a Christmas feast. 
 Christmas is a public holiday in Singapore. You can tell that the festive season is round the corner with people shopping for gifts and putting up decorations in offices, homes as well as outdoors. It is also during this time that the shopping belt on Orchard Road is adorned with enchanting ornaments and dazzling lights. Started in 1984, the Orchard Road Christmas Light-up has become an annual tradition, attracting visitors and tourists.
 
 The festive season is celebrated by Christians and non-Christians of different races with myriads of festive events, get-togethers, and feasting.
+
+#### Related Content
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
