@@ -48,7 +48,7 @@ While much emphasis is placed on the start of the Chinese New Year, the last day
 
 On this day, glutinous rice flour balls, also known as tangyuan (汤圆) are eaten. The round shape and pronunciation of tangyuan (tuan tuan yuan yuan 团团圆圆) symbolise wholeness and togetherness of the family, which is why it is also served on other festive occasions such as Winter Solstice.
 
-### Celebrating As a Nation
+### Celebrating as a Nation
 
 In Singapore, the first and second days of Chinese New Year are public holidays. This gives the Chinese community the time and opportunity to celebrate with their families and friends.
 
