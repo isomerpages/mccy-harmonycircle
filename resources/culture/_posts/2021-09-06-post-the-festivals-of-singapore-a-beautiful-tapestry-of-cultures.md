@@ -10,7 +10,7 @@ Living in a multicultural society, Singaporeans are no strangers to festivities 
 
 From the annual River Hongbao with its towering God of Fortune to the bustling Geylang Serai Hari Raya Bazaar, colourful Little India, and vibrant Christmas light-up along Orchard Road, festivals are celebrated with much joy and fanfare throughout the year in Singapore.
 
-In fact, eight out of 10 public holidays in Singapore are set aside for major festivals celebrated by the various ethnic and religious groups here. They include Chinese New Year, Christmas, Deepavali, and Hari Raya Puasa.
+In fact, eight out of 10 public holidays in Singapore are set aside for major festivals celebrated by the various ethnic and religious groups here. They include [Chinese New Year](https://www.ircc.sg/resources/culture/chinese-new-year), [Christmas](https://www.ircc.sg/resources/culture/christmas), [Deepavali](https://www.ircc.sg/resources/culture/deepavali), and [Hari Raya Puasa](https://www.ircc.sg/resources/culture/hari-raya-puasa).
 
 This is a reflection of our multicultural roots and a celebration of Singapore’s diversity.
 
