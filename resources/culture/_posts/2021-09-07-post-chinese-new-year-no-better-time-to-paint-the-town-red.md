@@ -4,6 +4,8 @@ date: 2021-09-07
 permalink: /resources/culture/chinese-new-year
 layout: post
 ---
+![Colourful Chinese Lion Paper Dolls](/images/culture/colourful-chinese-lion-paper-dolls.jpg)
+
 Chinese New Year is a 15-day celebration that starts on the first day of the Lunar calendar and ends on the fifteenth. Because of this, it is also known as Lunar New Year.
 
 Marked by lion dance performances with thunderous drum beats, the lighting of firecrackers and generous splashes of the colour red, Chinese New Year is traditionally celebrated in a roaring, vibrant manner. These practices find their roots in the ancient legend of the mythical beast called the Nian (年).
@@ -23,10 +25,12 @@ Before the term “decluttering” became trendy in recent times, there was spri
 When it comes to Chinese New Year goodies, there are some delights that have found their way into the hearts of many Singaporeans. A Chinese New Year celebration is hardly complete without feasting on pineapple tarts, love letters and barbecued pork slices (bak kwa). These snacks have significant meanings as well. Pineapple, also called Ong Lai in Hokkien means the “coming of fortune”. In olden times, love letters were used by lovers to communicate messages of affection and the consumption of this pastry would symbolise that the words are taken to heart. The red colour of bak kwa represents good luck. This explains why it is common to find them, alongside other flavourful goodies, in almost every home during the festival.
 
 **Gathering for Reunion Dinner**
+![Reunion Dinner](/images/culture/reunion-dinner.jpg)
 
 On the eve of Chinese New Year, families get together, also known as Tuan Yuan (团圆), which means “gathering around the family hearth” as a show of family solidarity. After the meal, it is a tradition for family members to Shou Ye (守夜), meaning to stay up past midnight as this is believed to delay ageing and increase life expectancy for the elders.
 
 **Red Packets and Visitation**
+![Family members preparing red packets](/images/culture/family-preparing-red-packets.jpg)
 
 The first day of the Chinese New Year, which is called Yuan Dan (元旦), is one of the most anticipated days of the festival. To celebrate this new beginning, Chinese don new clothes in bright colours when they go house visiting.
 
