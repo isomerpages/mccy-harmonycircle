@@ -16,6 +16,8 @@ This is a reflection of our multicultural roots and a celebration of Singapore�
 
 ### Festivities that bring people together
 
+![Multi-coloured lion dance display](/images/culture/lion-dance-heads-display.jpg)
+
 Even though festivals in Singapore originate from different cultural and religious groups, local communities share the joy of the festivities with one another.
 
 For instance, when a family celebrates a festival, it is common to invite friends from different cultures to their home for a home-cooked feast. During Chinese New Year, some Muslim families like to give cookies and hongbaos to their Chinese neighbours. The converse happens during Hari Raya Puasa. Sometimes, different ethnic groups even enjoy the same food during the festivities, such as kueh bahulu, pineapple tarts, and love letters.
@@ -39,6 +41,8 @@ School-going children also get to learn about Singapore’s many different festi
 Cultivating understanding between different ethnic groups from a young age paves the way for a united future.
 
 ### Many festivals, one people
+
+![Decorated streets at night in Little India Singapore](/images/culture/decorated-streets-in-little-india-singapore.jpg)
 
 The many colourful festivals celebrated in Singapore are an expression of the people’s identity — diverse, originating from around the world, yet shaped by shared experiences on this sunny island that we call home.
 
