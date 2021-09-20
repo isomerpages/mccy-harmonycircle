@@ -30,7 +30,8 @@ Some Indian communities may also carry out the weaning ceremony or annaprasana, 
 Held at home or at the temple, rice that is cooked with milk, mashed well and sweetened is fed to the baby by the father. Goddess Lakshmi is invoked during the ceremony and prayers are offered for the baby to be blessed with a healthy life.
  
 **Hair shaving and Ear-piercing ceremony**
- 
+![Ceremony at Hindu temple for a child](/images/culture/ceremony-for-child-at-temple.jpg) 
+
 Hindu babies may also experience the ceremonial shaving of their hair during a ceremony known as mudiyirrakuthal. This typically occurs within the baby’s first year of life, but may also be done during the 3rd or 5th year.
  
 Usually performed at the temple on an auspicious day, the child sits on the father’s or maternal uncle’s lap for the tonsure, which is thought to promote healthy hair growth. During the ritual, mantras are chanted to ask for long life, health and prosperity for the child.
@@ -58,6 +59,8 @@ Aqiqah, the practice of animal sacrifice, is another custom that is modelled aft
 **Rubbing dates on the baby’s palate**
  
 Muslims who lived in the era of the Quran used to bring their newborns to Prophet Muhammad, who blessed the babies and rubbed softened dates on their palates. This practice, known as tahnik, is still adhered to today.
+
+![Rubbing dates on a baby's palate](/images/culture/rubbing-dates-on-baby-palate.jpg)
  
 Tahnik was originally performed as soon as possible after birth. Today, it is conducted when the baby is seven, fourteen or twenty-one days old. During the ceremony, a small amount of softened date is applied to the baby’s palate. This is followed by the recitation of the doa, which is a supplication prayer.  
  
