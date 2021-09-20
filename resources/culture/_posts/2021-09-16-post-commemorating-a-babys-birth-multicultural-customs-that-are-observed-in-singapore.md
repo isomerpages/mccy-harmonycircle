@@ -68,7 +68,9 @@ Tahnik was originally performed as soon as possible after birth. Today, it is co
 The first celebration that a Chinese baby experiences is manyue, which translates literally to “full moon”. It is held when the little one turns 30 days old.
  
 Because infant mortality rates were high in the past, when a newborn reached 30 days in good health, it was considered a milestone worth celebrating. Manyue has since become a joyous occasion where a baby is officially introduced to relatives and friends.
- 
+
+![First month celebration gifts for Chinese babies](/images/culture/first-month-celebration.jpg)
+
 At the party, gifts with symbolic meanings are presented to the guests. While the exact items vary according to dialect group, traditionally ranging from pickled ginger to glutinous rice and pig’s trotters, hard-boiled eggs that are dyed red are indispensable as they represent the renewal of life. In fact, these eggs are still the dominant items in the contemporary gift boxes that some new-generation parents are opting for nowadays.
  
 Guests, in return, give full moon presents to the little star of the celebration. The older generation generally offer gifts with auspicious significance such as gold bangles, chains or anklets while the younger set may prefer to gift items such as clothes, cutlery sets and even diaper hampers. A red packet is much appreciated by the host family too!
@@ -89,9 +91,11 @@ Other items rely on a play on pronunciation to convey the message. For example, 
  
 ### Common Catholic practices
  
+![Baptism ceremony of a baby](/images/culture/baptism-baby.jpg)
+
 Within the Catholic community, infant baptism is widely practised and is usually carried out within the first month of birth.
  
-A baby is presented for baptism by the parents and at least one godparent, who takes on the responsibility to support the parents in the Catholic upbringing of the child. It is necessary to decide on a baptism name for the infant. Generally, a saint’s name or one that is reflective of a Christian virtue is chosen.
+A baby is presented for baptism by the parents and at least one godparent, who takes on the responsibility to support the parents in the Catholic upbringing of the child. It is necessary to decide on a baptism name for the infant. Generally, a Saint’s name or one that is reflective of a Christian virtue is chosen.
  
 The priest may sprinkle holy water over the infant’s head or lightly immerse the baby, who is usually dressed in a white christening robe for the occasion.
  
