@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - about-ircc.md
-      - what-ircc-stand-for.md
+      - What IRCC stands for.md
       - our-partners.md
