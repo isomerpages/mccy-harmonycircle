@@ -11,9 +11,10 @@ This shows that Singapore society is united on the importance of safeguarding re
 Organisations who have affirmed the Commitment:
 
 * [List of Religious Organisations]
-[Example Filename](/files/Religious_Organisations_Commitment_Affirmation_List_updated_%208%20October%202021.pdf)
+(/files/Religious_Organisations_Commitment_Affirmation_List_updated_08October2021.pdf)
 
-* [List of Community Organisations](/files/Community_Support_for_Commitment.pdf)
+* [List of Community Organisations]
+(/files/List_of_Community_Support_for_Commitment.pdf)
 
 ### Pledge your Commitment
 
