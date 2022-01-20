@@ -30,7 +30,7 @@ Besides the gift, the wrapper is important as well. It cannot be black, blue or 
 With the content and wrapping sorted out, the last step is to present the gift politely –with both hands. 
 
 **Table** **manners**
-
+![Alt text for image on Isomer site](/images/culture/Chinese%20homes%201.jpg)
 (source: https://www.istockphoto.com/photo/an-asian-chinese-families-and-friends-having-night-dinner-gathering-at-home-with-gm1266081950-371052918) 
 
 If the home visit includes having a meal, knowing basic Chinese dining etiquette would be helpful.
@@ -50,7 +50,7 @@ Though it seems instinctive that finishing the food on the table is the best com
 This view is, however, gradually changing with the times, especially with the increasing awareness of food waste. It is, therefore, best to follow the lead of the host.
 
 **Being** **careful** **around** **home** **altars**
-
+![Alt text for image on Isomer site](/images/culture/Chinese%20homes%202.jpg)
 (source: https://www.shutterstock.com/image-photo/melakamalaysia1911-view-inside-chinese-family-house-1408767929) 
 
 While not all Chinese families are religious, some Chinese homes have dedicated altars or shelves where statues of deities and ancestor tablets are displayed. As these are sacred spaces for worship, guests are expected to be respectful around them. 
@@ -58,6 +58,3 @@ While not all Chinese families are religious, some Chinese homes have dedicated 
 This could mean, for example, being careful not to leave personal belongings such as mobile phones or wallets on a home altar, even if it is just for a short while, or making sure not to spill any drink around the area. 
 
 Guests with young children will do well to ensure that they do not play around these spaces too.
-
-
-
