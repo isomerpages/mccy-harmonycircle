@@ -13,7 +13,7 @@ permalink: /resources/culture/permalink
 Hospitality is at the core of the Hindu culture and is rooted in an old Sanskrit saying ‘Atithi Devo Bhava’, which means “guests are the forms of God”. 
 
 **Symbols** **of** **welcome** **and** **worship** 
-
+![Alt text for image on Isomer site](/images/culture/Indian%20homes%201.jpg)
 
 Guests often find the doorways of Indian homes decorated with kolams, which means “beauty” in Tamil. These are intricate patterns traditionally formed with rice powder to welcome the goddess Lakshmi, who is believed to bring wealth and good fortune into homes. Nowadays, kolams are also drawn with chalk or applied as stickers.
 
@@ -56,7 +56,7 @@ Due to their hospitable nature, Indian hosts may nudge guests to have more food.
 As Indians believe in not wasting food, it is good to finish everything on the plate. The custom is to wait for everyone to be done eating before leaving the table. 
 
 **Being** **around** **worship** **spaces**
- 
+ ![Alt text for image on Isomer site](/images/culture/Indian%20homes%202.jpg)
 
 At Hindu homes, there are altars where statues or pictures of Hindu gods are displayed. These are sacred spaces where the families pray and perform their worship rituals. 
 
