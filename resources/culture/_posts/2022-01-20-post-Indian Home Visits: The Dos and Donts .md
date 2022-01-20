@@ -55,7 +55,6 @@ Due to their hospitable nature, Indian hosts may nudge guests to have more food.
 
 As Indians believe in not wasting food, it is good to finish everything on the plate. The custom is to wait for everyone to be done eating before leaving the table. 
 
- 
 **Being** **around** **worship** **spaces**
  
 (Image Source: https://www.istockphoto.com/photo/ganesh-chaturthi-puja-celebrated-at-home-perform-puja-and-offer-their-prayers-gm1267689646-372031015)
