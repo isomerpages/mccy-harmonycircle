@@ -13,7 +13,7 @@ permalink: /resources/culture/permalink
 Hospitality is at the core of the Hindu culture and is rooted in an old Sanskrit saying ‘Atithi Devo Bhava’, which means “guests are the forms of God”. 
 
 **Symbols** **of** **welcome** **and** **worship** 
- (Image Source: https://www.shutterstock.com/image-photo/traditional-puja-thali-on-home-shelf-1071974273)
+ (Image Source: https://www.shutterstock.com/image-photo/traditional-puja-thali-on-home-shelf-1071974273) 
 
 Guests often find the doorways of Indian homes decorated with kolams, which means “beauty” in Tamil. These are intricate patterns traditionally formed with rice powder to welcome the goddess Lakshmi, who is believed to bring wealth and good fortune into homes. Nowadays, kolams are also drawn with chalk or applied as stickers.
 
