@@ -5,16 +5,15 @@ layout: post
 description: ""
 permalink: /resources/culture/permalink
 ---
-Visiting an Indian Family
+# Visiting an Indian Family
 
 
 “Namasthey”, “vaanga”, “varuga-varuga” and “welcome” are some commonly heard greetings when guests arrive at an Indian home, where Hinduism is commonly practised, in Singapore.
 
 Hospitality is at the core of the Hindu culture and is rooted in an old Sanskrit saying ‘Atithi Devo Bhava’, which means “guests are the forms of God”. 
 
-Symbols of welcome and worship
- 
-(Image Source: https://www.shutterstock.com/image-photo/traditional-puja-thali-on-home-shelf-1071974273)
+**Symbols** **of** **welcome** **and** **worship** 
+ (Image Source: https://www.shutterstock.com/image-photo/traditional-puja-thali-on-home-shelf-1071974273)
 
 Guests often find the doorways of Indian homes decorated with kolams, which means “beauty” in Tamil. These are intricate patterns traditionally formed with rice powder to welcome the goddess Lakshmi, who is believed to bring wealth and good fortune into homes. Nowadays, kolams are also drawn with chalk or applied as stickers.
 
@@ -22,7 +21,7 @@ A string of mango leaves, known as maavilai thoranam, may also be hung at the ma
 
 Guests are welcome to admire these displays of spiritual significance but should refrain from touching them.
 
-Making the first contact
+**Making** **the** **first** **contact**
 
 The family structure follows a hierarchical system in Indian culture. Elders are revered and accorded the highest status at home.
 
@@ -32,7 +31,7 @@ Guests are often offered a glass of water upon arrival. This is a practice datin
 
 Even though times have changed, this gesture remains rooted in today’s practices. 
 
-Bringing gifts 
+**Bringing** **gifts** 
 
 If a guest wishes to bring along a gift, items for the home, such as a vase or tea set, or a nice box of chocolates generally make good presents. 
 
@@ -42,7 +41,7 @@ Flowers are also appreciated. However, do note that those typically found in wre
 
 Considering that cows are sacred to Hindus, leather goods made from cowhide are not suitable as gifts.
 
-Dining etiquette 
+**Dining** **etiquette** 
 
 When having a meal with an Indian family at their home, guests do not have to feel too stressed over adopting the dining style of the host. 
 
@@ -57,7 +56,7 @@ Due to their hospitable nature, Indian hosts may nudge guests to have more food.
 As Indians believe in not wasting food, it is good to finish everything on the plate. The custom is to wait for everyone to be done eating before leaving the table. 
 
  
-Being around worship spaces
+**Being** **around** **worship** **spaces**
  
 (Image Source: https://www.istockphoto.com/photo/ganesh-chaturthi-puja-celebrated-at-home-perform-puja-and-offer-their-prayers-gm1267689646-372031015)
 
@@ -66,5 +65,3 @@ At Hindu homes, there are altars where statues or pictures of Hindu gods are dis
 There is no need for guests to make any gesture of worship at the altars; just being respectful around these areas would suffice. 
 
 Some practical considerations include not touching anything or putting any personal belongings on the altars, and keeping children from playing near them.
-
-
