@@ -3,7 +3,10 @@ title: "Sikhism: Lifelong Learning Among Equals About God"
 date: 2021-05-18
 permalink: /resources/religion/sikhism
 layout: post
+description: The literal translation of a “Sikh” is a “learner, student or
+  disciple” or “seeker”.
 ---
+
 The literal translation of a “Sikh” is a “learner, student or disciple” or “seeker”.
  
 Sikhism teaches that there is only one God, who is formless, fearless and is the Supreme Creator of the Universe.  

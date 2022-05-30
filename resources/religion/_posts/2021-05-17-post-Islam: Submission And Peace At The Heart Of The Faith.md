@@ -3,7 +3,10 @@ title: "Islam: Submission And Peace At The Heart Of The Faith"
 date: 2021-05-17
 permalink: /resources/religion/islam
 layout: post
+description: "The word Islam itself has a two-fold meaning – peace, and
+  submission to God (Allah). "
 ---
+
 The word Islam itself has a two-fold meaning – peace, and submission to God (Allah). This submission requires a fully conscious and willing effort to worship the one Almighty God. It is believed that only when Muslims are able to completely submit to God’s will, can they establish peace in their hearts which will then manifest in their external conduct.
  
 “Peace” is the most common word on a Muslim’s tongue. Whenever two people meet, they exchange greetings, wishing each other peace: "*Assalamu’alaikum*" - “Peace be upon you”. To which, the reply is “*Wa-Alaikumus-Salaam*” or “and upon you be peace”.

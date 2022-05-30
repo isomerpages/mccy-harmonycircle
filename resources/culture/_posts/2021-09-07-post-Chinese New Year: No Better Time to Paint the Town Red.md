@@ -3,7 +3,11 @@ title: "Chinese New Year: No Better Time to Paint the Town Red"
 date: 2021-09-07
 permalink: /resources/culture/chinese-new-year
 layout: post
+description: Marked by lion dance performances with thunderous drum beats, the
+  lighting of firecrackers and generous splashes of the colour red, Chinese New
+  Year is traditionally celebrated in a roaring, vibrant manner.
 ---
+
 ![Colourful Chinese Lion Paper Dolls](/images/culture/colourful-chinese-lion-paper-dolls.jpg)
 
 Chinese New Year is a 15-day celebration that starts on the first day of the Lunar calendar and ends on the fifteenth. Because of this, it is also known as Lunar New Year.

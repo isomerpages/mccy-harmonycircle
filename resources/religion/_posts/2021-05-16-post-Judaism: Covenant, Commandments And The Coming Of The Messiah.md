@@ -3,7 +3,11 @@ title: "Judaism: Covenant, Commandments And The Coming Of The Messiah"
 date: 2021-05-16
 permalink: /resources/religion/judaism
 layout: post
+description: "The birth of Judaism as a faith as it is practiced and lived by
+  today begins with God’s revelation to the Jewish people at Mount Sinai and the
+  giving of the Torah. "
 ---
+
 Judaism had its beginnings about 4,000 years ago, when God promised Abraham that he would bless him with offspring as numerous as the stars and make him into a great nation. The people of this nation are called Jews.
  
 The birth of Judaism as a faith as it is practiced and lived by today begins with God’s revelation to the Jewish people at Mount Sinai and the giving of the Torah. Essentially, Jews entered a covenant with almighty at Sinai which binds them to keep all the 613 commandments contained in the Torah.

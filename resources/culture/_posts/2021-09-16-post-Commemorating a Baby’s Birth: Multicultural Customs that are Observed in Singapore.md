@@ -4,7 +4,10 @@ title: "Commemorating a Baby’s Birth: Multicultural Customs that are Observed 
 date: 2021-09-16
 permalink: /resources/culture/baby-birth
 layout: post
+description: Owing to Singapore’s multicultural background, there are varying
+  customs and rituals associated with the celebration of a baby’s birth.
 ---
+
 Owing to Singapore’s multicultural background, there are varying customs and rituals associated with the celebration of a baby’s birth.
  
 The Chinese, for instance, give out hard-boiled eggs that are dyed red when a baby turns one month old. Muslims shave a newborn’s hair and donate its weight in gold to charity. In a Hindu ceremony, a black dot known as a pottu is applied on a baby’s forehead for protection against evil.

@@ -12,7 +12,7 @@ Organisations who have affirmed the Commitment:
 
 * [List of Religious Organisations]
 
-[Religious Organisation Commitment Affirmation List](/files/Religious_Organisations_Commitment_Affirmation_List_updated_%208%20October%202021.pdf)
+[Religious Organisation Commitment Affirmation List](/files/RELIGIOUS%20ORGANISATIONS%20WHO%20HAVE%20AFFIRMED%20THE%20COMMITMENT.pdf)
 
 * [List of Community Organisations]
 

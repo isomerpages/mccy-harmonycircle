@@ -3,7 +3,10 @@ title: "Deepavali: Celebrating the Victory of Light Over Darkness"
 date: 2021-09-07
 permalink: /resources/culture/deepavali
 layout: post
+description: Deepavali, also known as the “Festival of Lights”, is observed and
+  celebrated by Hindus, Sikhs and Jains all over the world.
 ---
+
 ![Making rangoli](/images/culture/making-rangoli.jpg)
 
 Deepavali, also known as the “Festival of Lights”, is observed and celebrated by Hindus, Sikhs and Jains all over the world. It falls on the fourteenth day of the dark fortnight, or the waning moon, in the month of Aippasi in the Tamil calendar. This usually falls in the month of October or November in the Gregorian calendar.

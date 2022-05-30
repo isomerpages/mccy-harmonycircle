@@ -3,8 +3,10 @@ title: "Chinese Home Visits: The Dos and Donts"
 permalink: /resources/culture/permalink
 date: 2022-01-20
 layout: post
-description: ""
+description: Making a guest feel at home is very much ingrained in the Chinese
+  culture. Here is an etiquette quide when you visit a Chinese home.
 ---
+
 # Visiting a Chinese Family 
 
 There is a Chinese idiom –宾至如归(bin zhi ru gui)–that translates to “when guests arrive, they feel as if they have reached home”. Indeed, the idea of making a guest feel at home is very much ingrained in the Chinese culture.  

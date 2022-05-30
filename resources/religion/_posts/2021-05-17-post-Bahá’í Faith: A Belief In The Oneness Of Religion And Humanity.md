@@ -3,7 +3,11 @@ title: "Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity"
 date: 2021-05-17
 permalink: /resources/religion/bahai-faith
 layout: post
+description: The teachings of Bahá’u’lláh, the Prophet Founder of the Faith,
+  provides a compelling vision and means for the creation of a united and just
+  world that embraces the diversity of the human race.
 ---
+
 With just eight Continental Houses of Worship around the world, and a few local and national Houses of Worship currently in construction in various countries, the Bahá’í Faith may not be familiar to most people. After all, the religion is only around 200 years old.
  
 The teachings of Bahá’u’lláh, the Prophet Founder of the Faith, provides a compelling vision and means for the creation of a united and just world that embraces the diversity of the human race.

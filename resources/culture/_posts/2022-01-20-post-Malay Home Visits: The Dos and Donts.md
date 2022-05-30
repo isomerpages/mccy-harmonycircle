@@ -3,8 +3,9 @@ title: "Malay Home Visits: The Dos and Donts"
 permalink: /resources/culture/permalink
 date: 2022-01-20
 layout: post
-description: ""
+description: Here are some etiquette dos & don'ts when visiting a Malay home.
 ---
+
 # Visiting a Malay Family
 
 The majority of Malays in Singapore are Muslims. Many Malay families enjoy hosting and the idea of entertaining guests is very much aligned with their Muslim faith, as reflected in the Quran and the Sunnah, a collection of the sayings and practices of the Prophet Muhammad.

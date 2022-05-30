@@ -3,7 +3,10 @@ title: "Hinduism: A Way Of Life Based On Eternal Truths"
 date: 2021-05-19
 permalink: /resources/religion/hinduism
 layout: post
+description: Hinduism is one of the oldest religions in the world, but it may be
+  more accurate to call it a way of life.
 ---
+
 Hinduism is one of the oldest religions in the world, but it may be more accurate to call it a way of life. 
  
 Unlike other religions, Hinduism does not have a specific founder. Neither did it originate from a particular period of human history. Rather, it is a combination of philosophies, beliefs and practices that are recorded in ancient scriptures called the *Vedas*, meaning “knowledge”. 

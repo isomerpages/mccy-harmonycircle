@@ -3,7 +3,10 @@ title: "Diversity In Harmony: The Singapore Story"
 date: 2021-05-18
 permalink: /resources/religion/diversity-in-harmony
 layout: post
+description: Singapore has become a place where cultures and religions can
+  coexist in harmony.
 ---
+
 Take a stroll along Telok Ayer Street, and you will come across a church, a mosque, two temples and an Indian Muslim heritage centre that used to be a shrine.
  
 More than beautiful sights, the neighbourly co-existence of these places of worship paints a picture of religious diversity and harmony in Singapore.

@@ -3,7 +3,10 @@ title: "Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence"
 date: 2021-07-19
 permalink: /resources/religion/buddhism
 layout: post
+description: Buddhism is a path of practice and spiritual development that leads
+  to one’s ability to truly understand the ultimate reality.
 ---
+
 When Prince Siddhattha Gautama was young, he led a life of privilege in his kingdom located at the present-day Indian-Nepalese border, protected from all evidence of suffering. 
  
 Only when he was 29 years old, did he manage to step out of the palace. This led him to encounter four sights: an old man, a sick person, a dead body and a monk. 

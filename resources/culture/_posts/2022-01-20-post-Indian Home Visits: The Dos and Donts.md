@@ -1,10 +1,12 @@
 ---
-title: "Indian Home Visits: The Dos and Donts "
+title: "Indian Home Visits: The Dos and Donts"
 date: 2022-01-20
 layout: post
-description: ""
+description: Hospitality is at the core of the Hindu culture. Here are some
+  etiquette dos & don'ts when visiting an Indian home.
 permalink: /resources/culture/permalink
 ---
+
 # Visiting an Indian Family
 
 

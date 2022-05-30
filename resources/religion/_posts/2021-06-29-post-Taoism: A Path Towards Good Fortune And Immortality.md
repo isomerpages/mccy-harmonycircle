@@ -3,7 +3,10 @@ title: "Taoism: A Path Towards Good Fortune And Immortality"
 date: 2021-06-29
 permalink: /resources/religion/taoism
 layout: post
+description: Taoism, or Daoism, is the indigenous religion of ancient China and
+  has been in existence from around 4,700 years ago.
 ---
+
 Taoism, or Daoism, is the indigenous religion of ancient China and has been in existence from around 4,700 years ago. 
  
 It gained widespread recognition from the advocacy of *Lao Tzu*, an ancient Chinese philosopher and writer who is the reputed author of the *Dao De Jing*.

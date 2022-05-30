@@ -3,7 +3,11 @@ title: "Christianity: A Faith Based On The Saving Grace Of God"
 date: 2021-07-19
 permalink: /resources/religion/christianity
 layout: post
+description: Christians believe that they can receive salvation through faith in
+  Jesus Christ. This is why Christians often say that they are “saved by grace
+  through faith”.
 ---
+
 Mention Christianity and the cross comes to mind. It is seen marking church buildings, printed on the cover of Bibles, and worn around the neck. 
  
 The cross is the universal symbol of Christianity, recognised by all Christian denominations as the visual representation of their faith.
