@@ -1,11 +1,12 @@
 ---
 title: "Chinese Home Visits: The Dos and Donts"
-permalink: /resources/culture/permalink
+permalink: /resources/culture/chinese-home-visits
 date: 2022-01-20
 layout: post
 description: Making a guest feel at home is very much ingrained in the Chinese
   culture. Here is an etiquette quide when you visit a Chinese home.
 ---
+
 
 # Visiting a Chinese Family 
 
