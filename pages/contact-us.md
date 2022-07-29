@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: IRCC
+agency_name: Harmony Circle
 contacts:
   - content:
       - phone: ""
