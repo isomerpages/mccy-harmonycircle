@@ -2,6 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - about-ircc.md
+      - About Harmony Circle.md
       - What IRCC stands for.md
       - our-partners.md
