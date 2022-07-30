@@ -39,5 +39,5 @@ Kindly send your queries to feedback@ircc.sg and we will [](https://www.facebook
 **7. Where can I follow the latest news and activities of Harmony Circles?**
 
 Please like and follow us on our social media platforms for more updated news of Harmony Circle.
-- [Facebook @IRCCSG](https://www.facebook.com/SGIRCC)
-- [Instagram @IRCCSG](https://www.instagram.com/irccsg)
+- [Facebook @HARMONYCIRCLESG](https://www.facebook.com/SGIRCC)
+- [Instagram @HARMONYCIRCLESG](https://www.instagram.com/harmonycirclesg)
