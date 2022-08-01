@@ -1,10 +1,11 @@
 ---
-title: About IRCC
-permalink: /about-ircc
+title: About Harmony Circle
+permalink: /about-harmonycircle
+description: ""
 ---
-The Inter-Racial and Religious Confidence Circle (IRCC) is a platform to promote racial and religious harmony in Singapore, with a presence in every constituency. 
+The Racial and Religious Harmony Circles (Harmony Circle) is a platform to promote racial and religious harmony in Singapore, with a presence in every constituency. 
 
-We see ourselves as a bridge between religious, ethnic and community groups. By being part of the IRCC network, leaders from these various groups can come together to build friendship and trust. 
+We see ourselves as a bridge between religious, ethnic and community groups. By being part of the Harmony Circle network, leaders from these various groups can come together to build friendship and trust. 
 
 We also seek to deepen Singaporeans’ understanding of various faiths, beliefs and practices. For example, through inter-faith and inter-ethnic activities, such as heritage trails, dialogues, visits to places of worship, ethnic and religious celebrations, which are open to the community.
 
@@ -23,3 +24,4 @@ We also seek to deepen Singaporeans’ understanding of various faiths, beliefs 
 | 2010     | The first National IRCC Workshop was held to bring together members and stakeholders to discuss and deliberate plans to deepen social cohesion in the community.   |   |
 | 2012     | To mark the 10th anniversary of IRCC, an exhibition titled “IRCC Journey Exhibition Series” was produced to capture the highlights and accomplishments of IRCC through the years.    |   |
 | 2018     | President Halimah Yacob attended the first National IRCC Convention that brought together more than 600 participants to foster communal bonds through dialogue with activists, academics and private sector experts.   |   |
+| 2022     | IRCC was renamed from "Inter-Racial & Religious Confidence Circle" to "Racial & Religious Harmony Circles".   |   |

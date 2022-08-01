@@ -1,15 +1,14 @@
 ---
 layout: homepage
-title: Inter-Racial and Religious Confidence Circle
-description: The Inter-Racial and Religious Confidence Circle site aims to be
-  networks of trust that unite people regardless of race or religion.
-image: /images/ircc-logo.svg
+title: Racial and Religious Harmony Circles
+description: An Isomer site of the Singapore Government
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      subtitle: The Inter-Racial and Religious Confidence Circle aims to be networks
-        of trust that unite people regardless of race or religion.
+      subtitle: The Racial and Religious Harmony Circles aims to be networks of trust
+        that unite people regardless of race or religion.
       background: /images/Test4.png
       key_highlights:
         - title: Commitment
@@ -30,3 +29,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
