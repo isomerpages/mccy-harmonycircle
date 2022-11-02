@@ -9,6 +9,7 @@ description: Even though festivals in Singapore originate from different
 ---
 
 
+
 ![Firework display in downtown Singapore](/images/culture/firework-display-in-downtown-singapore.jpg)
 
 Living in a multicultural society, Singaporeans are no strangers to festivities observed and celebrated by different communities.
