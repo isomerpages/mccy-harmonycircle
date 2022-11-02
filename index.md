@@ -13,21 +13,19 @@ sections:
       key_highlights:
         - title: Commitment
           description: Safeguard religious harmony
-          url: https://www.ircc.sg/commitment-to-safeguard-religious-harmony/
+          url: https://www.harmonycircle.sg/commitment-to-safeguard-religious-harmony/
         - title: "SGinHarmony: Converse"
           description: Participate in dialogues
-          url: https://www.ircc.sg/sginharmony/converse
+          url: https://www.harmonycircle.sg/sginharmony/converse
         - title: "SGinHarmony: Experience"
           description: Explore activities
-          url: https://www.ircc.sg/sginharmony/experience
+          url: https://www.harmonycircle.sg/sginharmony/experience
         - title: "SGinHarmony: Take Action"
           description: Join an activity
-          url: https://www.ircc.sg/sginharmony/take-action
+          url: https://www.harmonycircle.sg/sginharmony/take-action
       title: Many Beliefs, One Future
   - resources:
       title: Resources
       subtitle: Learn more
       button: View More
 ---
-
-
