@@ -1,6 +1,6 @@
 title: Racial and Religious Harmony Circles
 url: https://www.harmonycircle.sg
-favicon: /images/ircc-favicon.ico
+favicon: /images/harmonycircleslogo.jpg
 colors:
   primary-color: "#72246C"
   secondary-color: "#4372d6"
@@ -54,6 +54,6 @@ plugins:
   - jekyll-remote-theme
 facebook-pixel: "267576805065895"
 google_analytics: UA-47362268-1
-shareicon: /images/isomer-logo.svg
+shareicon: /images/harmonycircleslogo.jpg
 is_government: false
 linkedin-insights: ""
