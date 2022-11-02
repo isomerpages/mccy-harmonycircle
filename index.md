@@ -2,7 +2,7 @@
 layout: homepage
 title: Racial and Religious Harmony Circles
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/harmonycircleslogo.jpg
 permalink: /
 notification: ""
 sections:
@@ -29,4 +29,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
