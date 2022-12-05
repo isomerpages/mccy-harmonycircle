@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Racial and Religious Harmony Circles
-description: An Isomer site of the Singapore Government
+description: The Racial and Religious Harmony Circles aims to be networks of
+  trust that unite people regardless of race or religion.
 image: /images/harmonycircleslogo.jpg
 permalink: /
 notification: ""
@@ -29,3 +30,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
