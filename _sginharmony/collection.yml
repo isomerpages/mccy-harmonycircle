@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - about-sginharmony.md
-      - converse.md
+      - Converse.md
       - experience.md
       - take-action.md
