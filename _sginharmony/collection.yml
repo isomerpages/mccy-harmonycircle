@@ -2,7 +2,7 @@ collections:
   sginharmony:
     output: true
     order:
-      - about-sginharmony.md
+      - About SGinHarmony.md
       - Converse.md
       - experience.md
       - take-action.md
