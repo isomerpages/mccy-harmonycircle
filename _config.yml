@@ -56,5 +56,5 @@ plugins:
 facebook-pixel: "267576805065895"
 google_analytics: UA-47362268-1
 shareicon: /images/harmonycircleslogo.jpg
-is_government: true
+is_government: false
 linkedin-insights: ""
