@@ -1,7 +1,11 @@
 ---
 title: FAQs
-permalink: /faqs
+permalink: /faqs/
+description: The Racial and Religious Harmony Circles – better known as Harmony
+  Circle  – are local-level interfaith platforms in every constituency, formed
+  to promote racial and religious harmony.
 ---
+
 **1. What are the Racial and Religious Harmony Circles (Harmony Circle)?**
 
 The Racial and Religious Harmony Circles – better known as Harmony Circle  – are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony.

@@ -1,9 +1,12 @@
 ---
-title: "Jainism: Upholding Non-Violence, Compassion And Respect"
+title: "Jainism: Upholding Non Violence, Compassion And Respect"
 date: 2021-05-16
-permalink: /resources/religion/jainism
+permalink: /resources/religion/jainism/
 layout: post
+description: ""
+image: ""
 ---
+
 Jainism may be an ancient religion, but its ideas and values are timeless responses to a modern world fraught with problems such as climate change and political tension.
 
 At the core of the faith are the virtues of non-violence, compassion and respect for all living beings – from humans right down to plants and microorganisms.

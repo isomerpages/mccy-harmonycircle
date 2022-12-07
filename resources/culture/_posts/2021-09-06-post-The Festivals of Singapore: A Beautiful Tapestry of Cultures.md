@@ -1,12 +1,14 @@
 ---
 title: "The Festivals of Singapore: A Beautiful Tapestry of Cultures"
 date: 2021-09-06
-permalink: /resources/culture/singapore-festivals
+permalink: /resources/culture/singapore-festivals/
 layout: post
 description: Even though festivals in Singapore originate from different
   cultural and religious groups, local communities share the joy of the
   festivities with one another.
+image: ""
 ---
+
 
 
 

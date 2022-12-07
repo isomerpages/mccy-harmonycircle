@@ -1,7 +1,12 @@
 ---
 title: Take Action
-permalink: /sginharmony/take-action
+permalink: /sginharmony/take-action/
+description: Grow mutual understanding and respect for our racial and religious
+  diversity through everyday actions in their lives. Join an activity that our
+  partners have developed just for you!
 ---
+
+
 ### Interfaith Playbook
 ***By CS.iO***
 ![Alt text for image on Isomer site](/images/sginharmony/csiobanner.PNG)

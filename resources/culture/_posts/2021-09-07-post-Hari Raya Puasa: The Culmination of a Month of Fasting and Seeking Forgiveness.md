@@ -2,12 +2,14 @@
 title: "Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking
   Forgiveness"
 date: 2021-09-07
-permalink: /resources/culture/hari-raya-puasa
+permalink: /resources/culture/hari-raya-puasa/
 layout: post
 description: Hari Raya loosely translates to “day of celebration” in Malay — an
   apt description for the joyous festival of Hari Raya Puasa, which marks the
   end of a month of “fasting”.
+image: ""
 ---
+
 
 ![People praying inside the Masjid Sultan mosque in Singapore](/images/culture/masjid-sultan-mosque-singapore.jpg)
 

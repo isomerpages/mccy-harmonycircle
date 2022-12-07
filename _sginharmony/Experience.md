@@ -1,7 +1,12 @@
 ---
 title: Experience
-permalink: /sginharmony/experience
+permalink: /sginharmony/experience/
+description: Grow mutual understanding and respect for our racial and religious
+  diversity through everyday actions in their lives. Explore activities that our
+  partners have developed just for you!
 ---
+
+
 ### Faith and Belief Galleries
 ***By Asian Civilisations Museum***
 

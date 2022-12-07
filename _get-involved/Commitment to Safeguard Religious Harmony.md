@@ -1,8 +1,10 @@
 ---
 title: Commitment to Safeguard Religious Harmony
 permalink: /commitment-to-safeguard-religious-harmony/
-description: ""
+description: "Singapore’s religious leaders have come together to affirm our
+  shared commitment to safeguard religious harmony. "
 ---
+
 
 
 ### About the Commitment

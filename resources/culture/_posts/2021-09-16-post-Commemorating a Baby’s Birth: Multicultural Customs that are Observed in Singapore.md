@@ -2,11 +2,13 @@
 title: "Commemorating a Baby’s Birth: Multicultural Customs that are Observed in
   Singapore"
 date: 2021-09-16
-permalink: /resources/culture/baby-birth
+permalink: /resources/culture/baby-birth/
 layout: post
 description: Owing to Singapore’s multicultural background, there are varying
   customs and rituals associated with the celebration of a baby’s birth.
+image: ""
 ---
+
 
 Owing to Singapore’s multicultural background, there are varying customs and rituals associated with the celebration of a baby’s birth.
  

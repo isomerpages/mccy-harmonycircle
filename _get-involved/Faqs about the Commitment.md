@@ -1,7 +1,13 @@
 ---
 title: Faqs about the Commitment
 permalink: /faqs-about-the-commitment/
+description: The Commitment to Safeguard Religious Harmony articulates the
+  shared values to safeguard our religious harmony, as well as many positive
+  ways Singaporeans have been interacting across religions to foster a cohesive
+  society.
 ---
+
+
 
 ### Frequently Asked Questions about the Commitment
 

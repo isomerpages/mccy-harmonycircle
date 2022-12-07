@@ -1,7 +1,13 @@
 ---
 title: Converse
-permalink: /sginharmony/converse
+permalink: /sginharmony/converse/
+description: Grow mutual understanding and respect for our racial and religious
+  diversity through everyday actions in their lives. Participate in dialogues
+  that our partners have developed just for you!
 ---
+
+
+
 ### Being Community
 ***By Being Bridges***
 

@@ -1,12 +1,14 @@
 ---
 title: "Chinese New Year: No Better Time to Paint the Town Red"
 date: 2021-09-07
-permalink: /resources/culture/chinese-new-year
+permalink: /resources/culture/chinese-new-year/
 layout: post
 description: Marked by lion dance performances with thunderous drum beats, the
   lighting of firecrackers and generous splashes of the colour red, Chinese New
   Year is traditionally celebrated in a roaring, vibrant manner.
+image: ""
 ---
+
 
 ![Colourful Chinese Lion Paper Dolls](/images/culture/colourful-chinese-lion-paper-dolls.jpg)
 

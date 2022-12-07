@@ -1,11 +1,13 @@
 ---
 title: "Zoroastrianism: An Ancient Religion In A Modern World"
 date: 2021-07-19
-permalink: /resources/religion/zoroastrianism
+permalink: /resources/religion/zoroastrianism/
 layout: post
 description: Zoroastrianism was founded 3,500 years ago by an Iranian prophet
   called Zoroaster and evolved into the dominant religion in Ancient Persia.
+image: ""
 ---
+
 
 Zoroastrianism was founded 3,500 years ago by an Iranian prophet called Zoroaster whose teachings challenged the traditions of Indo-Iranian religion and started a movement that evolved into the dominant religion in Ancient Persia.
  

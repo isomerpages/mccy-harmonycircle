@@ -1,8 +1,9 @@
 ---
 title: What Harmony Circle stands for
-permalink: /what-harmonycircle-stands-for
-description: ""
+permalink: /what-harmonycircle-stands-for/
+description: To be networks of trust that unite people regardless of race or religion.
 ---
+
 ### Our Vision
 
 To be networks of trust that unite people regardless of race or religion.

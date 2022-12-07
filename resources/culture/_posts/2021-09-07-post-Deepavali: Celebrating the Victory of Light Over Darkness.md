@@ -1,11 +1,13 @@
 ---
 title: "Deepavali: Celebrating the Victory of Light Over Darkness"
 date: 2021-09-07
-permalink: /resources/culture/deepavali
+permalink: /resources/culture/deepavali/
 layout: post
 description: Deepavali, also known as the “Festival of Lights”, is observed and
   celebrated by Hindus, Sikhs and Jains all over the world.
+image: ""
 ---
+
 
 ![Making rangoli](/images/culture/making-rangoli.jpg)
 

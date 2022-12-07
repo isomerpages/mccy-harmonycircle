@@ -1,8 +1,11 @@
 ---
 title: About Harmony Circle
-permalink: /about-harmonycircle
-description: ""
+permalink: /about-harmonycircle/
+description: The Racial and Religious Harmony Circles (Harmony Circle) is a
+  platform to promote racial and religious harmony in Singapore, with a presence
+  in every constituency.
 ---
+
 The Racial and Religious Harmony Circles (Harmony Circle) is a platform to promote racial and religious harmony in Singapore, with a presence in every constituency. 
 
 We see ourselves as a bridge between religious, ethnic and community groups. By being part of the Harmony Circle network, leaders from these various groups can come together to build friendship and trust. 

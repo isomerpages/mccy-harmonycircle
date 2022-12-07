@@ -1,11 +1,13 @@
 ---
 title: "Christmas: Celebrating the Birth of Jesus Christ"
 date: 2021-09-07
-permalink: /resources/culture/christmas
+permalink: /resources/culture/christmas/
 layout: post
 description: Christmas is an annual Christian festival that celebrates and
   commemorates the birth of Jesus Christ, the only son of God.
+image: ""
 ---
+
 
 ![Christmas Manger scene with figurines](/images/culture/christmas-manger-scene-with-figurines.jpg)
 

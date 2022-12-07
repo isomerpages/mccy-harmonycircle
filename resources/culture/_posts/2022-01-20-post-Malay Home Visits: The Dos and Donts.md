@@ -1,10 +1,12 @@
 ---
 title: "Malay Home Visits: The Dos and Donts"
-permalink: /resources/culture/malay-home-visits
+permalink: /resources/culture/malay-home-visits/
 date: 2022-01-20
 layout: post
 description: Here are some etiquette dos & don'ts when visiting a Malay home.
+image: ""
 ---
+
 
 
 # Visiting a Malay Family
