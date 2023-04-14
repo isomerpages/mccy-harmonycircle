@@ -3,7 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-
 ### **General Terms and Conditions on the Use of the Harmony Circle Website**
 
 * Thank you for visiting the Racial and Religious Harmony Circles ("Harmony Circle") website (“Website”). By accessing and using any part of this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
@@ -20,7 +19,7 @@ description: ""
 
 **PRIVACY POLICY**
 
-* [View](https://www.ircc.sg/privacy/) this Website’s Privacy Statement.
+* [View](https://www.harmonycircle.sg/privacy/) this Website’s Privacy Statement.
 
 **RESTRICTIONS ON USE OF CONTENTS**
 
