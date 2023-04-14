@@ -6,9 +6,6 @@ description: The Commitment to Safeguard Religious Harmony articulates the
   ways Singaporeans have been interacting across religions to foster a cohesive
   society.
 ---
-
-
-
 ### Frequently Asked Questions about the Commitment
 
 **1.	What is the Commitment to Safeguard Religious Harmony?**
@@ -36,11 +33,11 @@ Yes, if you are affirming the Commitment for your organisation, you should seek 
 
 **5.	My religious organisation has signed up to affirm the Commitment, but I do not see it in the list of religious organisations who have affirmed the Commitment on the webpage. What should I do?**
 
-Please contact us at [commitment@ircc.sg](mailto:commitment@ircc.sg) for assistance.
+Please contact us at [commitment@harmonycircle.sg](mailto:commitment@harmonycircle.sg) for assistance.
 
 **6.	My religious organisation is unable to sign up to affirm the Commitment. What can I do?**
 
-Please contact us at [commitment@ircc.sg](mailto:commitment@ircc.sg) for assistance.
+Please contact us at [commitment@harmonycircle.sg](mailto:commitment@harmonycircle.sg) for assistance.
 
 **7.	Is the Commitment legally binding?**
 
@@ -54,6 +51,6 @@ All organisations are encouraged to share the Commitment with their communities,
 
 **9.	If I am not a religious organisation, how can I show support for the Commitment?**
 
-Non-religious organisations and members of the public are also welcome to write in to support the Commitment, at [commitment@ircc.sg](mailto:commitment@ircc.sg).
+Non-religious organisations and members of the public are also welcome to write in to support the Commitment, at [commitment@harmonycircle.sg](mailto:commitment@harmonycircle.sg).
 
-For further enquiries, do write in to [commitment@ircc.sg](mailto:commitment@ircc.sg).
+For further enquiries, do write in to [commitment@harmonycircle.sg](mailto:commitment@harmonycircle.sg).
