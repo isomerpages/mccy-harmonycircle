@@ -6,7 +6,7 @@ agency_name: Harmony Circle
 contacts:
   - content:
       - phone: ""
-      - email: feedback@ircc.sg
+      - email: feedback@harmonycircle.sg
       - other: ""
     title: General Enquiries & Feedback
 ---
