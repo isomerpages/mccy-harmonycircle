@@ -1,7 +1,7 @@
 ---
 title: Inaugural National IRCC Convention 2018
 date: 2018-01-27
-permalink: /resources/media-centre/ircc-convention-2018
+permalink: /resources/media-centre/ircc-convention-2018/
 layout: post
 description: The aim of the Convention was to foster communal bonds and deepen
   inter-racial and –religious understanding through dialogues with community
