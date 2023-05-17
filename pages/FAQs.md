@@ -5,7 +5,6 @@ description: The Racial and Religious Harmony Circles – better known as Harmon
   Circle  – are local-level interfaith platforms in every constituency, formed
   to promote racial and religious harmony.
 ---
-
 **1. What are the Racial and Religious Harmony Circles (Harmony Circle)?**
 
 The Racial and Religious Harmony Circles – better known as Harmony Circle  – are local-level interfaith platforms in every constituency, formed to promote racial and religious harmony.
@@ -34,11 +33,11 @@ Capability-building Programmes – Courses, workshops and crisis-preparedness ex
  
 **5. How can I volunteer with the Harmony Circles?**
 
-Please indicate your interest via feedback@ircc.sg and we will get back to you as soon as possible.
+Please indicate your interest via feedback@harmonycircle.sg and we will get back to you as soon as possible.
  
 **6. Who can I contact for enquiries/feedback?**
 
-Kindly send your queries to feedback@ircc.sg and we will [](https://www.facebook.com/SGIRCC)get back to you as soon as possible.
+Kindly send your queries to feedback@harmonycircle.sg and we will get back to you as soon as possible.
  
 **7. Where can I follow the latest news and activities of Harmony Circles?**
 
