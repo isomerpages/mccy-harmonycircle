@@ -3,7 +3,7 @@ layout: homepage
 title: Racial and Religious Harmony Circles
 description: The Racial and Religious Harmony Circles aims to be networks of
   trust that unite people regardless of race or religion.
-image: /images/harmonycircleslogo.jpg
+image: /images/mccy harmony circle logo fa_full colour.jpg
 permalink: /
 notification: ""
 sections:
@@ -30,4 +30,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
