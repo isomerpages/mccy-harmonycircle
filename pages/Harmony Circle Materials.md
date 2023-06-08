@@ -3,7 +3,7 @@ title: Harmony Circle Materials
 permalink: /materials/
 description: ""
 ---
-The materials below are provided to support and facilitate ground engagements of Harmony Circles. We hope these will provide clarity in the roles you play within the community and develop stronger relationships with the various stakeholders.
+The references attached aim to support and facilitate ground engagements for the Harmony Circles. These documents will provide clarity and guidance in the roles you play within the community and to develop stronger relationships with the various stakeholders.
 
 | Document Name | Attachments |
 | -------- | -------- |
