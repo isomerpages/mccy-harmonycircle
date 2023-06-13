@@ -7,6 +7,6 @@ The references attached aim to support and facilitate ground engagements for the
 
 | Document Name | Attachments |
 | -------- | -------- |
-| Engagement Toolkit | [PDF](/files/engagement%20toolkit_digital.pdf) *(Write-up on Hinduism pending updates)* |
+| Engagement Toolkit *(Write-up on Hinduism pending updates)* | [PDF](/files/engagement%20toolkit_digital.pdf) |
 | Membership Form | [PDF](/files/harmony%20circle%20membership%20form.pdf) |
 | Funding Request Form | [PDF](/files/harmony%20circle%20funding%20request.pdf) |
