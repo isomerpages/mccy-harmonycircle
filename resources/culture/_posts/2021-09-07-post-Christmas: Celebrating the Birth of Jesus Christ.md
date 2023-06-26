@@ -7,8 +7,6 @@ description: Christmas is an annual Christian festival that celebrates and
   commemorates the birth of Jesus Christ, the only son of God.
 image: ""
 ---
-
-
 ![Christmas Manger scene with figurines](/images/culture/christmas-manger-scene-with-figurines.jpg)
 
 Christmas is an annual Christian festival that celebrates and commemorates the birth of Jesus Christ, the only son of God.
@@ -56,7 +54,7 @@ Christmas is a public holiday in Singapore. You can tell that the festive season
 The festive season is celebrated by Christians and non-Christians of different races with myriads of festive events, get-togethers, and feasting.
 
 #### Related Content
-* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
-* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
-* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
-* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.harmonycircle.sg/resources/culture/singapore-festivals/)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.harmonycircle.sg/resources/culture/chinese-new-year/)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.harmonycircle.sg/resources/culture/deepavali/)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa/)
