@@ -12,7 +12,7 @@ description: The Commitment to Safeguard Religious Harmony articulates the
 
 The Commitment to Safeguard Religious Harmony articulates the shared values to safeguard our religious harmony, as well as many positive ways Singaporeans have been interacting across religions to foster a cohesive society.
 
-With global trends and practices dividing communities along religious lines, religious leaders representing various faiths in Singapore have agreed that it is important to continually reaffirm their commitment to shared values that undergird religious harmony. The Commitment to Safeguard Religious Harmony was then developed following several discussions among local religious leaders, with support from the Government.  [View the full text of the Commitment.](https://www.ircc.sg/commitment-to-safeguard-religious-harmony/)
+With global trends and practices dividing communities along religious lines, religious leaders representing various faiths in Singapore have agreed that it is important to continually reaffirm their commitment to shared values that undergird religious harmony. The Commitment to Safeguard Religious Harmony was then developed following several discussions among local religious leaders, with support from the Government.  [View the full text of the Commitment.](https://www.harmonycircle.sg/commitment-to-safeguard-religious-harmony/)
 
 **2.	How is the Commitment different from previous declarations or guidelines for Religious Harmony?**
 
