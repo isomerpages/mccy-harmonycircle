@@ -55,7 +55,7 @@ Each celebration is an opportunity to learn about our heritage, enrich the local
 Even though the festivals commemorate different things and the rituals associated with them are vastly different, common threads such as reunion, traditional cuisine, well-wishing, and piety run through them. And these are values that everyone, regardless of ethnicity, culture and religion, can understand and relate to.
 
 #### Related Content
-* [Chinese New Year: No Better Time to Paint the Town Red](https://www.harmonycircle.sg/resources/culture/chinese-new-year)
-* [Christmas: Celebrating the Birth of Jesus Christ](https://www.harmonycircle.sg/resources/culture/christmas)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.harmonycircle.sg/resources/culture/chinese-new-year/)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.harmonycircle.sg/resources/culture/christmas/)
 * [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.harmonycircle.sg/resources/culture/deepavali/)
-* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa/)
