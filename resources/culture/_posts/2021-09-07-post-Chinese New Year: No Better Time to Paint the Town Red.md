@@ -8,8 +8,6 @@ description: Marked by lion dance performances with thunderous drum beats, the
   Year is traditionally celebrated in a roaring, vibrant manner.
 image: ""
 ---
-
-
 ![Colourful Chinese Lion Paper Dolls](/images/culture/colourful-chinese-lion-paper-dolls.jpg)
 
 Chinese New Year is a 15-day celebration that starts on the first day of the Lunar calendar and ends on the fifteenth. Because of this, it is also known as Lunar New Year.
@@ -67,7 +65,7 @@ Another highlight is the River Hongbao. Started in 1987, this annual event has b
 Lastly, the evening-to-night Chingay Parade is a uniquely Singaporean tradition and is usually held on the second week of the Chinese New Year. Celebrated by Singaporeans of different races, audiences can expect a marvel of dazzling floats, dragon dance and lively multi-ethnic performances.
 
 #### Related Content
-* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
-* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
-* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
-* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.harmonycircle.sg/resources/culture/singapore-festivals/)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.harmonycircle.sg/resources/culture/christmas/)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.harmonycircle.sg/resources/culture/deepavali/)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa/)

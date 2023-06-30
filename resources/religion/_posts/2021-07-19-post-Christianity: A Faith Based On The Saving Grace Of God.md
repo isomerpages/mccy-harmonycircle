@@ -8,8 +8,6 @@ description: Christians believe that they can receive salvation through faith in
   through faith”.
 image: ""
 ---
-
-
 Mention Christianity and the cross comes to mind. It is seen marking church buildings, printed on the cover of Bibles, and worn around the neck. 
  
 The cross is the universal symbol of Christianity, recognised by all Christian denominations as the visual representation of their faith.
@@ -69,13 +67,13 @@ According to the Bible, three days after Jesus’ crucifixion, some of his faith
 Jesus’ victory over death is a precursor of Christians’ resurrection from physical death to a perfect life in the new heavens and new earth in the presence of God. As such, Easter Sunday service is characterised by joyful singing, preaching about Jesus’ resurrection and the partaking of the Holy Communion.
 
 #### Related Content
-* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
-* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
-* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
-* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
-* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
-* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
-* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
+* [Diversity in Harmony: The Singapore Story](https://www.harmonycircle.sg/resources/religion/diversity-in-harmony/)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.harmonycircle.sg/resources/religion/bahai-faith/)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.harmonycircle.sg/resources/religion/buddhism/)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.harmonycircle.sg/resources/religion/hinduism/)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.harmonycircle.sg/resources/religion/islam/)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.harmonycircle.sg/resources/religion/jainism/)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.harmonycircle.sg/resources/religion/judaism/)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.harmonycircle.sg/resources/religion/sikhism/)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.harmonycircle.sg/resources/religion/taoism/)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.harmonycircle.sg/resources/religion/zoroastrianism/)

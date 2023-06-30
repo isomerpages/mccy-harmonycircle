@@ -7,8 +7,6 @@ description: Zoroastrianism was founded 3,500 years ago by an Iranian prophet
   called Zoroaster and evolved into the dominant religion in Ancient Persia.
 image: ""
 ---
-
-
 Zoroastrianism was founded 3,500 years ago by an Iranian prophet called Zoroaster whose teachings challenged the traditions of Indo-Iranian religion and started a movement that evolved into the dominant religion in Ancient Persia.
  
 At that time, Persia embraced a polytheistic faith that worshipped a pantheon of gods led by Ahura Mazda, which translates to “Wise Lord”. 
@@ -76,13 +74,13 @@ A visit to the fire temple is a must. There, Zoroastrians present their offering
 The Navroze is celebrated twice a year in Singapore – in March and August – following the Persian calendar and the Shensahi, one of the Zoroastrian calendars.
 
 #### Related Content
-* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
-* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
-* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
-* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
-* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
-* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
-* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
+* [Diversity in Harmony: The Singapore Story](https://www.harmonycircle.sg/resources/religion/diversity-in-harmony/)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.harmonycircle.sg/resources/religion/bahai-faith/)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.harmonycircle.sg/resources/religion/buddhism/)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.harmonycircle.sg/resources/religion/christianity/)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.harmonycircle.sg/resources/religion/hinduism/)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.harmonycircle.sg/resources/religion/islam/)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.harmonycircle.sg/resources/religion/jainism/)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.harmonycircle.sg/resources/religion/judaism/)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.harmonycircle.sg/resources/religion/sikhism/)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.harmonycircle.sg/resources/religion/taoism/)

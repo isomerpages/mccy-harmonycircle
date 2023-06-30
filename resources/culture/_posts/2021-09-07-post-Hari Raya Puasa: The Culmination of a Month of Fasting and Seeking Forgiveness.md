@@ -9,8 +9,6 @@ description: Hari Raya loosely translates to “day of celebration” in Malay �
   end of a month of “fasting”.
 image: ""
 ---
-
-
 ![People praying inside the Masjid Sultan mosque in Singapore](/images/culture/masjid-sultan-mosque-singapore.jpg)
 
 Hari Raya loosely translates to “day of celebration” in Malay — an apt description for the joyous festival of Hari Raya Puasa, which marks the end of a month of puasa, or “fasting”.
@@ -77,7 +75,7 @@ In 2021, Kampong Glam joined in the celebratory mood and started lighting up too
 Open to all Singaporeans, twinkling shophouses in neon along the streets form a magical ambience on the heritage site. No matter your ethnicity or faith, you can celebrate the festival by taking in the sights and the breathtaking light projections on the façade of the Sultan Mosque!
 
 #### Related Content
-* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
-* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
-* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
-* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.harmonycircle.sg/resources/culture/singapore-festivals/)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.harmonycircle.sg/resources/culture/chinese-new-year/)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.harmonycircle.sg/resources/culture/christmas/)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.harmonycircle.sg/resources/culture/deepavali/)

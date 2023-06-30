@@ -7,8 +7,6 @@ description: Taoism, or Daoism, is the indigenous religion of ancient China and
   has been in existence from around 4,700 years ago.
 image: ""
 ---
-
-
 Taoism, or Daoism, is the indigenous religion of ancient China and has been in existence from around 4,700 years ago. 
  
 It gained widespread recognition from the advocacy of *Lao Tzu*, an ancient Chinese philosopher and writer who is the reputed author of the *Dao De Jing*.
@@ -75,13 +73,13 @@ During the festival, worshippers visit temples with offerings to ask the Nine Em
 The festival ends with the urn being brought in a procession back to where the Nine Emperor Gods first arrived. The *jiu qu deng* is lowered the next day.
 
 #### Related Content
-* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
-* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
-* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
-* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
-* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
-* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
-* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
+* [Diversity in Harmony: The Singapore Story](https://www.harmonycircle.sg/resources/religion/diversity-in-harmony/)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.harmonycircle.sg/resources/religion/bahai-faith/)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.harmonycircle.sg/resources/religion/buddhism/)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.harmonycircle.sg/resources/religion/christianity/)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.harmonycircle.sg/resources/religion/hinduism/)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.harmonycircle.sg/resources/religion/islam/)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.harmonycircle.sg/resources/religion/jainism/)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.harmonycircle.sg/resources/religion/judaism/)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.harmonycircle.sg/resources/religion/sikhism/)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.harmonycircle.sg/resources/religion/zoroastrianism/)

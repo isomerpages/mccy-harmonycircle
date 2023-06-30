@@ -3,13 +3,11 @@ title: "Judaism: Covenant, Commandments And The Coming Of The Messiah"
 date: 2021-05-16
 permalink: /resources/religion/judaism/
 layout: post
-description: "The birth of Judaism as a faith as it is practiced and lived by
+description: The birth of Judaism as a faith as it is practiced and lived by
   today begins with God’s revelation to the Jewish people at Mount Sinai and the
-  giving of the Torah. "
+  giving of the Torah.
 image: ""
 ---
-
-
 Judaism had its beginnings about 4,000 years ago, when God promised Abraham that he would bless him with offspring as numerous as the stars and make him into a great nation. The people of this nation are called Jews.
  
 The birth of Judaism as a faith as it is practiced and lived by today begins with God’s revelation to the Jewish people at Mount Sinai and the giving of the Torah. Essentially, Jews entered a covenant with almighty at Sinai which binds them to keep all the 613 commandments contained in the Torah.
@@ -84,13 +82,13 @@ The Passover Festival celebrate the Jews’ redemption from the bondage and exil
 Jews celebrate Passover for 8 days (in the diaspora) and join in the *Seder* nights, to recount the story of the exodus and to fulfill the Passover observances and rituals as a family.
 
 #### Related Content
-* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
-* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
-* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
-* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
-* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
-* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
-* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
-* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
+* [Diversity in Harmony: The Singapore Story](https://www.harmonycircle.sg/resources/religion/diversity-in-harmony/)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.harmonycircle.sg/resources/religion/bahai-faith/)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.harmonycircle.sg/resources/religion/buddhism/)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.harmonycircle.sg/resources/religion/christianity/)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.harmonycircle.sg/resources/religion/hinduism/)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.harmonycircle.sg/resources/religion/islam/)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.harmonycircle.sg/resources/religion/jainism/)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.harmonycircle.sg/resources/religion/sikhism/)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.harmonycircle.sg/resources/religion/taoism/)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.harmonycircle.sg/resources/religion/zoroastrianism/)

@@ -8,17 +8,13 @@ description: Even though festivals in Singapore originate from different
   festivities with one another.
 image: ""
 ---
-
-
-
-
 ![Firework display in downtown Singapore](/images/culture/firework-display-in-downtown-singapore.jpg)
 
 Living in a multicultural society, Singaporeans are no strangers to festivities observed and celebrated by different communities.
 
 From the annual River Hongbao with its towering God of Fortune to the bustling Geylang Serai Hari Raya Bazaar, colourful Little India, and vibrant Christmas light-up along Orchard Road, festivals are celebrated with much joy and fanfare throughout the year in Singapore.
 
-In fact, eight out of 10 public holidays in Singapore are set aside for major festivals celebrated by the various ethnic and religious groups here. They include [Chinese New Year](https://www.ircc.sg/resources/culture/chinese-new-year), [Christmas](https://www.ircc.sg/resources/culture/christmas), [Deepavali](https://www.ircc.sg/resources/culture/deepavali), and [Hari Raya Puasa](https://www.ircc.sg/resources/culture/hari-raya-puasa).
+In fact, eight out of 10 public holidays in Singapore are set aside for major festivals celebrated by the various ethnic and religious groups here. They include [Chinese New Year](https://www.harmonycircle.sg/resources/culture/chinese-new-year/), [Christmas](https://www.harmonycircle.sg/resources/culture/christmas/), [Deepavali](https://www.harmonycircle.sg/resources/culture/deepavali/), and [Hari Raya Puasa](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa/).
 
 This is a reflection of our multicultural roots and a celebration of Singapore’s diversity.
 
@@ -38,7 +34,7 @@ During Christmas, friends, colleagues, and family members of different faiths ge
 
 Centuries ago, Singapore’s early immigrants had brought along their cultural and religious practices, including the celebration of festivals from their respective homelands to our shores. Today, we are used to living alongside others of different cultures, ethnicities, and beliefs — and even join in the celebrations.
 
-Building on this spirit of unity, organisations, ranging from statutory boards such as respective cultural centres to inter-faith platforms like the [Inter-Racial and Religious Confidence Circle (IRCC)](https://www.ircc.sg/), carry out various events during major festivals. The aim is to enable the public to better understand other traditions and practices that may not be familiar to them.
+Building on this spirit of unity, organisations, ranging from statutory boards such as respective cultural centres to inter-faith platforms like the [Racial and Religious Harmony Circles)](https://www.harmonycircle.sg/), carry out various events during major festivals. The aim is to enable the public to better understand other traditions and practices that may not be familiar to them.
 
 The Malay Heritage Centre, for example, holds an annual open house during Hari Raya Puasa, inviting the public for a weekend of celebrations that involve Malay cultural performances, craft activities, and exhibition tours. The Sun Yat Sen Nanyang Memorial Hall welcomes visitors young and old to take part in lantern-making workshops and night walks during the Mid-Autumn Lantern Festival.
 
@@ -59,7 +55,7 @@ Each celebration is an opportunity to learn about our heritage, enrich the local
 Even though the festivals commemorate different things and the rituals associated with them are vastly different, common threads such as reunion, traditional cuisine, well-wishing, and piety run through them. And these are values that everyone, regardless of ethnicity, culture and religion, can understand and relate to.
 
 #### Related Content
-* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
-* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
-* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.ircc.sg/resources/culture/deepavali)
-* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.harmonycircle.sg/resources/culture/chinese-new-year/)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.harmonycircle.sg/resources/culture/christmas/)
+* [Deepavali: Celebrating the Victory of Light Over Darkness](https://www.harmonycircle.sg/resources/culture/deepavali/)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa/)

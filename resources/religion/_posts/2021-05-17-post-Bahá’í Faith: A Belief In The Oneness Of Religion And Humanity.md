@@ -8,8 +8,6 @@ description: The teachings of Bahá’u’lláh, the Prophet Founder of the Fait
   world that embraces the diversity of the human race.
 image: ""
 ---
-
-
 With just eight Continental Houses of Worship around the world, and a few local and national Houses of Worship currently in construction in various countries, the Bahá’í Faith may not be familiar to most people. After all, the religion is only around 200 years old.
  
 The teachings of Bahá’u’lláh, the Prophet Founder of the Faith, provides a compelling vision and means for the creation of a united and just world that embraces the diversity of the human race.
@@ -63,13 +61,13 @@ Born just a day shy of two years earlier than Bahá’u’lláh, the Báb, whose
 The double celebration of the birthdays of the two Manifestations of God in the Bahá’í Faith holds great meaning for Bahá’ís around the world. They mark this joyous time of the year by coming together to pray, read the writings of the faith, reflect on the purpose and implications of the appearance of the Manifestations of God in the world, and express their joy through song and dance.
 
 #### Related Content
-* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
-* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
-* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
-* [Islam: Submission And Peace At The Heart Of The Faith](https://www.ircc.sg/resources/religion/islam)
-* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
-* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
-* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
-* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
+* [Diversity in Harmony: The Singapore Story](https://www.harmonycircle.sg/resources/religion/diversity-in-harmony/)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.harmonycircle.sg/resources/religion/buddhism/)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.harmonycircle.sg/resources/religion/christianity/)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.harmonycircle.sg/resources/religion/hinduism/)
+* [Islam: Submission And Peace At The Heart Of The Faith](https://www.harmonycircle.sg/resources/religion/islam/)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.harmonycircle.sg/resources/religion/jainism/)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.harmonycircle.sg/resources/religion/judaism/)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.harmonycircle.sg/resources/religion/sikhism/)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.harmonycircle.sg/resources/religion/taoism/)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.harmonycircle.sg/resources/religion/zoroastrianism/)

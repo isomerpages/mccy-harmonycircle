@@ -3,12 +3,10 @@ title: "Islam: Submission And Peace At The Heart Of The Faith"
 date: 2021-05-17
 permalink: /resources/religion/islam/
 layout: post
-description: "The word Islam itself has a two-fold meaning – peace, and
-  submission to God (Allah). "
+description: The word Islam itself has a two-fold meaning – peace, and
+  submission to God (Allah).
 image: ""
 ---
-
-
 The word Islam itself has a two-fold meaning – peace, and submission to God (Allah). This submission requires a fully conscious and willing effort to worship the one Almighty God. It is believed that only when Muslims are able to completely submit to God’s will, can they establish peace in their hearts which will then manifest in their external conduct.
  
 “Peace” is the most common word on a Muslim’s tongue. Whenever two people meet, they exchange greetings, wishing each other peace: "*Assalamu’alaikum*" - “Peace be upon you”. To which, the reply is “*Wa-Alaikumus-Salaam*” or “and upon you be peace”.
@@ -53,13 +51,13 @@ The commemoration of the Prophet Muhammad’s birthday or *Maulud Nabi* is a cel
 The *Maulud* is also commonly held throughout the year in conjunction with birthdays or weddings as a form of blessings and guidance for the congregation.
 
 #### Related Content
-* [Diversity in Harmony: The Singapore Story](https://www.ircc.sg/resources/religion/diversity-in-harmony)
-* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.ircc.sg/resources/religion/bahai-faith)
-* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.ircc.sg/resources/religion/buddhism)
-* [Christianity: A Faith Based On The Saving Grace Of God](https://www.ircc.sg/resources/religion/christianity)
-* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.ircc.sg/resources/religion/hinduism)
-* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.ircc.sg/resources/religion/jainism)
-* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.ircc.sg/resources/religion/judaism)
-* [Sikhism: Lifelong Learning Among Equals About God](https://www.ircc.sg/resources/religion/sikhism)
-* [Taoism: A Path Towards Good Fortune And Immortality](https://www.ircc.sg/resources/religion/taoism)
-* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.ircc.sg/resources/religion/zoroastrianism)
+* [Diversity in Harmony: The Singapore Story](https://www.harmonycircle.sg/resources/religion/diversity-in-harmony/)
+* [Bahá’í Faith: A Belief In The Oneness Of Religion And Humanity](https://www.harmonycircle.sg/resources/religion/bahai-faith/)
+* [Buddhism: A Path To Overcome Suffering And Transcend Worldly Existence](https://www.harmonycircle.sg/resources/religion/buddhism/)
+* [Christianity: A Faith Based On The Saving Grace Of God](https://www.harmonycircle.sg/resources/religion/christianity/)
+* [Hinduism: A Way Of Life Based On Eternal Truths](https://www.harmonycircle.sg/resources/religion/hinduism/)
+* [Jainism: Upholding Non-Violence, Compassion And Respect](https://www.harmonycircle.sg/resources/religion/jainism/)
+* [Judaism: Covenant, Commandments And The Coming Of The Messiah](https://www.harmonycircle.sg/resources/religion/judaism/)
+* [Sikhism: Lifelong Learning Among Equals About God](https://www.harmonycircle.sg/resources/religion/sikhism/)
+* [Taoism: A Path Towards Good Fortune And Immortality](https://www.harmonycircle.sg/resources/religion/taoism/)
+* [Zoroastrianism: An Ancient Religion In A Modern World](https://www.harmonycircle.sg/resources/religion/zoroastrianism/)

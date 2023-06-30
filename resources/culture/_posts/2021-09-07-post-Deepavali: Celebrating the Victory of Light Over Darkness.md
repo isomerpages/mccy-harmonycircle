@@ -7,8 +7,6 @@ description: Deepavali, also known as the “Festival of Lights”, is observed 
   celebrated by Hindus, Sikhs and Jains all over the world.
 image: ""
 ---
-
-
 ![Making rangoli](/images/culture/making-rangoli.jpg)
 
 Deepavali, also known as the “Festival of Lights”, is observed and celebrated by Hindus, Sikhs and Jains all over the world. It falls on the fourteenth day of the dark fortnight, or the waning moon, in the month of Aippasi in the Tamil calendar. This usually falls in the month of October or November in the Gregorian calendar.
@@ -56,7 +54,7 @@ In a visit to the Indian Heritage Centre, visitors can take part in Deepavali-th
 These community Deepavali events are eye-opening cultural experiences and help Singaporeans of all races to deepen their understanding of the festival.
 
 #### Related Content
-* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.ircc.sg/resources/culture/singapore-festivals)
-* [Chinese New Year: No Better Time to Paint the Town Red](https://www.ircc.sg/resources/culture/chinese-new-year)
-* [Christmas: Celebrating the Birth of Jesus Christ](https://www.ircc.sg/resources/culture/christmas)
-* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.ircc.sg/resources/culture/hari-raya-puasa)
+* [The Festivals of Singapore: A Beautiful Tapestry of Cultures](https://www.harmonycircle.sg/resources/culture/singapore-festivals/)
+* [Chinese New Year: No Better Time to Paint the Town Red](https://www.harmonycircle.sg/resources/culture/chinese-new-year/)
+* [Christmas: Celebrating the Birth of Jesus Christ](https://www.harmonycircle.sg/resources/culture/christmas/)
+* [Hari Raya Puasa: The Culmination of a Month of Fasting and Seeking Forgiveness](https://www.harmonycircle.sg/resources/culture/hari-raya-puasa/)
