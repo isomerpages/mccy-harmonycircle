@@ -22,17 +22,15 @@ Sign up here:
 |
 [Non-Competitive Games](https://docs.google.com/forms/d/e/1FAIpQLScF0bizk6lPSLhI0ENshbpjx-NAs0lll8PaXWW7bcefvbziFg/viewform)
 
+### HarmonyWorks! Conference: Me to We
+***By OnePeople.sg***
+![Harmonyworks! conference](/images/harmonyworks.jpg)
+Calling out to all youths to come onboard this year’s HarmonyWorks! Conference, a signature youth conference exploring race relations. This year’s conference revolves around the theme, ‘Me to We’, where participants will engage on issues of casual racism, woke culture on social media and relations between locals and migrants, and dialogue about issues they are passionate about.
+
+[Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
+
 ### Get to Know the Latter-Day Saints
 ***By Centre for Interfaith Understanding, Dialogue Centre & Harmony Circles***
 ![Latter Day Saints](/images/get%20to%20know%20the%20latter-day%20saints.jpg)
 
-Interested to learn more about the different faith communities in Singapore? This July, join us on an engaging learning journey to the Church of Jesus Christ of Latter-Day Saints to learn more about the history, beliefs and contributions of the Latter-Day Saint community. [Sign up here!]
-(http://tinyurl.com/2p94y7jb)
-
-### HarmonyWorks! Conference: Me to We
-***By OnePeople.sg***
-
-Calling out to all youths to come onboard this year’s HarmonyWorks! Conference, a signature youth conference exploring race relations. This year’s conference revolves around the theme, ‘Me to We’, where participants will engage on issues of casual racism, woke culture on social media and relations between locals and migrants, and dialogue about issues they are passionate about.
-
-[Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023!
-(Early Bird special ends on 5 July 2023)
+Interested to learn more about the different faith communities in Singapore? This July, join us on an engaging learning journey to the Church of Jesus Christ of Latter-Day Saints to learn more about the history, beliefs and contributions of the Latter-Day Saint community. [Sign up here!](http://tinyurl.com/2p94y7jb)
