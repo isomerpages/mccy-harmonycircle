@@ -36,10 +36,3 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023!
 (Early Bird special ends on 5 July 2023)
-
-
-
-
-
-
-
