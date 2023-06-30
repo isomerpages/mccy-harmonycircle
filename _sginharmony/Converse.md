@@ -7,7 +7,7 @@ description: Grow mutual understanding and respect for our racial and religious
 ---
 ### HarmonyWorks! Conference: Me to We
 ***By OnePeople.sg***
-![Harmonyworks! conference](/images/harmonyworks.jpg)
+![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
 Calling out to all youths to come onboard this year’s HarmonyWorks! Conference, a signature youth conference exploring race relations. This year’s conference revolves around the theme, ‘Me to We’, where participants will engage on issues of casual racism, woke culture on social media and relations between locals and migrants, and dialogue about issues they are passionate about.
 
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
