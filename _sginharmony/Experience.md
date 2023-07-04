@@ -9,7 +9,7 @@ description: Grow mutual understanding and respect for our racial and religious
 ***By Singapore Sports Hub & Harmony Circles***
 
 ![Harmony Sports Fiesta 2023](/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg)
-Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here]([https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&utm_source=Harmony%20Circle&utm_campaign=Harmony_Sports_Fiesta_2023&utm_content=harmony_circle_website)!
+Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here](https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&utm_source=Harmony%20Circle&utm_campaign=Harmony_Sports_Fiesta_2023&utm_content=harmony_circle_website)!
 
 ### 12th Annual Harmony Games
 ***By Hindu Endowments Board & Hindu Advisory Board***

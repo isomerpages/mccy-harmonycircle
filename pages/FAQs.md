@@ -23,13 +23,20 @@ In addition, the Harmony Circles are trained to respond quickly to racial and re
 
 **4. What are some of Harmony Circle’s programmes?**
 
-Interfaith Dialogues – Dialogue enhances understanding and appreciation of the different faiths and beliefs though sharing of knowledge and perspectives from religious leaders and representatives.
+*   **Networking Sessions**  
+    Regular networking sessions and focus group discussions create opportunities for members and stakeholders representing various religious-, community-, and cultural-based organisations to interact and exchange ideas, so as to foster stronger bonds and facilitate synergies for collaborative efforts in promoting inter-faith understanding.
 
-Interfaith Visits – Guided visits to places of worship allow for greater insights into the various faiths and their religious practices. Participants will be able to better appreciate Singapore’s rich heritage and religious diversity through first hand experience and in-depth explanations from religious leaders and representatives.
+*   **Interfaith Dialogues**  
+    Dialogue enhances understanding and appreciation of the different faiths and beliefs though sharing of knowledge and perspectives from religious leaders and representatives.
 
-IRCC Cares – Launched in 2009, "IRCC Cares" aims to help the less privileged in the community through a series of fund-raising and/or charity projects. The programme allows community leaders, religious organisations and partners to connect with one another, forge relationships and play their part for the less fortunate. It is a good example of the Harmony Circle’s commitment in constantly exploring new ways of interaction and communication. 
+*   **Interfaith Visits**  
+    Guided visits to places of worship allow for greater insights into the various faiths and their religious practices. Participants will be able to better appreciate Singapore’s rich heritage and religious diversity through first hand experience and in-depth explanations from religious leaders and representatives. 
 
-Capability-building Programmes – Courses, workshops and crisis-preparedness exercises are conducted to equip members with the skills and knowledge to facilitate their work in promoting inter-faith and inter-racial harmony and overcome challenges in maintaining peace in the community.
+*   **Harmony Circle Cares**  
+    Launched in 2009, "Harmony Circle Cares" aims to help the less privileged in the community through a series of fund-raising and/or charity projects. The programme allows community leaders, religious organisations and partners to connect with one another, forge relationships and play their part for the less fortunate. It is a good example of the Harmony Circle's commitment in constantly exploring new ways of interaction and communication. Such efforts cultivate a caring, compassionate and gracious society, and ultimately strengthen the foundations of racial and religious harmony. 
+
+*   **Capability-building Programmes**  
+    Courses, workshops and crisis-preparedness exercises are conducted monthly to equip members with the skills and knowledge to facilitate their work in promoting inter-faith harmony and overcome challenges in maintaining peace in the community.
  
 **5. How can I volunteer with the Harmony Circles?**
 
