@@ -5,15 +5,23 @@ description: Grow mutual understanding and respect for our racial and religious
   diversity through everyday actions in their lives. Explore activities that our
   partners have developed just for you!
 ---
+### Let's Walk - Celebrate Harmony at the Heritage Institutions
+***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
+![Let's Walk 2023 info](/images/rhd_2023%20edm.jpg)
+
+Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-website)!     
+[Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
+
 ### Harmony Sports Fiesta 2023
 ***By Singapore Sports Hub & Harmony Circles***
-
 ![Harmony Sports Fiesta 2023](/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg)
+
 Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here](https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&utm_source=Harmony%20Circle&utm_campaign=Harmony_Sports_Fiesta_2023&utm_content=harmony_circle_website)!
 
 ### 12th Annual Harmony Games
 ***By Hindu Endowments Board & Hindu Advisory Board***
 ![12th Annual Harmony Games 2023](/images/12th%20annual%20harmony%20games.jpg)
+
 The Harmony Games were started in 2008 by the National Steering Committee (NSC) on Racial and Religious Harmony to bring the various faith communities together to foster new bonds of friendship and understanding through sports.
 
 Come join in the fun with your friends and families with activities such as floorball, basketball, futsal, captain's ball, laser tag, archery & kabadi!
@@ -25,6 +33,7 @@ Sign up here:
 ### HarmonyWorks! Conference: Me to We
 ***By OnePeople.sg***
 ![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
+
 Calling out to all youths to come onboard this year’s HarmonyWorks! Conference, a signature youth conference exploring race relations. This year’s conference revolves around the theme, ‘Me to We’, where participants will engage on issues of casual racism, woke culture on social media and relations between locals and migrants, and dialogue about issues they are passionate about.
 
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
