@@ -9,8 +9,9 @@ description: Grow mutual understanding and respect for our racial and religious
 ***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
 ![Let's Walk 2023 info](/images/rhd_2023%20edm.jpg)
 
-Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-website)!     
+Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-wesbite)!     
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
+
 
 ### Harmony Sports Fiesta 2023
 ***By Singapore Sports Hub & Harmony Circles***
