@@ -8,6 +8,7 @@ description: Grow mutual understanding and respect for our racial and religious
 ### Soundscapes of Religions in Singapore
 ***By Centre for Interfaith Understanding (CIFU) & MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
+
 "What does religion sound like?"
 
 Step into the vibrant and diverse religious tapestry of Singapore through the immersive "Soundscapes of Religions in Singapore" programme to find out! Join guided tours with knowledgeable interfaith guides delving into the acoustic environment of Singapore's diverse religious landscape, and encounter a variety of religious sounds such as Christian hymns and Sikh kirtan.
@@ -24,7 +25,7 @@ Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Co
 
 ### Let's Walk - Celebrate Harmony at the Heritage Institutions
 ***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
-![Let's Walk 2023 info](/images/rhd_2023%20edm.jpg)
+![Let's Walk 2023](/images/rhd_2023%20kv%20colour%20revised%20lr.jpg)
 
 Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-wesbite)!     
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
