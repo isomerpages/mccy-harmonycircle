@@ -17,11 +17,13 @@ Discover what religion truly sounds like and uncover the unity that lies within 
 
 [Register here!](https://letswalk-soundscapestour.peatix.com/event/3637001/view?utm_campaign=pod-52144&utm_medium=email&utm_source=follow-organizer&utm_content=18047608&dlvid=740e40db-494f-4f19-aa9c-c713360923a5&sltid=0)
 
+
 ### Harmony Sports Fiesta 2023
 ***By Singapore Sports Hub & Harmony Circles***
 ![Harmony Sports Fiesta 2023](/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg)
 
 Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here](https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&utm_source=Harmony%20Circle&utm_campaign=Harmony_Sports_Fiesta_2023&utm_content=harmony_circle_website)!
+
 
 ### Let's Walk - Celebrate Harmony at the Heritage Institutions
 ***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
@@ -29,6 +31,7 @@ Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Co
 
 Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-wesbite)!     
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
+
 
 ### 12th Annual Harmony Games
 ***By Hindu Endowments Board & Hindu Advisory Board***
@@ -42,6 +45,7 @@ Sign up here:
 |
 [Non-Competitive Games](https://docs.google.com/forms/d/e/1FAIpQLScF0bizk6lPSLhI0ENshbpjx-NAs0lll8PaXWW7bcefvbziFg/viewform)
 
+
 ### HarmonyWorks! Conference: Me to We
 ***By OnePeople.sg***
 ![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
@@ -49,6 +53,28 @@ Sign up here:
 Calling out to all youths to come onboard this year’s HarmonyWorks! Conference, a signature youth conference exploring race relations. This year’s conference revolves around the theme, ‘Me to We’, where participants will engage on issues of casual racism, woke culture on social media and relations between locals and migrants, and dialogue about issues they are passionate about.
 
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
+
+
+### Interfaith Dialogue - Faithful Melodies
+***By Queenstown's Harmony Circle & Citizens' Consultative Committee***
+
+Six panellists from different religious backgrounds – Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i – will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
+
+[Register here!](https://go.gov.sg/interfaithdialogue-faithfulmelodies)
+
+### Pasir Ris-Punggol GRC Harmony Carnival
+***By Pasir Ris-Punggol Harmony Circle & Punggol Shore Citizens' Consultative Committee***
+
+
+
+### Racial Harmony Ultimate Frisbee Tournament 
+***By Marymount Harmony Circle, Eunoia Junior College & Oasis Frisbee Club***
+![RHUFT](/images/racial%20harmony%20ultimate%20frisbee%20tournament.jpg)
+
+A frisbee enthusiast? Join approximately 200 ultimate frisbee players from different races and religious organisations to participate in a full-day frisbee competition. Fringe activities include a photobooth, carnival games, food stations, and a mini frisbee workshop for participants.
+
+Registration for the Frisbee Tournament has closed due to overwhelming response.
+
 
 ### Get to Know the Latter-Day Saints
 ***By Centre for Interfaith Understanding, Dialogue Centre & Harmony Circles***
