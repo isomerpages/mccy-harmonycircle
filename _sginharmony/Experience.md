@@ -55,6 +55,16 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
+### Sengkang Harmony Carnival 2023
+***By Sengkang Central's Harmony Circle & Citizens' Consultative Committee***
+
+Experience an extraordinary celebration of unity and diversity at the Sengkang Racial Harmony Day Carnival! Prepare to tantalise your taste buds at live food stations, offering a delectable selection of flavours from various cultural traditions, and be captivated by mesmerising cultural performances.
+
+One of the crowning moments of the event will be a heartwarming vow renewal segment, where approximately 30 couples from diverse racial and religious backgrounds will reaffirm their love and commitment. [Find out more here!](https://go.gov.sg/skchc23)
+
+No registration is required. 
+
+
 ### Interfaith Dialogue - Faithful Melodies
 ***By Queenstown's Harmony Circle & Citizens' Consultative Committee***
 
@@ -62,11 +72,12 @@ Six panellists from different religious backgrounds – Buddhist, Muslim, Chri
 
 [Register here!](https://go.gov.sg/interfaithdialogue-faithfulmelodies)
 
+
 ### Pasir Ris-Punggol GRC Harmony Carnival
 ***By Pasir Ris-Punggol Harmony Circle & Punggol Shore Citizens' Consultative Committee***
 ![PR-P RH Carnival](/images/pasir%20ris-%20punggol%20rh%20carnival.jpeg)
 
-Join us in celebrating the vibrant Harmony Carnival on the 29th of July with your friends and family! Immerse yourself in a mesmerizing showcase of inter-cultural dance performances, where diverse traditions intertwine to create a harmonious spectacle. Delight your taste buds at the exquisite array of culinary delights from cultural booths representing the rich tapestry of racial groups. This extraordinary event promises a joyful fusion of art, cuisine, and cultural exchange that will leave lasting memories for everyone involved.
+Join us in celebrating the vibrant Harmony Carnival on the 29th of July with your friends and family! Immerse yourself in a mesmerising showcase of inter-cultural dance performances, where diverse traditions intertwine to create a harmonious spectacle. Delight your taste buds at the exquisite array of culinary delights from cultural booths representing the rich tapestry of our racial groups. This extraordinary event promises a joyful fusion of art, cuisine, and cultural exchange that will leave lasting memories for everyone involved.
 
 No registration required.
 
