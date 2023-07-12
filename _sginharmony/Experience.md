@@ -55,6 +55,24 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
+### Racial Harmony Carnival
+***By Bukit Panjang Harmony Circle, Holland-Bukit Timah GRC & Bukit Panjang SMC Harmony Circles***
+![Bukit Panjang carnival](/images/bukit%20panjang%20z3,%20hbt,%20bp%20rh%20carnival.jpeg)
+
+Indulge in a spectacular carnival experience featuring captivating performances including skits, dances, and songs; delectable offerings from live food stations representing diverse ethnic groups; and engage in thrilling games. 
+
+Members of the public can collect coupons from the nearest community centre/club within Holland-Bukit Timah GRC.
+
+
+### Paya Lebar Racial Harmony Day Carnival
+***By Paya Lebar 's Harmony Circle, Citizens’ Consultative Committee, and Youth Network***
+![PL RH Carnival](/images/paya%20lebar%20rh%20carnival.jpeg)
+  
+Experience a cultural extravaganza where you can enjoy an art competition for children, a volunteer-led Rangoli drawing (residents can join and complete different portions of the artwork), a Ketupat weaving workshop, a Chinese calligraphy session, and stage performances such as a fashion parade showcasing traditional ethnic outfits. Join us for a day of vibrant traditions and creative delights!
+
+Tickets can be purchased at Paya Lebar Kovan CC, Aljunied CC, or the nearest Residents' Committee Centre at $2/pax.
+
+
 ### Ayer Rajah-Gek Poh's Racial Harmony Potluck
 ***By Ayer Rajah-Gek Poh's Harmony Circle & Citizens' Consultative Committee***
 ![AR-GP RH Potluck](/images/ayer%20rajah-gek%20poh%20rh%20potluck.jpeg)
