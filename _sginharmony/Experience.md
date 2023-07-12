@@ -55,6 +55,17 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
+### Ci Yuan Racial Harmony Day
+***By Ang Mo Kio-Hougang's Harmony Circle and Community Sports Club***
+![CY Carnival](/images/ci%20yuan%20rh%20carnival%20.jpeg)
+
+Witness an array of multi-ethnic dance performances, and enjoy the fun games, captivating handicrafts, and mouthwatering food stations. Join the community for the refreshing "Unity in Diversity" mass walk and delve into the diverse wedding practices of Singapore through enlightening exhibition panels. Don't miss the enlightening conversation on Diversity: Race & Religion with youths by the social organisation Friendzone. Get ready for an unforgettable day of culture, education, and connection!
+
+[Tickets are available here!](https://go.gov.sg/rhd2023)        
+[Register here for the Unity in Diversity Walk!](https://go.gov.sg/uidwalk)         
+[Register here for the CommUNITY Dialogue!](https://go.gov.sg/community-conversationsondiversity)
+
+
 ### Racial Harmony Carnival
 ***By Bukit Panjang Harmony Circle, Holland-Bukit Timah GRC & Bukit Panjang SMC Harmony Circles***
 ![Bukit Panjang carnival](/images/bukit%20panjang%20z3,%20hbt,%20bp%20rh%20carnival.jpeg)
