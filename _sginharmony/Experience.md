@@ -55,10 +55,14 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
+
+
+
 ### Sengkang Harmony Carnival 2023
 ***By Sengkang Central's Harmony Circle & Citizens' Consultative Committee***
+![SKC RH Carnival](/images/sengkang%20central%20rh%20carnival.jpeg)
 
-Experience an extraordinary celebration of unity and diversity at the Sengkang Racial Harmony Day Carnival! Prepare to tantalise your taste buds at live food stations, offering a delectable selection of flavours from various cultural traditions, and be captivated by mesmerising cultural performances.
+Experience an extraordinary celebration of unity and diversity at the Sengkang Racial Harmony Day Carnival! Prepare to tantalise your taste buds at live food stations, offering a delectable selection of flavours from various cultural traditions. Be captivated by mesmerising cultural performances, and participate in the numerous activity booths and games prepared for you.
 
 One of the crowning moments of the event will be a heartwarming vow renewal segment, where approximately 30 couples from diverse racial and religious backgrounds will reaffirm their love and commitment. [Find out more here!](https://go.gov.sg/skchc23)
 
