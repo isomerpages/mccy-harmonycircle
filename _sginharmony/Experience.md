@@ -64,7 +64,11 @@ Six panellists from different religious backgrounds – Buddhist, Muslim, Chri
 
 ### Pasir Ris-Punggol GRC Harmony Carnival
 ***By Pasir Ris-Punggol Harmony Circle & Punggol Shore Citizens' Consultative Committee***
+![PR-P RH Carnival](/images/pasir%20ris-%20punggol%20rh%20carnival.jpeg)
 
+Join us in celebrating the vibrant Harmony Carnival on the 29th of July with your friends and family! Immerse yourself in a mesmerizing showcase of inter-cultural dance performances, where diverse traditions intertwine to create a harmonious spectacle. Delight your taste buds at the exquisite array of culinary delights from cultural booths representing the rich tapestry of racial groups. This extraordinary event promises a joyful fusion of art, cuisine, and cultural exchange that will leave lasting memories for everyone involved.
+
+No registration required.
 
 
 ### Racial Harmony Ultimate Frisbee Tournament 
