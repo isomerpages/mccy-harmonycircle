@@ -57,6 +57,7 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 
 ### Ayer Rajah-Gek Poh's Racial Harmony Potluck
 ***By Ayer Rajah-Gek Poh's Harmony Circle & Citizens' Consultative Committee***
+![AR-GP RH Potluck](/images/ayer%20rajah-gek%20poh%20rh%20potluck.jpeg)
 
 Want to be part of a potentially record-breaking moment?
 The organisers are aiming to break the Singapore Book of Records by having more than 1,500 participants bring 200 homecooked dishes to share with one another. Partake in the numerous activities such as a Costume Competition, Children Art Competition, interactive booths, and Lucky Draws.
@@ -64,7 +65,6 @@ The organisers are aiming to break the Singapore Book of Records by having more 
 Registration for selected activities at Teban Gardens Residents’ Network Centre. 
 
 Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Gardens RN Centre, Teban Place Residents’ Network Centre at $2/pax.
-
 
 
 ### Sengkang Harmony Carnival 2023
