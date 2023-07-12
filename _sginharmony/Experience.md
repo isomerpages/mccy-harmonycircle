@@ -55,6 +55,15 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
+### Ayer Rajah-Gek Poh's Racial Harmony Potluck
+***By Ayer Rajah-Gek Poh's Harmony Circle & Citizens' Consultative Committee***
+
+Want to be part of a potentially record-breaking moment?
+The organisers are aiming to break the Singapore Book of Records by having more than 1,500 participants bring 200 homecooked dishes to share with one another. Partake in the numerous activities such as a Costume Competition, Children Art Competition, interactive booths, and Lucky Draws.
+
+Registration for selected activities at Teban Gardens Residents’ Network Centre. 
+
+Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Gardens RN Centre, Teban Place Residents’ Network Centre at $2/pax.
 
 
 
