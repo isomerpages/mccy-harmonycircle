@@ -21,10 +21,11 @@ description: Grow mutual understanding and respect for our racial and religious
 | 9     | 29 Jul; 8am–6pm| <a href="9">**Racial Harmony Ultimate Frisbee Tournament**</a> | Eunoia Junior College Grass Field |
 
 ##### Culture and Heritage
+
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 1 | 22 Jul 10am–5pm| <a href="10">**Soundscapes of Religions in Singapore**</a> | Indian Heritage Centre |
-| 2     | 22 – 23 July; 10am-6pm| <a href="11">**Let’s Walk – Celebrating Harmony at the Heritage Institutions**</a> | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall|
+| 1     | 22 Jul 10am–5pm     | <a href="10">**Soundscapes of Religions in Singapore**</a>     | Indian Heritage Centre     |
+| 2     | 22–23 July; 10am-6pm     | <a href="11">**Let’s Walk – Celebrating Harmony at the Heritage Institutions**</a>    | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall     |
 
 ##### Dialogues 
 
