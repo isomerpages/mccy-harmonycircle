@@ -7,10 +7,6 @@ description: Grow mutual understanding and respect for our racial and religious
 ---
 ### List of #SGInHarmony Events 2023
 
-
-
-
-
 ##### Sports, Food &amp; Carnivals 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
