@@ -36,9 +36,8 @@ description: Grow mutual understanding and respect for our racial and religious
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
-
-
 ##### **See full details below.**
+
 ## Sports, Food &amp; Carnivals
 
 <a id="1">##### Harmony Sports Fiesta 2023</a>
