@@ -5,6 +5,39 @@ description: Grow mutual understanding and respect for our racial and religious
   diversity through everyday actions in their lives. Explore activities that our
   partners have developed just for you!
 ---
+### List of #SGInHarmony Events 2023
+
+#### Sports, Food & Carnivals
+### 
+| No. | Date | Event | Venue |
+| -------- | -------- | -------- | -------- |
+| 1 | 22–23 Jul; 9am–7pm | **Harmony Sports Fiesta 2023** | OCBC Square, Singapore Sports Hub |
+| 2     | 15 Jul; 9am–12pm| Ci Yuan Community Club Celebrates Racial Harmony Day - UNITY IN DIVERSITY | Ci Yuan Community Club|
+| 3     | 15 Jul; 9am–2pm| 12th Harmony Games 2023 | Northlight School |
+| 4     | 16 Jul; 9am–12pm| Racial Harmony Carnival | Bangkit Court |
+| 5     | 16 July; 10am–1pm| Paya Lebar Racial Harmony Day Carnival | Kovan Hub |
+| 6     | 22 July; 4pm-7.30pm| Ayer Rajah-Gek Poh's Racial Harmony Potluck | Teban Neighbourhood Park |
+| 7    | 23 July; 1pm–4pm | Sengkang Harmony Carnival 2023 | Sengkang Grand Mall, Atrium |
+| 8     | 29 Jul; 9am–6pm| Pasir Ris-Punggol GRC Harmony Carnival | Punggol 21 Community Club |
+| 9     | 29 Jul; 8am–6pm| Racial Harmony Ultimate Frisbee Tournament | Eunoia Junior College Grass Field |
+
+#### Culture and Heritage
+#### 
+| No. | Date | Event | Venue |
+| -------- | -------- | -------- | -------- |
+| 1 | 22 Jul 10am–5pm| **Soundscapes of Religions in Singapore** | Indian Heritage Centre |
+| 2     | 22 – 23 July; 10am-6pm| **Let’s Walk – Celebrating Harmony at the Heritage Institutions** | Indian Heritage Centre & Sun Yat Sen Memorial Hall|
+
+#### Dialogues
+#### 
+| No. | Date | Event | Venue |
+| -------- | -------- | -------- | -------- |
+| 1 | 22 Jul 9:00am–4.30pm| HarmonyWorks! Conference: Me to We | ITE College East |
+| 2 | 29 Jul 1.30pm–3.00pm| Interfaith Dialogue – Faithful Melodies| Queenstown CC, Multi-purpose Hall |
+
+
+
+
 ### Soundscapes of Religions in Singapore
 ***By Centre for Interfaith Understanding (CIFU) & MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
@@ -130,11 +163,5 @@ No registration required.
 
 A frisbee enthusiast? Join approximately 200 ultimate frisbee players from different races and religious organisations to participate in a full-day frisbee competition. Fringe activities include a photobooth, carnival games, food stations, and a mini frisbee workshop for participants.
 
-Registration for the Frisbee Tournament has closed due to overwhelming response.
+[Find out more here!](https://instagram.com/oasis.ultimate)
 
-
-### Get to Know the Latter-Day Saints
-***By Centre for Interfaith Understanding, Dialogue Centre & Harmony Circles***
-![Latter Day Saints](/images/get%20to%20know%20the%20latter-day%20saints.jpg)
-
-Interested to learn more about the different faith communities in Singapore? This July, join us on an engaging learning journey to the Church of Jesus Christ of Latter-Day Saints to learn more about the history, beliefs and contributions of the Latter-Day Saint community. [Sign up here!](http://tinyurl.com/2p94y7jb)
