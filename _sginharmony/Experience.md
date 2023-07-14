@@ -7,10 +7,14 @@ description: Grow mutual understanding and respect for our racial and religious
 ---
 ### List of #SGInHarmony Events 2023
 
-##### Sports, Food & Carnivals 
+
+
+
+
+##### Sports, Food &amp; Carnivals 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 1 | 22–23 Jul; 9am–7pm | **Harmony Sports Fiesta 2023** | OCBC Square, Singapore Sports Hub |
+| 1 | 22–23 Jul; 9am–7pm | <a href="1">**Harmony Sports Fiesta 2023**</a> | OCBC Square, Singapore Sports Hub |
 | 2     | 15 Jul; 9am–12pm| **Ci Yuan Community Club Celebrates Racial Harmony Day - UNITY IN DIVERSITY** | Ci Yuan Community Club|
 | 3     | 15 Jul; 9am–2pm| **12th Harmony Games 2023** | Northlight School |
 | 4     | 16 Jul; 9am–12pm| **Racial Harmony Carnival** | Bangkit Court |
@@ -24,7 +28,7 @@ description: Grow mutual understanding and respect for our racial and religious
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
 | 1 | 22 Jul 10am–5pm| **Soundscapes of Religions in Singapore** | Indian Heritage Centre |
-| 2     | 22 – 23 July; 10am-6pm| **Let’s Walk – Celebrating Harmony at the Heritage Institutions** | Indian Heritage Centre & Sun Yat Sen Memorial Hall|
+| 2     | 22 – 23 July; 10am-6pm| **Let’s Walk – Celebrating Harmony at the Heritage Institutions** | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall|
 
 ##### Dialogues 
 | No. | Date | Event | Venue |
@@ -39,39 +43,38 @@ description: Grow mutual understanding and respect for our racial and religious
 
 
 ##### **See full details below.**
-## Sports, Food & Carnivals
+## Sports, Food &amp; Carnivals
 
-
-##### Harmony Sports Fiesta 2023
-***By Singapore Sports Hub & Harmony Circles***
+<a id="1">##### Harmony Sports Fiesta 2023</a>
+***By Singapore Sports Hub &amp; Harmony Circles***
 ![Harmony Sports Fiesta 2023](/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg)
 
-Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here](https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&utm_source=Harmony%20Circle&utm_campaign=Harmony_Sports_Fiesta_2023&utm_content=harmony_circle_website)!
+Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here](https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&amp;utm_source=Harmony%20Circle&amp;utm_campaign=Harmony_Sports_Fiesta_2023&amp;utm_content=harmony_circle_website)!
 
 ##### Ci Yuan Racial Harmony Day
 ***By Ang Mo Kio-Hougang's Harmony Circle and Community Sports Club***
 ![CY Carnival](/images/ci%20yuan%20rh%20carnival%20.jpeg)
 
-Witness an array of multi-ethnic dance performances, and enjoy the fun games, captivating handicrafts, and mouthwatering food stations. Join the community for the refreshing "Unity in Diversity" mass walk and delve into the diverse wedding practices of Singapore through enlightening exhibition panels. Don't miss the enlightening conversation on Diversity: Race & Religion with youths by the social organisation Friendzone. Get ready for an unforgettable day of culture, education, and connection!
+Witness an array of multi-ethnic dance performances, and enjoy the fun games, captivating handicrafts, and mouthwatering food stations. Join the community for the refreshing "Unity in Diversity" mass walk and delve into the diverse wedding practices of Singapore through enlightening exhibition panels. Don't miss the enlightening conversation on Diversity: Race &amp; Religion with youths by the social organisation Friendzone. Get ready for an unforgettable day of culture, education, and connection!
 
 [Tickets are available here!](https://go.gov.sg/rhd2023)        
 [Register here for the Unity in Diversity Walk!](https://go.gov.sg/uidwalk)         
 [Register here for the CommUNITY Dialogue!](https://go.gov.sg/community-conversationsondiversity)
 
 ##### 12th Annual Harmony Games
-***By Hindu Endowments Board & Hindu Advisory Board***
+***By Hindu Endowments Board &amp; Hindu Advisory Board***
 ![12th Annual Harmony Games 2023](/images/12th%20annual%20harmony%20games.jpg)
 
 The Harmony Games were started in 2008 by the National Steering Committee (NSC) on Racial and Religious Harmony to bring the various faith communities together to foster new bonds of friendship and understanding through sports.
 
-Come join in the fun with your friends and families with activities such as floorball, basketball, futsal, captain's ball, laser tag, archery & kabadi!
+Come join in the fun with your friends and families with activities such as floorball, basketball, futsal, captain's ball, laser tag, archery &amp; kabadi!
 Sign up here:
 [Competitive Games](https://docs.google.com/forms/d/e/1FAIpQLSdlDVFNw5X0rsyU4dLoSk1o0UklaLFFFXIFJRWjh-0TgDkgGQ/viewform)
 |
 [Non-Competitive Games](https://docs.google.com/forms/d/e/1FAIpQLScF0bizk6lPSLhI0ENshbpjx-NAs0lll8PaXWW7bcefvbziFg/viewform)
 
 ##### Racial Harmony Carnival
-***By Bukit Panjang Harmony Circle, Holland-Bukit Timah GRC & Bukit Panjang SMC Harmony Circles***
+***By Bukit Panjang Harmony Circle, Holland-Bukit Timah GRC &amp; Bukit Panjang SMC Harmony Circles***
 ![Bukit Panjang carnival](/images/bukit%20panjang%20z3,%20hbt,%20bp%20rh%20carnival.jpeg)
 
 Indulge in a spectacular carnival experience featuring captivating performances including skits, dances, and songs; delectable offerings from live food stations representing diverse ethnic groups; and engage in thrilling games. 
@@ -89,11 +92,11 @@ Tickets can be purchased at Paya Lebar Kovan CC, Aljunied CC, or the nearest Res
 
 
 ##### Ayer Rajah-Gek Poh's Racial Harmony Potluck
-***By Ayer Rajah-Gek Poh's Harmony Circle & Citizens' Consultative Committee***
+***By Ayer Rajah-Gek Poh's Harmony Circle &amp; Citizens' Consultative Committee***
 ![AR-GP RH Potluck](/images/ayer%20rajah-gek%20poh%20rh%20potluck.jpeg)
 
 Want to be part of a potentially record-breaking moment?
-The organisers are aiming to break the Singapore Book of Records by having more than 1,500 participants bring 200 homecooked dishes to share with one another. Partake in the numerous activities such as a Costume Competition, Children Art Competition, interactive booths, and Lucky Draws.
+The organisers are aiming to break the Singapore Book of Records by having more than 1,500 participants bring 200 homecooked dishes to share with one another.&nbsp;Partake in the numerous activities such as a Costume Competition, Children Art Competition, interactive booths, and Lucky Draws.
 
 Registration for selected activities at Teban Gardens Residents’ Network Centre. 
 
@@ -101,7 +104,7 @@ Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Garde
 
 
 ##### Sengkang Harmony Carnival 2023
-***By Sengkang Central's Harmony Circle & Citizens' Consultative Committee***
+***By Sengkang Central's Harmony Circle &amp; Citizens' Consultative Committee***
 ![SKC RH Carnival](/images/sengkang%20central%20rh%20carnival.jpeg)
 
 Experience an extraordinary celebration of unity and diversity at the Sengkang Racial Harmony Day Carnival! Prepare to tantalise your taste buds at live food stations, offering a delectable selection of flavours from various cultural traditions. Be captivated by mesmerising cultural performances, and participate in the numerous activity booths and games prepared for you.
@@ -111,7 +114,7 @@ One of the crowning moments of the event will be a heartwarming vow renewal segm
 No registration is required.
 
 ##### Pasir Ris-Punggol GRC Harmony Carnival
-***By Pasir Ris-Punggol Harmony Circle & Punggol Shore Citizens' Consultative Committee***
+***By Pasir Ris-Punggol Harmony Circle &amp; Punggol Shore Citizens' Consultative Committee***
 ![PR-P RH Carnival](/images/pasir%20ris-%20punggol%20rh%20carnival.jpeg)
 
 Join us in celebrating the vibrant Harmony Carnival on the 29th of July with your friends and family! Immerse yourself in a mesmerising showcase of inter-cultural dance performances, where diverse traditions intertwine to create a harmonious spectacle. Delight your taste buds at the exquisite array of culinary delights from cultural booths representing the rich tapestry of our racial groups. This extraordinary event promises a joyful fusion of art, cuisine, and cultural exchange that will leave lasting memories for everyone involved.
@@ -120,7 +123,7 @@ No registration required.
 
 
 ##### Racial Harmony Ultimate Frisbee Tournament 
-***By Marymount Harmony Circle, Eunoia Junior College & Oasis Frisbee Club***
+***By Marymount Harmony Circle, Eunoia Junior College &amp; Oasis Frisbee Club***
 ![RHUFT](/images/racial%20harmony%20ultimate%20frisbee%20tournament.jpg)
 
 A frisbee enthusiast? Join approximately 200 ultimate frisbee players from different races and religious organisations to participate in a full-day frisbee competition. Fringe activities include a photobooth, carnival games, food stations, and a mini frisbee workshop for participants.
@@ -130,7 +133,7 @@ A frisbee enthusiast? Join approximately 200 ultimate frisbee players from diffe
 ## Culture and Heritage
 
 ##### Soundscapes of Religions in Singapore
-***By Centre for Interfaith Understanding (CIFU) & MCCY***
+***By Centre for Interfaith Understanding (CIFU) &amp; MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
 
 "What does religion sound like?"
@@ -139,7 +142,7 @@ Step into the vibrant and diverse religious tapestry of Singapore through the im
 
 Discover what religion truly sounds like and uncover the unity that lies within the diverse symphony of soundscapes in Singapore.
 
-[Register here!](https://letswalk-soundscapestour.peatix.com/event/3637001/view?utm_campaign=pod-52144&utm_medium=email&utm_source=follow-organizer&utm_content=18047608&dlvid=740e40db-494f-4f19-aa9c-c713360923a5&sltid=0)
+[Register here!](https://letswalk-soundscapestour.peatix.com/event/3637001/view?utm_campaign=pod-52144&amp;utm_medium=email&amp;utm_source=follow-organizer&amp;utm_content=18047608&amp;dlvid=740e40db-494f-4f19-aa9c-c713360923a5&amp;sltid=0)
 
 
 ##### Let's Walk - Celebrate Harmony at the Heritage Institutions
@@ -162,8 +165,8 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 
 
 ##### Interfaith Dialogue - Faithful Melodies
-***By Queenstown's Harmony Circle & Citizens' Consultative Committee***
+***By Queenstown's Harmony Circle &amp; Citizens' Consultative Committee***
 
-Six panellists from different religious backgrounds – Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i – will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
+Six panellists from different religious backgrounds&nbsp;–&nbsp;Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i&nbsp;–&nbsp;will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
 
 [Register here!](https://go.gov.sg/interfaithdialogue-faithfulmelodies)
