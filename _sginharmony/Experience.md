@@ -27,10 +27,16 @@ description: Grow mutual understanding and respect for our racial and religious
 | 2     | 22 – 23 July; 10am-6pm| **Let’s Walk – Celebrating Harmony at the Heritage Institutions** | Indian Heritage Centre & Sun Yat Sen Memorial Hall|
 
 ##### Dialogues 
-| Date | Event | Venue |
+| No. | Date | Event | Venue |
+| -------- | -------- | -------- | -------- |
+| 1 | 22 Jul 9:00am–4.30pm| **HarmonyWorks! Conference: Me to We** | ITE College East |
+| 2 | 29 Jul 1.30pm–3.00pm| **Interfaith Dialogue – Faithful Melodies**| Queenstown CC, Multi-purpose Hall |
+
+| Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| 22 Jul 9:00am–4.30pm| **HarmonyWorks! Conference: Me to We** | ITE College East |
-| 29 Jul 1.30pm–3.00pm| **Interfaith Dialogue – Faithful Melodies**| Queenstown CC, Multi-purpose Hall |
+| Text     | Text     | Text     |
+
+
 
 ##### **See full details below.**
 ## Sports, Food & Carnivals
