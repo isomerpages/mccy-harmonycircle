@@ -67,7 +67,7 @@ Sign up here:
 |
 [Non-Competitive Games](https://docs.google.com/forms/d/e/1FAIpQLScF0bizk6lPSLhI0ENshbpjx-NAs0lll8PaXWW7bcefvbziFg/viewform)
 
-<a id="4">##### Racial Harmony Carnival</a>
+#####<a id="4">Racial Harmony Carnival</a>
 ***By Bukit Panjang Harmony Circle, Holland-Bukit Timah GRC &amp; Bukit Panjang SMC Harmony Circles***
 ![Bukit Panjang carnival](/images/bukit%20panjang%20z3,%20hbt,%20bp%20rh%20carnival.jpeg)
 
@@ -76,7 +76,7 @@ Indulge in a spectacular carnival experience featuring captivating performances 
 Members of the public can collect coupons from the nearest community centre/club within Holland-Bukit Timah GRC.
 
 
-<a id="5">##### Paya Lebar Racial Harmony Day Carnival</a>
+#####<a id="5">Paya Lebar Racial Harmony Day Carnival</a>
 ***By Paya Lebar 's Harmony Circle, Citizens’ Consultative Committee, and Youth Network***
 ![PL RH Carnival](/images/paya%20lebar%20rh%20carnival.jpeg)
   
@@ -85,7 +85,7 @@ Experience a cultural extravaganza where you can enjoy an art competition for ch
 Tickets can be purchased at Paya Lebar Kovan CC, Aljunied CC, or the nearest Residents' Committee Centre at $2/pax.
 
 
-<a id="6">##### Ayer Rajah-Gek Poh's Racial Harmony Potluck</a>
+#####<a id="6">Ayer Rajah-Gek Poh's Racial Harmony Potluck</a>
 ***By Ayer Rajah-Gek Poh's Harmony Circle &amp; Citizens' Consultative Committee***
 ![AR-GP RH Potluck](/images/ayer%20rajah-gek%20poh%20rh%20potluck.jpeg)
 
@@ -97,7 +97,7 @@ Registration for selected activities at Teban Gardens Residents’ Network Centr
 Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Gardens RN Centre, Teban Place Residents’ Network Centre at $2/pax.
 
 
-<a id="7">##### Sengkang Harmony Carnival 2023</a>
+#####<a id="7">Sengkang Harmony Carnival 2023</a>
 ***By Sengkang Central's Harmony Circle &amp; Citizens' Consultative Committee***
 ![SKC RH Carnival](/images/sengkang%20central%20rh%20carnival.jpeg)
 
@@ -107,7 +107,7 @@ One of the crowning moments of the event will be a heartwarming vow renewal segm
 
 No registration is required.
 
-<a id="8">##### Pasir Ris-Punggol GRC Harmony Carnival</a>
+#####<a id="8">Pasir Ris-Punggol GRC Harmony Carnival</a>
 ***By Pasir Ris-Punggol Harmony Circle &amp; Punggol Shore Citizens' Consultative Committee***
 ![PR-P RH Carnival](/images/pasir%20ris-%20punggol%20rh%20carnival.jpeg)
 
@@ -116,7 +116,7 @@ Join us in celebrating the vibrant Harmony Carnival on the 29th of July with you
 No registration required.
 
 
-<a id="9">##### Racial Harmony Ultimate Frisbee Tournament</a>
+#####<a id="9">Racial Harmony Ultimate Frisbee Tournament</a>
 ***By Marymount Harmony Circle, Eunoia Junior College &amp; Oasis Frisbee Club***
 ![RHUFT](/images/racial%20harmony%20ultimate%20frisbee%20tournament.jpg)
 
@@ -126,7 +126,7 @@ A frisbee enthusiast? Join approximately 200 ultimate frisbee players from diffe
 
 ## Culture and Heritage
 
-##### Soundscapes of Religions in Singapore
+##### <a id="10">Soundscapes of Religions in Singapore</a>
 ***By Centre for Interfaith Understanding (CIFU) &amp; MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
 
@@ -139,7 +139,7 @@ Discover what religion truly sounds like and uncover the unity that lies within 
 [Register here!](https://letswalk-soundscapestour.peatix.com/event/3637001/view?utm_campaign=pod-52144&amp;utm_medium=email&amp;utm_source=follow-organizer&amp;utm_content=18047608&amp;dlvid=740e40db-494f-4f19-aa9c-c713360923a5&amp;sltid=0)
 
 
-##### Let's Walk - Celebrate Harmony at the Heritage Institutions
+##### <a id="11">Let's Walk - Celebrate Harmony at the Heritage Institutions</a>
 ***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
 ![Let's Walk 2023](/images/rhd_2023%20kv%20colour%20revised%20lr.jpg)
 
