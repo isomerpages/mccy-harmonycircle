@@ -13,6 +13,7 @@ description: Grow mutual understanding and respect for our racial and religious
 | -------- | -------- | -------- | -------- |
 | 1     | 22–23 Jul; 9am–7pm     | <a href="1">**Harmony Sports Fiesta 2023**</a>     | OCBC Square, Singapore Sports Hub     |
 | 2     | 15 Jul; 9am–12pm     | <a href="2">**Ci Yuan Community Club Celebrates Racial Harmony Day - UNITY IN DIVERSITY**</a>     | Ci Yuan Community Club     |
+
 | 3     | 15 Jul; 9am–2pm| <a href="3">**12th Harmony Games 2023**</a> | Northlight School |
 | 4     | 16 Jul; 9am–12pm| <a href="4">**Racial Harmony Carnival**</a> | Bangkit Court |
 | 5     | 16 July; 10am–1pm| <a href="5">**Paya Lebar Racial Harmony Day Carnival**</a> | Kovan Hub |
