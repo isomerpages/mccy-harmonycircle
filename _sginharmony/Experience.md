@@ -23,15 +23,15 @@ description: Grow mutual understanding and respect for our racial and religious
 ##### Culture and Heritage
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 1 | 22 Jul 10am–5pm| **Soundscapes of Religions in Singapore** | Indian Heritage Centre |
-| 2     | 22 – 23 July; 10am-6pm| **Let’s Walk – Celebrating Harmony at the Heritage Institutions** | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall|
+| 1 | 22 Jul 10am–5pm| <a href="10">**Soundscapes of Religions in Singapore**</a> | Indian Heritage Centre |
+| 2     | 22 – 23 July; 10am-6pm| <a href="11">**Let’s Walk – Celebrating Harmony at the Heritage Institutions**</a> | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall|
 
 ##### Dialogues 
 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 1     | 22 Jul 9:00am–4.30pm     | **HarmonyWorks! Conference: Me to We**     | ITE College East     |
-| 2     | 9 Jul 1.30pm–3.00pm     | **Interfaith Dialogue – Faithful Melodies**     | Queenstown CC, Multi-purpose Hall     |
+| 1     | 22 Jul 9:00am–4.30pm     | <a href="12">**HarmonyWorks! Conference: Me to We**</a>     | ITE College East     |
+| 2     | 9 Jul 1.30pm–3.00pm     | <a href="13">**Interfaith Dialogue – Faithful Melodies**</a>     | Queenstown CC, Multi-purpose Hall     |
 
 ##### **See full details below.**
 
@@ -147,7 +147,7 @@ Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and jo
 
 ## Dialogues
 
-##### HarmonyWorks! Conference: Me to We
+##### <a id="12">HarmonyWorks! Conference: Me to We</a>
 ***By OnePeople.sg***
 ![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
 
@@ -156,7 +156,7 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
-##### Interfaith Dialogue - Faithful Melodies
+##### <a id="13">Interfaith Dialogue - Faithful Melodies</a>
 ***By Queenstown's Harmony Circle &amp; Citizens' Consultative Committee***
 
 Six panellists from different religious backgrounds&nbsp;–&nbsp;Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i&nbsp;–&nbsp;will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
