@@ -32,6 +32,7 @@ description: Grow mutual understanding and respect for our racial and religious
 | 1 | 22 Jul 9:00am–4.30pm| **HarmonyWorks! Conference: Me to We** | ITE College East |
 | 2 | 29 Jul 1.30pm–3.00pm| **Interfaith Dialogue – Faithful Melodies**| Queenstown CC, Multi-purpose Hall |
 
+##### **See full details below.**
 ## Sports, Food & Carnivals
 
 
