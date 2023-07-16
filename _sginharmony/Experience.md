@@ -56,7 +56,7 @@ Witness an array of multi-ethnic dance performances, and enjoy the fun games, ca
 [Register here for the Unity in Diversity Walk!](https://go.gov.sg/uidwalk)         
 [Register here for the CommUNITY Dialogue!](https://go.gov.sg/community-conversationsondiversity)
 
-#### <a id="1">3. 12th Annual Harmony Games</a>
+#### <a id="3">3. 12th Annual Harmony Games</a>
 ***By Hindu Endowments Board &amp; Hindu Advisory Board***
 ![12th Annual Harmony Games 2023](/images/12th%20annual%20harmony%20games.jpg)
 
