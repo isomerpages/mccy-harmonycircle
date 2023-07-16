@@ -15,13 +15,13 @@ description: Grow mutual understanding and respect for our racial and religious
 | -------- | -------- | -------- | -------- |
 | 1     | 22–23 Jul; 9am–7pm     | <a href="#1">Harmony Sports Fiesta 2023</a>     | OCBC Square, Singapore Sports Hub     |
 | 2     | 15 Jul; 9am–12pm     | <a href="#2">Ci Yuan Community Club Celebrates Racial Harmony Day - UNITY IN DIVERSITY</a>     | Ci Yuan Community Club     |
-| 3     | 15 Jul; 9am–2pm| **12th Harmony Games 2023** | Northlight School |
-| 4     | 16 Jul; 9am–12pm| **Racial Harmony Carnival** | Bangkit Court |
-| 5     | 16 July; 10am–1pm| **Paya Lebar Racial Harmony Day Carnival** | Kovan Hub |
-| 6     | 22 July; 4pm-7.30pm| **Ayer Rajah-Gek Poh's Racial Harmony Potluck** | Teban Neighbourhood Park |
-| 7    | 23 July; 1pm–4pm | **Sengkang Harmony Carnival 2023** | Sengkang Grand Mall, Atrium |
-| 8     | 29 Jul; 9am–6pm| **Pasir Ris-Punggol GRC Harmony Carnival** | Punggol 21 Community Club |
-| 9     | 29 Jul; 8am–6pm| **Racial Harmony Ultimate Frisbee Tournament** | Eunoia Junior College Grass Field |
+| 3     | 15 Jul; 9am–2pm| <a href="#3">12th Harmony Games 2023</a> | Northlight School |
+| 4     | 16 Jul; 9am–12pm| <a href="#4">Racial Harmony Carnival</a> | Bangkit Court |
+| 5     | 16 July; 10am–1pm| <a href="#5">Paya Lebar Racial Harmony Day Carnival</a> | Kovan Hub |
+| 6     | 22 July; 4pm-7.30pm| <a href="#6">Ayer Rajah-Gek Poh's Racial Harmony Potluck</a> | Teban Neighbourhood Park |
+| 7    | 23 July; 1pm–4pm | <a href="#7">Sengkang Harmony Carnival 2023</a> | Sengkang Grand Mall, Atrium |
+| 8     | 29 Jul; 9am–6pm| <a href="#8">Pasir Ris-Punggol GRC Harmony Carnival</a> | Punggol 21 Community Club |
+| 9     | 29 Jul; 8am–6pm| <a href="#9">Racial Harmony Ultimate Frisbee Tournament</a> | Eunoia Junior College Grass Field |
 
 ##### Culture and Heritage
 
