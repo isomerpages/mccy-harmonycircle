@@ -27,15 +27,15 @@ description: Grow mutual understanding and respect for our racial and religious
 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 10     | 22 Jul 10am–5pm     | **Soundscapes of Religions in Singapore**     | Indian Heritage Centre     |
-| 11     | 22–23 July; 10am-6pm     | **Let’s Walk – Celebrating Harmony at the Heritage Institutions**    | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall     |
+| 10     | 22 Jul 10am–5pm     | <a href="#10">Soundscapes of Religions in Singapore</a>     | Indian Heritage Centre     |
+| 11     | 22–23 July; 10am-6pm     | <a href="#11">Let’s Walk – Celebrating Harmony at the Heritage Institutions</a>    | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall     |
 
 ##### Dialogues 
 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 12     | 22 Jul 9:00am–4.30pm     | **HarmonyWorks! Conference: Me to We**     | ITE College East     |
-| 13     | 29 Jul 1.30pm–3.00pm     | **Interfaith Dialogue – Faithful Melodies**     | Queenstown CC, Multi-purpose Hall     |
+| 12     | 22 Jul 9:00am–4.30pm     | <a href="#12">HarmonyWorks! Conference: Me to We</a>     | ITE College East     |
+| 13     | 29 Jul 1.30pm–3.00pm     | <a href="#13">Interfaith Dialogue – Faithful Melodies</a>     | Queenstown CC, Multi-purpose Hall     |
 
 ##### **See full details below.**
 
