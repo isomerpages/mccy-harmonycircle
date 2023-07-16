@@ -8,10 +8,9 @@ description: Grow mutual understanding and respect for our racial and religious
 ### List of #SGInHarmony Events 2023
 
 ##### Sports, Food &amp; Carnivals 
-
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 1     | 22–23 Jul; 9am–7pm     | **Harmony Sports Fiesta 2023**     | OCBC Square, Singapore Sports Hub     |
+| 1     | 22–23 Jul; 9am–7pm     | **<a href="#1">Harmony Sports Fiesta 2023</a>**     | OCBC Square, Singapore Sports Hub     |
 | 2     | 15 Jul; 9am–12pm     | **Ci Yuan Community Club Celebrates Racial Harmony Day - UNITY IN DIVERSITY**     | Ci Yuan Community Club     |
 | 3     | 15 Jul; 9am–2pm| **12th Harmony Games 2023** | Northlight School |
 | 4     | 16 Jul; 9am–12pm| **Racial Harmony Carnival** | Bangkit Court |
@@ -38,8 +37,7 @@ description: Grow mutual understanding and respect for our racial and religious
 ##### **See full details below.**
 
 ## Sports, Food &amp; Carnivals
-
-#### 1. Harmony Sports Fiesta 2023
+#### <a id="1">1. Harmony Sports Fiesta 2023</a>
 ***By Singapore Sports Hub &amp; Harmony Circles***
 ![Harmony Sports Fiesta 2023](/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg)
 
