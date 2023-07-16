@@ -46,7 +46,7 @@ description: Grow mutual understanding and respect for our racial and religious
 
 Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities! [Find out more here](https://www.sportshub.com.sg/HarmonySportsFiesta?utm_medium=web&amp;utm_source=Harmony%20Circle&amp;utm_campaign=Harmony_Sports_Fiesta_2023&amp;utm_content=harmony_circle_website)!
 
-#### 2. Ci Yuan Racial Harmony Day
+#### <a id="2">2. Ci Yuan Racial Harmony Day</a>
 ***By Ang Mo Kio-Hougang's Harmony Circle and Community Sports Club***
 ![CY Carnival](/images/ci%20yuan%20rh%20carnival%20.jpeg)
 
@@ -56,7 +56,7 @@ Witness an array of multi-ethnic dance performances, and enjoy the fun games, ca
 [Register here for the Unity in Diversity Walk!](https://go.gov.sg/uidwalk)         
 [Register here for the CommUNITY Dialogue!](https://go.gov.sg/community-conversationsondiversity)
 
-#### 3. 12th Annual Harmony Games
+#### <a id="1">3. 12th Annual Harmony Games</a>
 ***By Hindu Endowments Board &amp; Hindu Advisory Board***
 ![12th Annual Harmony Games 2023](/images/12th%20annual%20harmony%20games.jpg)
 
@@ -68,7 +68,7 @@ Sign up here:
 |
 [Non-Competitive Games](https://docs.google.com/forms/d/e/1FAIpQLScF0bizk6lPSLhI0ENshbpjx-NAs0lll8PaXWW7bcefvbziFg/viewform)
 
-#### 4. Racial Harmony Carnival
+#### <a id="4">4. Racial Harmony Carnival</a>
 ***By Bukit Panjang Harmony Circle, Holland-Bukit Timah GRC &amp; Bukit Panjang SMC Harmony Circles***
 ![Bukit Panjang carnival](/images/bukit%20panjang%20z3,%20hbt,%20bp%20rh%20carnival.jpeg)
 
@@ -77,7 +77,7 @@ Indulge in a spectacular carnival experience featuring captivating performances 
 Members of the public can collect coupons from the nearest community centre/club within Holland-Bukit Timah GRC.
 
 
-#### 5. Paya Lebar Racial Harmony Day Carnival
+#### <a id="5">5. Paya Lebar Racial Harmony Day Carnival</a>
 ***By Paya Lebar 's Harmony Circle, Citizens’ Consultative Committee, and Youth Network***
 ![PL RH Carnival](/images/paya%20lebar%20rh%20carnival.jpeg)
   
@@ -86,7 +86,7 @@ Experience a cultural extravaganza where you can enjoy an art competition for ch
 Tickets can be purchased at Paya Lebar Kovan CC, Aljunied CC, or the nearest Residents' Committee Centre at $2/pax.
 
 
-#### 6. Ayer Rajah-Gek Poh's Racial Harmony Potluck
+#### <a id="6">6. Ayer Rajah-Gek Poh's Racial Harmony Potluck</a>
 ***By Ayer Rajah-Gek Poh's Harmony Circle &amp; Citizens' Consultative Committee***
 ![AR-GP RH Potluck](/images/ayer%20rajah-gek%20poh%20rh%20potluck.jpeg)
 
@@ -98,7 +98,7 @@ Registration for selected activities at Teban Gardens Residents’ Network Centr
 Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Gardens RN Centre, Teban Place Residents’ Network Centre at $2/pax.
 
 
-#### 7. Sengkang Harmony Carnival 2023
+#### <a id="7">7. Sengkang Harmony Carnival 2023</a>
 ***By Sengkang Central's Harmony Circle &amp; Citizens' Consultative Committee***
 ![SKC RH Carnival](/images/sengkang%20central%20rh%20carnival.jpeg)
 
@@ -108,7 +108,7 @@ One of the crowning moments of the event will be a heartwarming vow renewal segm
 
 No registration is required.
 
-#### 8. Pasir Ris-Punggol GRC Harmony Carnival
+#### <a id="8">8. Pasir Ris-Punggol GRC Harmony Carnival</a>
 ***By Pasir Ris-Punggol Harmony Circle &amp; Punggol Shore Citizens' Consultative Committee***
 ![PR-P RH Carnival](/images/pasir%20ris-%20punggol%20rh%20carnival.jpeg)
 
@@ -117,7 +117,7 @@ Join us in celebrating the vibrant Harmony Carnival on the 29th of July with you
 No registration required.
 
 
-#### 9. Racial Harmony Ultimate Frisbee Tournament
+#### <a id="9">9. Racial Harmony Ultimate Frisbee Tournament</a>
 ***By Marymount Harmony Circle, Eunoia Junior College &amp; Oasis Frisbee Club***
 ![RHUFT](/images/racial%20harmony%20ultimate%20frisbee%20tournament.jpg)
 
@@ -127,7 +127,7 @@ A frisbee enthusiast? Join approximately 200 ultimate frisbee players from diffe
 
 ## Culture and Heritage
 
-#### 10. Soundscapes of Religions in Singapore
+#### <a id="10">10. Soundscapes of Religions in Singapore</a>
 ***By Centre for Interfaith Understanding (CIFU) &amp; MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
 
@@ -140,7 +140,7 @@ Discover what religion truly sounds like and uncover the unity that lies within 
 [Register here!](https://letswalk-soundscapestour.peatix.com/event/3637001/view?utm_campaign=pod-52144&amp;utm_medium=email&amp;utm_source=follow-organizer&amp;utm_content=18047608&amp;dlvid=740e40db-494f-4f19-aa9c-c713360923a5&amp;sltid=0)
 
 
-#### 11. Let's Walk - Celebrate Harmony at the Heritage Institutions
+#### <a id="11">11. Let's Walk - Celebrate Harmony at the Heritage Institutions</a>
 ***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
 ![Let's Walk 2023](/images/rhd_2023%20kv%20colour%20revised%20lr.jpg)
 
@@ -150,7 +150,7 @@ Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and jo
 
 ## Dialogues
 
-#### 12. HarmonyWorks! Conference: Me to We
+#### <a id="12">12. HarmonyWorks! Conference: Me to We</a>
 ***By OnePeople.sg***
 ![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
 
@@ -159,7 +159,7 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
-#### 13. Interfaith Dialogue - Faithful Melodies
+#### <a id="13">13. Interfaith Dialogue - Faithful Melodies</a>
 ***By Queenstown's Harmony Circle &amp; Citizens' Consultative Committee***
 
 Six panellists from different religious backgrounds&nbsp;–&nbsp;Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i&nbsp;–&nbsp;will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
