@@ -129,7 +129,7 @@ A frisbee enthusiast? Join approximately 200 ultimate frisbee players from diffe
 ## Culture and Heritage
 
 #### <a id="10">10. Soundscapes of Religions in Singapore</a>
-***By Centre for Interfaith Understanding (CIFU) &amp; MCCY***
+***By Dialogue Centre &amp; MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
 
 "What does religion sound like?"
@@ -149,7 +149,7 @@ Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and jo
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
 
 #### <a id="12">12. Art Unites: Art Exhibition celebrating Racial Harmony</a>
-***By***
+***By  Mountbatten Active Ageing Commitee &amp; Mountbatten Harmony Circle***
 ![](/images/artunites.jpg)
 Join us in celebrating Racial Harmony through a unique art event where 36 visual artists from Singapore are coming together to exhibit artworks through several forms of art showcasing Racial Harmony. Interactive art workshops,  poetry  recital, songs and dances from different cultures of Singapore await. 
 
