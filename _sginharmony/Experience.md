@@ -149,7 +149,7 @@ Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and jo
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
 
 #### <a id="12">12. Art Unites: Art Exhibition celebrating Racial Harmony</a>
-***By  Mountbatten Active Ageing Commitee &amp; Mountbatten Harmony Circle***
+***By  Mountbatten Active Ageing Commitee &amp; supported by Mountbatten Harmony Circle***
 ![](/images/artunites.jpg)
 Join us in celebrating Racial Harmony through a unique art event where 36 visual artists from Singapore are coming together to exhibit artworks through several forms of art showcasing Racial Harmony. Interactive art workshops,  poetry  recital, songs and dances from different cultures of Singapore await. 
 
