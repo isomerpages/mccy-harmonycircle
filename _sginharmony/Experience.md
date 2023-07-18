@@ -29,13 +29,14 @@ description: Grow mutual understanding and respect for our racial and religious
 | -------- | -------- | -------- | -------- |
 | 10     | 22 Jul 10am–5pm     | <a href="#10">Soundscapes of Religions in Singapore</a>     | Indian Heritage Centre     |
 | 11     | 22–23 July; 10am-6pm     | <a href="#11">Let’s Walk – Celebrating Harmony at the Heritage Institutions</a>    | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall     |
+| 12     | 23 July; 10am-6pm     | <a href="#12">Art Unites: Art Exhibition celebrating Racial Harmonys</a>    | Katong CC Multipurpose Hall     |
 
 ##### Dialogues 
 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 12     | 22 Jul 9:00am–4.30pm     | <a href="#12">HarmonyWorks! Conference: Me to We</a>     | ITE College East     |
-| 13     | 29 Jul 1.30pm–3.00pm     | <a href="#13">Interfaith Dialogue – Faithful Melodies</a>     | Queenstown CC, Multi-purpose Hall     |
+| 13     | 22 Jul 9:00am–4.30pm     | <a href="#13">HarmonyWorks! Conference: Me to We</a>     | ITE College East     |
+| 14     | 29 Jul 1.30pm–3.00pm     | <a href="#14">Interfaith Dialogue – Faithful Melodies</a>     | Queenstown CC, Multi-purpose Hall     |
 
 ##### **See full details below.**
 
@@ -128,7 +129,7 @@ A frisbee enthusiast? Join approximately 200 ultimate frisbee players from diffe
 ## Culture and Heritage
 
 #### <a id="10">10. Soundscapes of Religions in Singapore</a>
-***By Centre for Interfaith Understanding (CIFU) &amp; MCCY***
+***By Dialogue Centre &amp; MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
 
 "What does religion sound like?"
@@ -147,10 +148,17 @@ Discover what religion truly sounds like and uncover the unity that lies within 
 Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-wesbite)!     
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
 
+#### <a id="12">12. Art Unites: Art Exhibition celebrating Racial Harmony</a>
+***By  Mountbatten Active Ageing Commitee &amp; supported by Mountbatten Harmony Circle***
+![](/images/artunites.jpg)
+Join us in celebrating Racial Harmony through a unique art event where 36 visual artists from Singapore are coming together to exhibit artworks through several forms of art showcasing Racial Harmony. Interactive art workshops,  poetry  recital, songs and dances from different cultures of Singapore await. 
+
+Entry to the event is free. To participate, register [here](https://go.gov.sg/art2307).
+
 
 ## Dialogues
 
-#### <a id="12">12. HarmonyWorks! Conference: Me to We</a>
+#### <a id="13">13. HarmonyWorks! Conference: Me to We</a>
 ***By OnePeople.sg***
 ![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
 
@@ -159,7 +167,7 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
-#### <a id="13">13. Interfaith Dialogue - Faithful Melodies</a>
+#### <a id="14">14. Interfaith Dialogue - Faithful Melodies</a>
 ***By Queenstown's Harmony Circle &amp; Citizens' Consultative Committee***
 
 Six panellists from different religious backgrounds&nbsp;–&nbsp;Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i&nbsp;–&nbsp;will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
