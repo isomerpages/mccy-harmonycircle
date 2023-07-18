@@ -153,7 +153,7 @@ Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and jo
 ![](/images/artunites.jpg)
 Join us in celebrating Racial Harmony through a unique art event where 36 visual artists from Singapore are coming together to exhibit artworks through several forms of art showcasing Racial Harmony. Interactive art workshops,  poetry  recital, songs and dances from different cultures of Singapore await. 
 
-Entry to the event is free. To participate in art activity, register [via this link](https://go.gov.sg/art2307).
+Entry to the event is free. To participate, register [here](https://go.gov.sg/art2307).
 
 
 ## Dialogues
