@@ -19,24 +19,25 @@ description: Grow mutual understanding and respect for our racial and religious
 | 4     | 16 Jul; 9am–12pm| <a href="#4">Racial Harmony Carnival</a> | Bangkit Court |
 | 5     | 16 July; 10am–1pm| <a href="#5">Paya Lebar Racial Harmony Day Carnival</a> | Kovan Hub |
 | 6     | 22 July; 4pm-7.30pm| <a href="#6">Ayer Rajah-Gek Poh's Racial Harmony Potluck</a> | Teban Neighbourhood Park |
-| 7    | 23 July; 1pm–4pm | <a href="#7">Sengkang Harmony Carnival 2023</a> | Sengkang Grand Mall, Atrium |
-| 8     | 29 Jul; 9am–6pm| <a href="#8">Pasir Ris-Punggol GRC Harmony Carnival</a> | Punggol 21 Community Club |
-| 9     | 29 Jul; 8am–6pm| <a href="#9">Racial Harmony Ultimate Frisbee Tournament</a> | Eunoia Junior College Grass Field |
+| 7    | 23 July; 8.30am–6pm | <a href="#7">SGinHarmony @ Istana Open House</a> | The Istana |
+| 8    | 23 July; 1pm–4pm | <a href="#8">Sengkang Harmony Carnival 2023</a> | Sengkang Grand Mall, Atrium |
+| 9     | 29 Jul; 9am–6pm| <a href="#9">Pasir Ris-Punggol GRC Harmony Carnival</a> | Punggol 21 Community Club |
+| 10    | 29 Jul; 8am–6pm| <a href="#10">Racial Harmony Ultimate Frisbee Tournament</a> | Eunoia Junior College Grass Field |
 
 ##### Culture and Heritage
 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 10     | 22 Jul 10am–5pm     | <a href="#10">Soundscapes of Religions in Singapore</a>     | Indian Heritage Centre     |
-| 11     | 22–23 July; 10am-6pm     | <a href="#11">Let’s Walk – Celebrating Harmony at the Heritage Institutions</a>    | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall     |
-| 12     | 23 July; 10am-6pm     | <a href="#12">Art Unites: Art Exhibition celebrating Racial Harmonys</a>    | Katong CC Multipurpose Hall     |
+| 11     | 22 Jul 10am–5pm     | <a href="#11">Soundscapes of Religions in Singapore</a>     | Indian Heritage Centre     |
+| 12     | 22–23 July; 10am-6pm     | <a href="#12">Let’s Walk – Celebrating Harmony at the Heritage Institutions</a>    | Indian Heritage Centre &amp; Sun Yat Sen Memorial Hall     |
+| 13     | 23 July; 10am-6pm     | <a href="#13">Art Unites: Art Exhibition celebrating Racial Harmonys</a>    | Katong CC Multipurpose Hall     |
 
 ##### Dialogues 
 
 | No. | Date | Event | Venue |
 | -------- | -------- | -------- | -------- |
-| 13     | 22 Jul 9:00am–4.30pm     | <a href="#13">HarmonyWorks! Conference: Me to We</a>     | ITE College East     |
-| 14     | 29 Jul 1.30pm–3.00pm     | <a href="#14">Interfaith Dialogue – Faithful Melodies</a>     | Queenstown CC, Multi-purpose Hall     |
+| 14     | 22 Jul 9:00am–4.30pm     | <a href="#14">HarmonyWorks! Conference: Me to We</a>     | ITE College East     |
+| 15     | 29 Jul 1.30pm–3.00pm     | <a href="#15">Interfaith Dialogue – Faithful Melodies</a>     | Queenstown CC, Multi-purpose Hall     |
 
 ##### **See full details below.**
 
@@ -99,7 +100,15 @@ Registration for selected activities at Teban Gardens Residents’ Network Centr
 Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Gardens RN Centre, Teban Place Residents’ Network Centre at $2/pax.
 
 
-#### <a id="7">7. Sengkang Harmony Carnival 2023</a>
+#### <a id="7">7. SGinHarmony @ Istana Open House</a>
+***By CRED &amp; Harmony Circles***
+![Istana Open house](/images/picture1.jpg)
+
+Visit our booth at the Istana Open House to learn how you can get involved to promote social cohesion while capturing fun memories with our interactive photo booth. You may even become a lucky winner of $20 worth of Grab e-vouchers when you participate in our giveaway contest!
+[Find out more here!](www.istana.gov.sg/Visit-And-Explore/Istana-Open-House)
+
+
+#### <a id="8">8. Sengkang Harmony Carnival 2023</a>
 ***By Sengkang Central's Harmony Circle &amp; Citizens' Consultative Committee***
 ![SKC RH Carnival](/images/sengkang%20central%20rh%20carnival.jpeg)
 
@@ -109,7 +118,7 @@ One of the crowning moments of the event will be a heartwarming vow renewal segm
 
 No registration is required.
 
-#### <a id="8">8. Pasir Ris-Punggol GRC Harmony Carnival</a>
+#### <a id="9">9. Pasir Ris-Punggol GRC Harmony Carnival</a>
 ***By Pasir Ris-Punggol Harmony Circle &amp; Punggol Shore Citizens' Consultative Committee***
 ![PR-P RH Carnival](/images/pasir%20ris-%20punggol%20rh%20carnival.jpeg)
 
@@ -118,7 +127,7 @@ Join us in celebrating the vibrant Harmony Carnival on the 29th of July with you
 No registration required.
 
 
-#### <a id="9">9. Racial Harmony Ultimate Frisbee Tournament</a>
+#### <a id="10">10. Racial Harmony Ultimate Frisbee Tournament</a>
 ***By Marymount Harmony Circle, Eunoia Junior College &amp; Oasis Frisbee Club***
 ![RHUFT](/images/racial%20harmony%20ultimate%20frisbee%20tournament.jpg)
 
@@ -128,7 +137,7 @@ A frisbee enthusiast? Join approximately 200 ultimate frisbee players from diffe
 
 ## Culture and Heritage
 
-#### <a id="10">10. Soundscapes of Religions in Singapore</a>
+#### <a id="11">11. Soundscapes of Religions in Singapore</a>
 ***By Dialogue Centre &amp; MCCY***
 ![Soundscapes of Religions ](/images/cover-kn2pfntumrahoipaysf39nw696wqnkdv.png)
 
@@ -141,14 +150,14 @@ Discover what religion truly sounds like and uncover the unity that lies within 
 [Register here!](https://letswalk-soundscapestour.peatix.com/event/3637001/view?utm_campaign=pod-52144&amp;utm_medium=email&amp;utm_source=follow-organizer&amp;utm_content=18047608&amp;dlvid=740e40db-494f-4f19-aa9c-c713360923a5&amp;sltid=0)
 
 
-#### <a id="11">11. Let's Walk - Celebrate Harmony at the Heritage Institutions</a>
+#### <a id="12">12. Let's Walk - Celebrate Harmony at the Heritage Institutions</a>
 ***By Indian Heritage Centre, Malay Heritage Centre and Sun Yat Sen Nanyang Memorial Hall***
 ![Let's Walk 2023](/images/rhd_2023%20kv%20colour%20revised%20lr.jpg)
 
 Take a walk at two of NHB's Heritage Institutions this Racial Harmony Day and join us in celebrating harmony through movements and journeys. Put on a different lens to experience a variety of cultural programmes, free drop-in activities and live performances which will give you a deeper understanding of our multicultural roots! [Find out more here](https://go.gov.sg/sysnmh-rhd-wesbite)!     
 [Get your tickets here](https://rhd2023-ihcopenhouse.peatix.com/)!
 
-#### <a id="12">12. Art Unites: Art Exhibition celebrating Racial Harmony</a>
+#### <a id="13">13. Art Unites: Art Exhibition celebrating Racial Harmony</a>
 ***By  Mountbatten Active Ageing Commitee &amp; supported by Mountbatten Harmony Circle***
 ![](/images/artunites.jpg)
 Join us in celebrating Racial Harmony through a unique art event where 36 visual artists from Singapore are coming together to exhibit artworks through several forms of art showcasing Racial Harmony. Interactive art workshops,  poetry  recital, songs and dances from different cultures of Singapore await. 
@@ -158,7 +167,7 @@ Entry to the event is free. To participate, register [here](https://go.gov.sg/ar
 
 ## Dialogues
 
-#### <a id="13">13. HarmonyWorks! Conference: Me to We</a>
+#### <a id="14">14. HarmonyWorks! Conference: Me to We</a>
 ***By OnePeople.sg***
 ![Harmonyworks! conference](/images/harmonyworkshighres.jpg)
 
@@ -167,7 +176,7 @@ Calling out to all youths to come onboard this year’s HarmonyWorks! Conference
 [Register here](https://www.bit.ly/HWC22JULY2023) by 12 July 2023! (Early Bird special ends on 5 July 2023)
 
 
-#### <a id="14">14. Interfaith Dialogue - Faithful Melodies</a>
+#### <a id="15">15. Interfaith Dialogue - Faithful Melodies</a>
 ***By Queenstown's Harmony Circle &amp; Citizens' Consultative Committee***
 
 Six panellists from different religious backgrounds&nbsp;–&nbsp;Buddhist, Muslim, Christian, Taoist, Hindu, and a lesser-known Baha-i&nbsp;–&nbsp;will come together to discuss how communities can live harmoniously through sound and music, and not noise. The dialogue will explore common grounds, identify shared values, and address misunderstandings or misconceptions that may exist between different faiths and traditions.
