@@ -105,7 +105,7 @@ Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Garde
 ![Istana Open house](/images/picture1.jpg)
 
 Visit our booth at the Istana Open House to learn how you can get involved to promote social cohesion while capturing fun memories with our interactive photo booth. You may even become a lucky winner of $20 worth of Grab e-vouchers when you participate in our giveaway contest!
-[Find out more here!](www.istana.gov.sg/Visit-And-Explore/Istana-Open-House)
+[Find out more here](https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House)!
 
 
 #### <a id="8">8. Sengkang Harmony Carnival 2023</a>
