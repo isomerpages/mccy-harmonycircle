@@ -99,6 +99,9 @@ Registration for selected activities at Teban Gardens Residents’ Network Centr
 
 Tickets can be purchased at Ayer Rajah CC, Pandan Gardens RN Centre, Teban Gardens RN Centre, Teban Place Residents’ Network Centre at $2/pax.
 
+#### <a id="7">7. SGinHarmony @ Istana Open House</a>
+***By CRED &amp; Harmony Circles***
+![Istana Open house](/images/picture1.jpg)
 
 #### <a id="8">8. Sengkang Harmony Carnival 2023</a>
 ***By Sengkang Central's Harmony Circle &amp; Citizens' Consultative Committee***
