@@ -1,0 +1,7 @@
+collections:
+  get-involved:
+    output: true
+    order:
+      - Commitment to Safeguard Religious Harmony.md
+      - Pledge your Commitment.md
+      - Faqs about the Commitment.md

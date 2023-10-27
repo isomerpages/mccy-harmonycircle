@@ -1,0 +1,61 @@
+title: Racial and Religious Harmony Circles
+url: https://www.harmonycircle.sg
+favicon: /images/cropped.png
+colors:
+  primary-color: "#72246C"
+  secondary-color: "#4372d6"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#009A44"
+    - title: media-color-three
+      color: "#AF272F"
+    - title: media-color-four
+      color: "#744d9f"
+    - title: media-color-five
+      color: "#FF6900"
+resources_name: resources
+description: The Racial and Religious Harmony Circles aims to be networks of
+  trust that unite people regardless of race or religion.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+staging: https://staging.d1dna5nl0daqsg.amplifyapp.com/
+prod: https://master.d1dna5nl0daqsg.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+facebook-pixel: "267576805065895"
+google_analytics: UA-47362268-1
+shareicon: /images/mccy harmony circle logo fa_full colour.jpg
+is_government: false
+linkedin-insights: ""
+google_analytics_ga4: G-ZT405V4QGV
