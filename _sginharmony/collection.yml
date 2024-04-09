@@ -1,0 +1,9 @@
+collections:
+  sginharmony:
+    output: true
+    order:
+      - What's On?.md
+      - About SGinHarmony.md
+      - Converse.md
+      - Experience.md
+      - Take Action.md
