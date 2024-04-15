@@ -1,5 +1,5 @@
 collections:
-  get-involved:
+  make-a-pledge:
     output: true
     order:
       - Commitment to Safeguard Religious Harmony.md
