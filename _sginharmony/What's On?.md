@@ -4,7 +4,7 @@ permalink: /sginharmony/whats-on/
 variant: tiptap
 description: ""
 ---
-<h3>List of #SGInHarmony Events 2024</h3>
+<h3>Upcoming #SGInHarmony Events 2024</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/rhd_2023 kv colour revised lr.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event #1</div><div class="isomer-card-description">[Details of event]</div><div class="isomer-card-link">SIGN UP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
