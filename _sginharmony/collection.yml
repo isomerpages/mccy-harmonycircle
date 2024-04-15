@@ -2,9 +2,9 @@ collections:
   sginharmony:
     output: true
     order:
-      - Get Inspired.md
       - About SGinHarmony.md
       - What's On?.md
+      - Get Inspired.md
       - Converse.md
       - Experience.md
       - Take Action.md
