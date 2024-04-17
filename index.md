@@ -15,12 +15,12 @@ sections:
         - title: Make A Pledge
           description: Safeguard Religious Harmony
           url: https://www.harmonycircle.sg/commitment-to-safeguard-religious-harmony/
-        - title: What's On?
-          description: Get Involved in Activities
-          url: https://www.harmonycircle.sg/sginharmony/whats-on
-        - title: Get Inspired
+        - title: Get Involved
+          description: Upcoming Events & Activities
+          url: https://www.harmonycircle.sg/sginharmony/get-involved
+        - title: Be Inspired
           description: Showcase of Community Projects
-          url: https://www.harmonycircle.sg/sginharmony/get-inspired
+          url: https://www.harmonycircle.sg/sginharmony/be-inspired
       title: Many Beliefs, One Future
   - resources:
       title: Resources
