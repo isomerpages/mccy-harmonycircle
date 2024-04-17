@@ -3,7 +3,7 @@ url: https://www.harmonycircle.sg
 favicon: /images/cropped.png
 colors:
   primary-color: "#3c57a6"
-  secondary-color: "#3c57a6"
+  secondary-color: "#ee2366"
   media-colors:
     - title: media-color-one
       color: "#3c57a6"
