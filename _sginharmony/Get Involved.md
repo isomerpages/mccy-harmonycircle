@@ -80,7 +80,7 @@ more than 1,500 participants bring 200 homecooked dishes to share with
 one another. Partake in the numerous activities such as a Costume Competition,
 Children Art Competition, interactive booths, and Lucky Draws.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SGinHarmony @ Istana Open House" src="/images/picture1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SGinHarmony @ Istana Open House</div><div class="isomer-card-description">Visit our booth at the Istana Open House to learn how you can get involved to promote social cohesion while capturing fun memories with our interactive photo booth. </div><div class="isomer-card-link">Find out more here</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.istana.gov.sg/Visit-And-Explore/Istana-Open-House" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SGinHarmony @ Istana Open House" src="/images/picture1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SGinHarmony @ Istana Open House</div><div class="isomer-card-description">Visit our booth at the Istana Open House to learn how you can get involved to promote social cohesion while capturing fun memories with our interactive photo booth.</div><div class="isomer-card-link">Find out more here</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
