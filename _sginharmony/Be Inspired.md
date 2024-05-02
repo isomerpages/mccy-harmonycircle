@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2>A Showcase of Community Projects</h2>
+<p>Feeling inspired to develop projects and events promoting racial and religious
+harmony in Singapore? Apply for the <a href="https://www.mccy.gov.sg/sector/initiatives/harmony-fund" rel="noopener noreferrer nofollow" target="_blank">Harmony Fund</a>!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.minipicbooks.com/blank/tags/cultural" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Website_Image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">House of Mini Picture Books - Cultural Edition</div><div class="isomer-card-description">The cultural edition of the picture books are inspired by local cultures and stories and suitable for young readers. Readers can learn about different cultural practices and the books also debunk cultural stereotypes and myths.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/watch/?v=1230435367629367" class="isomer-card">
 <div class="isomer-card-image">
@@ -49,9 +51,7 @@ exchange resources or keep up with hyperlocal happenings. During this process,
 they strengthen connections with the others.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/candid.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Candid SG" src="/images/candid.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Candid SG</div><div class="isomer-card-description">Created at Mission: Unite Hackathon, 2020, organised by MCCY and powered by StartupX. 
-
-Candid SG strives for an empathetic and vocal Singapore with an open and safe space for discourse surrounding race and religion, as well as other social issues that we hope to cover in the future.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/candid.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Candid SG" src="/images/candid.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Candid SG</div><div class="isomer-card-description">Created at Mission: Unite Hackathon, 2020, organised by MCCY and powered by StartupX.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://interfaith.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
