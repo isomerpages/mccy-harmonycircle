@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - About SGinHarmony.md
-      - Converse.md
-      - Experience.md
-      - Take Action.md
+      - Get Involved.md
+      - Be Inspired.md

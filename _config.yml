@@ -2,19 +2,19 @@ title: Racial and Religious Harmony Circles
 url: https://www.harmonycircle.sg
 favicon: /images/cropped.png
 colors:
-  primary-color: "#72246C"
-  secondary-color: "#4372d6"
+  primary-color: "#3c57a6"
+  secondary-color: "#ee2366"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#3c57a6"
     - title: media-color-two
-      color: "#009A44"
+      color: "#23b8aa"
     - title: media-color-three
-      color: "#AF272F"
+      color: "#ee2366"
     - title: media-color-four
-      color: "#744d9f"
+      color: "#f69520"
     - title: media-color-five
-      color: "#FF6900"
+      color: "#000000"
 resources_name: resources
 description: The Racial and Religious Harmony Circles aims to be networks of
   trust that unite people regardless of race or religion.
