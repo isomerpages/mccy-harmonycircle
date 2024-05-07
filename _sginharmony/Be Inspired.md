@@ -1,6 +1,6 @@
 ---
 title: Be Inspired
-permalink: /be-inspired/
+permalink: /sginharmony/be-inspired/
 variant: tiptap
 description: ""
 ---
