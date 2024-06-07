@@ -37,6 +37,22 @@ that highlight the beauty of our multicultural community.</div>
 <div class="isomer-card-link">Register now!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heartlands in Harmony (HIH) #continYOUity</div><div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity, beyond July, at the inaugural HIH! Key highlights include multicultural performances, an exhibition on marriage practices across different faiths and a frisbee tournament.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Soundscapes II – Sounds of Religions in Singapore" src="/images/Website_Image.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Soundscapes II – Sounds of Religions in Singapore @ 4 locations across
+4 weeks</div>
+<div class="isomer-card-description">📅July weekends (6-7; 13-14; 20-21; 27-28 Jul) Immerse yourself in a guided
+tour that showcases the soundscapes of religions in Singapore. Experience
+the quietude of meditation with monks/nuns and encounter a variety of sacred
+sounds, such as hymns &amp; the Muslim call to prayer, across diverse faiths.</div>
+<div class="isomer-card-link">Get your tickets now!</div>
+</div>
+</a>
 </div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
