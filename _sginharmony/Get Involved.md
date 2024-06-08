@@ -4,8 +4,12 @@ permalink: /sginharmony/get-involved/
 variant: tiptap
 description: ""
 ---
-<h3>Upcoming Events &amp; Activities</h3>
-<p></p>
+<h3>Upcoming Events &amp; Activities 2024</h3>
+<p><strong>Celebrate racial and religious harmony this July!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Do your part for #YOUnity" src="/images/YLCha3_webpage_banner.png">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harmony Fest! 2024 – where it begins with #YOUnity" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest! '24 @ OCBC Square</div><div class="isomer-card-description">📅6-7 Jul ⏰9.30am-4.30pm 🔹Join us in this immersive programme featuring multicultural performances, e-sports, AR and VR try-outs and competitions, and youths showcase featuring social cohesion initiatives.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
