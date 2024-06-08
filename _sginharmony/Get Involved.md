@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>Upcoming Events &amp; Activities 2024</h3>
-<p><strong>Celebrate racial and religious harmony this July!</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Do your part for #YOUnity" src="/images/YLCha3_webpage_banner.png">
 </div>
