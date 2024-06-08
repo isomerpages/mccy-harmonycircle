@@ -30,7 +30,7 @@ sounds, such as hymns &amp; the Muslim call to prayer, across diverse faiths.</d
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Let’s Embrace – Celebrating Harmony  @ Our Tampines Hub" src="/images/KV_FA_1_1920px_x_1080px.png">
+<img style="width: 100%" height="auto" width="100%" alt="Let’s Embrace – Celebrating Harmony  @ Our Tampines Hub" src="/images/5.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -41,7 +41,7 @@ storytelling sessions, cultural cooking workshops, a travelling exhibition,
 and a community mural painting event.</div>
 <div class="isomer-card-link">Free admission; Register now!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/marymount_food_fiesta.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial and Religious Harmony Food Fiesta</div><div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity through food! Enjoy live cooking demonstrations, a rich array of cuisines from different ethnic groups, interactive food stalls, and cultural performances that highlight the beauty of our multicultural community.</div><div class="isomer-card-link">Register now!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial and Religious Harmony Food Fiesta</div><div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity through food! Enjoy live cooking demonstrations, a rich array of cuisines from different ethnic groups, interactive food stalls, and cultural performances that highlight the beauty of our multicultural community.</div><div class="isomer-card-link">Register now!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="go.gov.sg/rrhm24savethedate" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
