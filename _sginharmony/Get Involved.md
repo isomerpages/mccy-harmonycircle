@@ -24,8 +24,8 @@ the quietude of meditation with monks/nuns and encounter a variety of sacred
 sounds, such as hymns &amp; the Muslim call to prayer, across diverse faiths.</div>
 <div class="isomer-card-link">Get your tickets now!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Project Embrace V2 – A Community Art Activation @ Tampines" src="/images/52712293759_6bef949986_c.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Project Embrace V2 – A Community Art Activation @ Our Tampines Hub</div><div class="isomer-card-description">📅13-14 Jul ⏰11am-7pm 🔹Express your artistic side at Project Embrace V2 to help create an urban art installation that reflects the richness of multicultural Singapore! The completed artworks will beautify the MRT pillars that thread our neighbourhoods together.</div><div class="isomer-card-link">Free admission; Register now!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/malayheritage/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Project Embrace V2 – A Community Art Activation @ Tampines" src="/images/52712293759_6bef949986_c.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Project Embrace V2 – A Community Art Activation @ Our Tampines Hub</div><div class="isomer-card-description">📅13-14 Jul ⏰11am-7pm 🔹Express your artistic side at Project Embrace V2 to help create an urban art installation that reflects the richness of multicultural Singapore! The completed artworks will beautify the MRT pillars that thread our neighbourhoods together.</div><div class="isomer-card-link">Free admission; Find out more here!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/malayheritage/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Let’s Embrace – Celebrating Harmony  @ Our Tampines Hub" src="/images/5.png">
@@ -37,13 +37,13 @@ sounds, such as hymns &amp; the Muslim call to prayer, across diverse faiths.</d
 communities at Our Tampines Hub through a guided heritage trail, immersive
 storytelling sessions, cultural cooking workshops, a travelling exhibition,
 and a community mural painting event.</div>
-<div class="isomer-card-link">Free admission; Register now!</div>
+<div class="isomer-card-link">Find out more here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial and Religious Harmony Food Fiesta</div><div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity through food! Enjoy live cooking demonstrations, a rich array of cuisines from different ethnic groups, interactive food stalls, and cultural performances that highlight the beauty of our multicultural community.</div><div class="isomer-card-link">Register now!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="go.gov.sg/rrhm24savethedate" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH.png">
 </div>
 </div>
 <div class="isomer-card-body">
