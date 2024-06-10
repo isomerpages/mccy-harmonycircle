@@ -39,22 +39,21 @@ storytelling sessions, cultural cooking workshops, a travelling exhibition,
 and a community mural painting event.</div>
 <div class="isomer-card-link">Find out more here!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial and Religious Harmony Food Fiesta</div><div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity through food! Enjoy live cooking demonstrations, a rich array of cuisines from different ethnic groups, interactive food stalls, and cultural performances that highlight the beauty of our multicultural community.</div><div class="isomer-card-link">Register now!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="go.gov.sg/rrhm24savethedate" class="isomer-card">
+</a>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH.png">
+<img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Heartlands in Harmony (HIH) #continYOUity</div>
-<div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity,
-beyond July, at the inaugural HIH! Key highlights include multicultural
-performances, an exhibition on marriage practices across different faiths
-and a frisbee tournament.</div>
-<div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
+<div class="isomer-card-title">Racial and Religious Harmony Food Fiesta @ Bishan CC</div>
+<div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity
+through food! Enjoy live cooking demonstrations, a rich array of cuisines
+from different ethnic groups, interactive food stalls, and cultural performances
+that highlight the beauty of our multicultural community.</div>
 </div>
-</a>
+</div><a rel="noopener noreferrer nofollow" href="go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity, beyond July, at the inaugural HIH! Key highlights include multicultural performances, an exhibition on marriage practices across different faiths and a frisbee tournament.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
 </div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
