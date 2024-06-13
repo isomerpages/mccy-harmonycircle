@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Do your part for #YOUnity" src="/images/YLCha3_webpage_banner.png">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harmony Fest! 2024 – where it begins with #YOUnity" src="/images/HF_III.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest! '24 @ OCBC Square</div><div class="isomer-card-description">📅6-7 Jul ⏰9.30am-4.30pm 🔹Join us in this immersive programme featuring multicultural performances, e-sports, AR and VR try-outs and competitions, and youths showcase featuring social cohesion initiatives.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://soundscape2024-opsg.peatix.com/view" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dialoguecentresg.peatix.com/events" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Soundscapes II – Sounds of Religions in Singapore" src="/images/sounds.png">
