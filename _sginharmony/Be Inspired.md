@@ -37,6 +37,21 @@ as canvas for an community expression through paint, stick or project.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://beingbridges.com/being-guests/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PXL_20220724_024156064_PORTRAIT_1155x770.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Being Guests VR</div><div class="isomer-card-description">Step inside a church, mosque, or temple virtually and explore their unique architecture and histories, core religious teachings, interesting faith practices, and inspiring interfaith connections!</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/playlist?list=PLYOBHxuy1wS0Go0r6SkvV35DUO76rJu80" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Over To You: Video Series" src="/images/over_to_you.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Over To You: Video Series</div>
+<div class="isomer-card-description">Ever wondered what makes a dish culturally unique? Through this 10-episode
+series, guest chefs prepare dishes from various cuisines such as Peranakan,
+Indian, Thai, Mediterranean and many more, while sharing the background
+and cultural significance of each dish.</div>
+<div class="isomer-card-link">Watch the full series here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/@NotSafeForTV/videos" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Apolitically Correct" src="/images/Website_Image_nsftv.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apolitically Correct</div><div class="isomer-card-description">“Regardless of Race, Language, or Religion” – most of us recited this line for more than a decade, but what does it mean to you? Regardless Of sees how our lived realities can become more than what’s cited in our national pledge. Come watch these 3 episodes set in Singapore now!</div><div class="isomer-card-link">Catch the 3 episodes here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.scratchbac.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
