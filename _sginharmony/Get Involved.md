@@ -8,8 +8,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Do your part for #YOUnity" src="/images/YLCha3_webpage_banner.png">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harmony Fest! 2024 – where it begins with #YOUnity" src="/images/HF_III.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest! '24 @ OCBC Square</div><div class="isomer-card-description">📅6-7 Jul ⏰9.30am-4.30pm 🔹Join us in this immersive programme featuring multicultural performances, e-sports, AR and VR try-outs and competitions, and youths showcase featuring social cohesion initiatives.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://soundscape2024-opsg.peatix.com/view" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sportshub.com.sg/events/harmony-fest-24" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harmony Fest! 2024 – where it begins with #YOUnity" src="/images/HF_III.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest! '24 @ OCBC Square</div><div class="isomer-card-description">📅6-7 Jul ⏰9.30am-4.30pm 🔹Join us in this immersive programme featuring multicultural performances, e-sports, AR and VR try-outs and competitions, and youths showcase featuring social cohesion initiatives.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dialoguecentresg.peatix.com/events" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Soundscapes II – Sounds of Religions in Singapore" src="/images/sounds.png">
@@ -24,8 +24,8 @@ the quietude of meditation with monks/nuns and encounter a variety of sacred
 sounds, such as hymns &amp; the Muslim call to prayer, across diverse faiths.</div>
 <div class="isomer-card-link">Get your tickets now!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/malayheritage/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Project Embrace V2 – A Community Art Activation @ Tampines" src="/images/52712293759_6bef949986_c.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Project Embrace V2 – A Community Art Activation @ Our Tampines Hub</div><div class="isomer-card-description">📅13-14 Jul ⏰11am-7pm 🔹Express your artistic side at Project Embrace V2 to help create an urban art installation that reflects the richness of multicultural Singapore! The completed artworks will beautify the MRT pillars that thread our neighbourhoods together.</div><div class="isomer-card-link">Free admission; Find out more here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/malayheritage/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/harmonycirclesg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Project Embrace V2 – A Community Art Activation @ Tampines" src="/images/52712293759_6bef949986_c.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Project Embrace V2 – A Community Art Activation @ Our Tampines Hub</div><div class="isomer-card-description">📅13-14 Jul ⏰11am-7pm 🔹Express your artistic side at Project Embrace V2 to help create an urban art installation that reflects the richness of multicultural Singapore! The completed artworks will beautify the MRT pillars that thread our neighbourhoods together.</div><div class="isomer-card-link">Free admission; Follow for updates!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/harmonycirclesg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Let’s Embrace – Celebrating Harmony  @ Our Tampines Hub" src="/images/5.png">
@@ -37,23 +37,24 @@ sounds, such as hymns &amp; the Muslim call to prayer, across diverse faiths.</d
 communities through a guided heritage trail, immersive storytelling sessions,
 cultural cooking workshops, a travelling exhibition, and a community mural
 painting event.</div>
-<div class="isomer-card-link">Find out more here!</div>
+<div class="isomer-card-link">Follow for updates!</div>
 </div>
-</a>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/harmonycirclesg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial and Religious Harmony Food Fiesta @ Bishan CC</div><div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity through food! Enjoy live cooking demonstrations, a rich array of cuisines from different ethnic groups, interactive food stalls, and cultural performances that highlight the beauty of our multicultural community.</div><div class="isomer-card-link">Registration will open soon; Follow for updates!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Racial and Religious Harmony Food Fiesta @ Bishan CC</div>
-<div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity
-through food! Enjoy live cooking demonstrations, a rich array of cuisines
-from different ethnic groups, interactive food stalls, and cultural performances
-that highlight the beauty of our multicultural community.</div>
+<div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div>
+<div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity,
+beyond July, at the inaugural HIH! Key highlights include multicultural
+performances, an exhibition on marriage practices across different faiths
+and a frisbee tournament.</div>
+<div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity, beyond July, at the inaugural HIH! Key highlights include multicultural performances, an exhibition on marriage practices across different faiths and a frisbee tournament.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
+</a>
 </div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
