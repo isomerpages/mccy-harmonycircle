@@ -40,7 +40,7 @@ pillars that thread our neighbourhoods together.</div>
 <div class="isomer-card-link">Register for a guaranteed painting spot!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/malayheritage/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Let’s Embrace – Celebrating Harmony  @ Our Tampines Hub" src="/images/5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Let’s Embrace – Celebrating Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅13-14 Jul ⏰11am-7pm 🔹Learn about the cultures and heritage of our different communities through a guided heritage trail, immersive storytelling sessions, cultural cooking workshops, a travelling exhibition, and a community mural painting event.</div><div class="isomer-card-link">Follow for updates!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/harmonycirclesg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/btpmmrhffc" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png">
@@ -52,7 +52,7 @@ pillars that thread our neighbourhoods together.</div>
 through food! Enjoy live cooking demonstrations, a rich array of cuisines
 from different ethnic groups, interactive food stalls, and cultural performances
 that highlight the beauty of our multicultural community.</div>
-<div class="isomer-card-link">Registration will open soon; Follow for updates!</div>
+<div class="isomer-card-link">Register here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity, beyond July, at the inaugural HIH! Key highlights include multicultural performances, an exhibition on marriage practices across different faiths and a frisbee tournament.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
 </div>
