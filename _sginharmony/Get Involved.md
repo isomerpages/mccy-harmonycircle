@@ -55,6 +55,34 @@ that highlight the beauty of our multicultural community.</div>
 <div class="isomer-card-link">Register here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity, beyond July, at the inaugural HIH! Key highlights include multicultural performances, an exhibition on marriage practices across different faiths and a frisbee tournament.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://forms.gle/ozYuajNPGFR7zXc77" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Racial Harmony CommUnity Diamond Challenge" src="/images/diamond_challenge_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Racial Harmony CommUnity Diamond Challenge</div>
+<div class="isomer-card-description">📅13-14 Jul ⏰8am-6pm 🔹Take part in the softball tournament alongside
+youths from various schools, religious and community organisations! This
+softball tournament will feature 24 teams of 12 players each.</div>
+<div class="isomer-card-link">Sign up now!</div>
+</div>
+</a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nee Soon GRC Harmony Brisk Walk" src="/images/brisk_walk.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nee Soon GRC Harmony Brisk Walk</div>
+<div class="isomer-card-description">📅27 Jul ⏰8am-11am 🔹Join us for a brisk walk where you will visit several
+places of worship within the Nee Soon Central vicinity. Afterward, join
+an interfaith sharing to learn about the sustainability practices within
+different faiths.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/harmony2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MacPherson Racial Harmony Concert" src="/images/macpherson_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MacPherson Racial Harmony Concert</div><div class="isomer-card-description">📅14 Jul ⏰1pm-3pm 🔹Celebrate Racial Harmony in MacPherson with fringe activities, cultural performances, a magic show, and more. 🎭✨</div><div class="isomer-card-link">Sign up now!</div></div></a>
 </div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
