@@ -40,10 +40,10 @@ pillars that thread our neighbourhoods together.</div>
 <div class="isomer-card-link">Register for a guaranteed painting spot!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/our-tampines-hub/racial-harmony-day-event-lets-embrace-celebrating-harmony/1589027028332427/?_rdr" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Let’s Embrace – Celebrating Harmony  @ Our Tampines Hub" src="/images/5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Let’s Embrace – Celebrating Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅13-14 Jul ⏰11am-7pm 🔹Learn about the cultures and heritage of our different communities through a guided heritage trail, immersive storytelling sessions, cultural cooking workshops, a travelling exhibition, and a community mural painting event.</div><div class="isomer-card-link">Sign up here!</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/ulu_pandan.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Arts in Diversity" src="/images/ulu_panan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Arts in Diversity" src="/images/ulu_pandan.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -52,8 +52,9 @@ pillars that thread our neighbourhoods together.</div>
 Network, Arts in Diversity showcases our diversity in harmony! Try your
 hand at batik &amp; Peranakan tile painting, Chinese calligraphy &amp;
 many more traditional arts!</div>
+<div class="isomer-card-link">Free Admission!</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/harmony2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MacPherson Racial Harmony Concert" src="/images/macpherson_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MacPherson Racial Harmony Concert @ MacPherson CC</div><div class="isomer-card-description">📅14 Jul ⏰1pm-3pm 🔹Celebrate Racial Harmony in MacPherson with fringe activities, cultural performances, a magic show, and more. 🎭✨</div><div class="isomer-card-link">Sign up now!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/harmony2024" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MacPherson Racial Harmony Concert" src="/images/macpherson_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MacPherson Racial Harmony Concert @ MacPherson CC</div><div class="isomer-card-description">📅14 Jul ⏰1pm-3pm 🔹Celebrate Racial Harmony in MacPherson with fringe activities, cultural performances, a magic show, and more. 🎭✨</div><div class="isomer-card-link">Sign up now!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://forms.gle/ozYuajNPGFR7zXc77" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
