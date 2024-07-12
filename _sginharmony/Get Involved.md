@@ -51,49 +51,6 @@ painting event.</div>
 <div class="isomer-card-link">Sign up here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/ulu_pandan.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Arts in Diversity" src="/images/ulu_pandan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arts in Diversity @ Pavilion at 7A Ghim Moh Rd</div><div class="isomer-card-description">📅13 Jul ⏰12pm-4pm 🔹Arts in Diversity showcases our diversity in harmony through our traditional snacks and crafts. Try your hand at various arts such as batik painting, peranakan tile painting, Chinese calligraphy, and savour traditional snacks like putu piring and muah chee!</div><div class="isomer-card-link">Free Admission!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/harmony2024" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MacPherson Racial Harmony Concert" src="/images/macpherson_2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">MacPherson Racial Harmony Concert @ MacPherson CC</div>
-<div class="isomer-card-description">📅14 Jul ⏰1pm-3pm 🔹Celebrate Racial Harmony in MacPherson with fringe
-activities, cultural performances, a magic show, and more. 🎭✨</div>
-<div class="isomer-card-link">Sign up now!</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://forms.gle/ozYuajNPGFR7zXc77" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony CommUnity Diamond Challenge" src="/images/diamond_challenge_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony CommUnity Diamond Challenge @ Raffles Institution</div><div class="isomer-card-description">📅13-14 Jul ⏰8am-6pm 🔹Take part in the softball tournament alongside youths from various schools, religious and community organisations! This softball tournament will feature 24 teams of 12 players each.</div><div class="isomer-card-link">Sign up now!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/btpmmrhffc" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Racial and Religious Harmony Food Fiesta @ Bishan CC</div>
-<div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity
-through food! Enjoy live cooking demonstrations, a rich array of cuisines
-from different ethnic groups, interactive food stalls, and cultural performances
-that highlight the beauty of our multicultural community.</div>
-<div class="isomer-card-link">Register here!</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="mailto:feedback@harmonycircle.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nee Soon GRC Harmony Brisk Walk" src="/images/brisk_walk.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nee Soon GRC Harmony Brisk Walk @ Tzu Chi Humanistic Youth Centre</div><div class="isomer-card-description">📅27 Jul ⏰8am-11am 🔹Join us for a brisk walk where you will visit several places of worship within the Nee Soon Central vicinity. Afterward, join an interfaith sharing to learn about the sustainability practices within different faiths.</div><div class="isomer-card-link">Email to register interest!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div>
-<div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity,
-beyond July, at the inaugural HIH! Key highlights include multicultural
-performances, an exhibition on marriage practices across different faiths
-and a frisbee tournament.</div>
-<div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day @ Bedok CC, Basketball Court" src="/images/12.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day @ Bedok CC, Basketball Court</div><div class="isomer-card-description">📅20 Jul ⏰2.30pm-5.30pm 🔹Appreciate our diversity through cultural performances, displays of marriage customs and traditions of the four ethnic groups (i.e. Indian, Malay, Chinese and Eurasian), and enjoy an array of traditional delicacies.</div><div class="isomer-card-link">Get your tickets as indicated here!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Kaki_bukit_racial_harmony.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -106,6 +63,34 @@ and a frisbee tournament.</div>
 game booths, and exciting stage performances. Don’t miss out on this wonderful
 opportunity to celebrate our diverse community.</div>
 <div class="isomer-card-link">Get your tickets at Kaki Bukit CC!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://forms.gle/ozYuajNPGFR7zXc77" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony CommUnity Diamond Challenge" src="/images/diamond_challenge_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony CommUnity Diamond Challenge @ Raffles Institution</div><div class="isomer-card-description">📅13-14 Jul ⏰8am-6pm 🔹Take part in the softball tournament alongside youths from various schools, religious and community organisations! This softball tournament will feature 24 teams of 12 players each.</div><div class="isomer-card-link">Sign up now!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/harmony2024" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MacPherson Racial Harmony Concert" src="/images/macpherson_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MacPherson Racial Harmony Concert @ MacPherson CC</div>
+<div class="isomer-card-description">📅14 Jul ⏰1pm-3pm 🔹Celebrate Racial Harmony in MacPherson with fringe
+activities, cultural performances, a magic show, and more. 🎭✨</div>
+<div class="isomer-card-link">Sign up now!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/btpmmrhffc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial and Religious Harmony Food Fiesta" src="/images/6.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial and Religious Harmony Food Fiesta @ Bishan CC</div><div class="isomer-card-description">📅20 Jul ⏰10am-4pm 🔹Join us in this vibrant celebration of cultural diversity through food! Enjoy live cooking demonstrations, a rich array of cuisines from different ethnic groups, interactive food stalls, and cultural performances that highlight the beauty of our multicultural community.</div><div class="isomer-card-link">Register here!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day @ Bedok CC, Basketball Court" src="/images/12.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Racial Harmony Day @ Bedok CC, Basketball Court</div>
+<div class="isomer-card-description">📅20 Jul ⏰2.30pm-5.30pm 🔹Appreciate our diversity through cultural performances,
+displays of marriage customs and traditions of the four ethnic groups (i.e.
+Indian, Malay, Chinese and Eurasian), and enjoy an array of traditional
+delicacies.</div>
+<div class="isomer-card-link">Get your tickets as indicated here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/serangoon_carnival.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4" src="/images/14.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4</div><div class="isomer-card-description">📅20 Jul ⏰9am-1pm 🔹Join us on for a day filled with food booths, game booths, and exciting stage performances. Don’t miss out on this wonderful opportunity to celebrate our diverse community.</div><div class="isomer-card-link">Get your free tickets from Serangoon CC!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/harmonycirclesg" class="isomer-card">
@@ -121,6 +106,21 @@ learn about diverse religious practices. Connect with people from different
 backgrounds, engage in interactive activities, and appreciate our community’s
 rich cultural tapestry.</div>
 <div class="isomer-card-link">Fully booked! Follow our socials for updates!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="mailto:feedback@harmonycircle.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nee Soon GRC Harmony Brisk Walk" src="/images/brisk_walk.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nee Soon GRC Harmony Brisk Walk @ Tzu Chi Humanistic Youth Centre</div><div class="isomer-card-description">📅27 Jul ⏰8am-11am 🔹Join us for a brisk walk where you will visit several places of worship within the Nee Soon Central vicinity. Afterward, join an interfaith sharing to learn about the sustainability practices within different faiths.</div><div class="isomer-card-link">Email to register interest!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div>
+<div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity,
+beyond July, at the inaugural HIH! Key highlights include multicultural
+performances, an exhibition on marriage practices across different faiths
+and a frisbee tournament.</div>
+<div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OnePeople.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HarmonyWorks! Conference 2024 by OnePeople.SG" src="/images/harmonyworks_conference_2024.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HarmonyWorks! Conference 2024 by OnePeople.SG</div><div class="isomer-card-description">OnePeople.sg’s HarmonyWorks! Conference is a signature, annual youth-driven initiative which explores key trends and issues of race relations in Singapore. This year's theme is "Bridging Differences through Conversations".</div><div class="isomer-card-link">Find out more here!</div></div></a>
 </div>
