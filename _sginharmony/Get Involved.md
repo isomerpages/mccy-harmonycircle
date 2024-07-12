@@ -93,11 +93,11 @@ performances, an exhibition on marriage practices across different faiths
 and a frisbee tournament.</div>
 <div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day @ Bedok CC, Basketball Court" src="/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day @ Bedok CC, Basketball Court</div><div class="isomer-card-description">📅20 Jul ⏰2.30pm-5.30pm 🔹Appreciate our diversity through cultural performances, displays of marriage customs and traditions of the four ethnic groups (i.e. Indian, Malay, Chinese and Eurasian), and enjoy an array of traditional delicacies.</div><div class="isomer-card-link">Get your tickets as indicated here!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day @ Bedok CC, Basketball Court" src="/images/12.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day @ Bedok CC, Basketball Court</div><div class="isomer-card-description">📅20 Jul ⏰2.30pm-5.30pm 🔹Appreciate our diversity through cultural performances, displays of marriage customs and traditions of the four ethnic groups (i.e. Indian, Malay, Chinese and Eurasian), and enjoy an array of traditional delicacies.</div><div class="isomer-card-link">Get your tickets as indicated here!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Kaki_bukit_racial_harmony.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kaki Bukit Racial Harmony Day @ Kaki Bukit CC" src="/images/Kaki_bukit_racial_harmony.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kaki Bukit Racial Harmony Day @ Kaki Bukit CC" src="/images/13.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -107,21 +107,22 @@ game booths, and exciting stage performances. Don’t miss out on this wonderful
 opportunity to celebrate our diverse community.</div>
 <div class="isomer-card-link">Get your tickets at Kaki Bukit CC!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/serangoon_carnival.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4" src="/images/serangoon_carnival.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4</div><div class="isomer-card-description">📅20 Jul ⏰9am-1pm 🔹Join us on for a day filled with food booths, game booths, and exciting stage performances. Don’t miss out on this wonderful opportunity to celebrate our diverse community.</div><div class="isomer-card-link">Get your free tickets from Serangoon CC!</div></div></a>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/serangoon_carnival.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4" src="/images/14.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4</div><div class="isomer-card-description">📅20 Jul ⏰9am-1pm 🔹Join us on for a day filled with food booths, game booths, and exciting stage performances. Don’t miss out on this wonderful opportunity to celebrate our diverse community.</div><div class="isomer-card-link">Get your free tickets from Serangoon CC!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/harmonycirclesg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marsiling's Harmony Bus @ New Life Bible-Presbyterian Church" src="/images/marsiling_harmony_bus.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Marsiling's Harmony Bus @ New Life Bible-Presbyterian Church" src="/images/15.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Marsiling's Harmony Bus 2024</div>
+<div class="isomer-card-title">Marsiling's Harmony Bus @ New Life Bible-Presbyterian Church</div>
 <div class="isomer-card-description">📅20 Jul ⏰7.45am-1pm 🔹Join us for a unique opportunity to explore and
 learn about diverse religious practices. Connect with people from different
 backgrounds, engage in interactive activities, and appreciate our community’s
 rich cultural tapestry.</div>
+<div class="isomer-card-link">Fully booked! Follow our socials for updates!</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OnePeople.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HarmonyWorks! Conference 2024 by OnePeople.SG" src="/images/harmonyworks_conference_2024.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HarmonyWorks! Conference 2024 by OnePeople.SG</div><div class="isomer-card-description">OnePeople.sg’s HarmonyWorks! Conference is a signature, annual youth-driven initiative which explores key trends and issues of race relations in Singapore. This year's theme is "Bridging Differences through Conversations".</div><div class="isomer-card-link">Find out more here!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OnePeople.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HarmonyWorks! Conference 2024 by OnePeople.SG" src="/images/harmonyworks_conference_2024.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HarmonyWorks! Conference 2024 by OnePeople.SG</div><div class="isomer-card-description">OnePeople.sg’s HarmonyWorks! Conference is a signature, annual youth-driven initiative which explores key trends and issues of race relations in Singapore. This year's theme is "Bridging Differences through Conversations".</div><div class="isomer-card-link">Find out more here!</div></div></a>
 </div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
