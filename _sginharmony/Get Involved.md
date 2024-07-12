@@ -120,10 +120,11 @@ different faiths.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">HarmonyWorks! Conference 2024 by OnePeople.SG</div>
-<div class="isomer-card-description">OnePeople.sg’s HarmonyWorks! Conference is a signature, annual youth-driven
-initiative which explores key trends and issues of race relations in Singapore.
-This year's theme is "Bridging Differences through Conversations".</div>
+<div class="isomer-card-title">HarmonyWorks! Conference 2024 @ ITE College East</div>
+<div class="isomer-card-description">📅3 Aug ⏰9am-4.30pm 🔹OnePeople.sg’s HarmonyWorks! Conference is a signature,
+annual youth-driven initiative which explores key trends and issues of
+race relations in Singapore. This year's theme is "Bridging Differences
+through Conversations".</div>
 <div class="isomer-card-link">Find out more here!</div>
 </div>
 </a>
