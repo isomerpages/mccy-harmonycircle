@@ -97,7 +97,7 @@ and a frisbee tournament.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kaki Bukit Racial Harmony Day @ Kaki Bukit CC" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Kaki Bukit Racial Harmony Day @ Kaki Bukit CC" src="/images/Kaki_bukit_racial_harmony.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -105,9 +105,9 @@ and a frisbee tournament.</div>
 <div class="isomer-card-description">📅13 Jul ⏰10.30am-12.30pm 🔹Join us on for a day filled with food booths,
 game booths, and exciting stage performances. Don’t miss out on this wonderful
 opportunity to celebrate our diverse community.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Get your tickets at Kaki Bukit CC!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4" src="/images/serangoon_carnival.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4</div><div class="isomer-card-description">📅20 Jul ⏰9am-1pm 🔹Join us on for a day filled with food booths, game booths, and exciting stage performances. Don’t miss out on this wonderful opportunity to celebrate our diverse community.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4" src="/images/serangoon_carnival.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day Carnival @ Blk 217 Serangoon Ave 4</div><div class="isomer-card-description">📅20 Jul ⏰9am-1pm 🔹Join us on for a day filled with food booths, game booths, and exciting stage performances. Don’t miss out on this wonderful opportunity to celebrate our diverse community.</div><div class="isomer-card-link">Get your free tickets from Serangoon CC!</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
