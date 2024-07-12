@@ -94,7 +94,7 @@ and a frisbee tournament.</div>
 <div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day @ Bedok CC, Basketball Court" src="/images/Bedok_CC_Racial_Harmony_2024_Poster_6_page_0001.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Day @ Bedok CC, Basketball Court</div><div class="isomer-card-description">📅20 Jul ⏰2.30pm-5.30pm 🔹Appreciate our diversity through cultural performances, displays of marriage customs and traditions of the four ethnic groups (i.e. Indian, Malay, Chinese and Eurasian), and enjoy an array of traditional delicacies.</div><div class="isomer-card-link">Get your tickets as indicated here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.harmonycircle.sg/images/Kaki_bukit_racial_harmony.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kaki Bukit Racial Harmony Day @ Kaki Bukit CC" src="/images/Kaki_bukit_racial_harmony.jpg">
