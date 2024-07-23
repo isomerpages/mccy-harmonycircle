@@ -112,22 +112,22 @@ an interfaith sharing to learn about the sustainability practices within
 different faiths.</div>
 <div class="isomer-card-link">Email to register interest!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div><div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity, beyond July, at the inaugural HIH! Key highlights include multicultural performances, an exhibition on marriage practices across different faiths and a frisbee tournament.</div><div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OnePeople.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/bedok-reservoir-racial-harmony-festival-2024-42049413" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Festival @ Bedok Reservor Village" src="/images/racial_harmony_festival_bedok_2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Festival @ Bedok Reservor Village</div><div class="isomer-card-description">📅27 July ⏰4pm-6pm 🔹Join us for the Racial Harmony Festival and experience Singapore's cultures! You will get to try Chinese calligraphy, batik painting, Indian henna and many more.</div><div class="isomer-card-link">Register here!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/rrhm24savethedate" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="HarmonyWorks! Conference 2024 by OnePeople.SG" src="/images/11.png">
+<img style="width: 100%" height="auto" width="100%" alt="Heartlands in Harmony (HIH) #continYOUity" src="/images/HIH_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">HarmonyWorks! Conference 2024 @ ITE College East</div>
-<div class="isomer-card-description">📅3 Aug ⏰9am-4.30pm 🔹OnePeople.sg’s HarmonyWorks! Conference is a signature,
-annual youth-driven initiative which explores key trends and issues of
-race relations in Singapore. This year's theme is "Bridging Differences
-through Conversations".</div>
-<div class="isomer-card-link">Find out more here!</div>
+<div class="isomer-card-title">Heartlands in Harmony @ Our Tampines Hub</div>
+<div class="isomer-card-description">📅27-28 Jul ⏰9.30am-7pm 🔹Let’s continue to play a part towards unity,
+beyond July, at the inaugural HIH! Key highlights include multicultural
+performances, an exhibition on marriage practices across different faiths
+and a frisbee tournament.</div>
+<div class="isomer-card-link">🎁RSVP for exclusive limited edition gifts!🎁</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OnePeople.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HarmonyWorks! Conference 2024 by OnePeople.SG" src="/images/11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HarmonyWorks! Conference 2024 @ ITE College East</div><div class="isomer-card-description">📅3 Aug ⏰9am-4.30pm 🔹OnePeople.sg’s HarmonyWorks! Conference is a signature, annual youth-driven initiative which explores key trends and issues of race relations in Singapore. This year's theme is "Bridging Differences through Conversations".</div><div class="isomer-card-link">Find out more here!</div></div></a>
 </div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
