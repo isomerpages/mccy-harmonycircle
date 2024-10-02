@@ -22,6 +22,16 @@ sections:
           description: Showcase of Community Projects
           url: https://www.harmonycircle.sg/sginharmony/be-inspired
       title: Many Beliefs, One Future
+  - infopic:
+      title: Provide Aid for Gaza
+      subtitle: humanitarian aid
+      id: infopic
+      description: The Harmony Circle is supporting RLAF’s fundraising to provide
+        critical aid for children and families affected by the ongoing crisis in
+        Gaza.
+      button: Read More
+      url: https://www.harmonycircle.sg/sginharmony/get-involved/
+      alt: Image alt text
   - resources:
       title: Resources
       subtitle: Learn more
