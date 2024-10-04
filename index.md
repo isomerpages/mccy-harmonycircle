@@ -23,7 +23,7 @@ sections:
           url: https://www.harmonycircle.sg/sginharmony/be-inspired
       title: Many Beliefs, One Future
   - infopic:
-      title: Harmony-In Action Fundraising Campaign
+      title: Harmony-In-Action Fundraising Campaign
       subtitle: Relief for gaza
       id: infopic
       description: The Harmony Circle is supporting Rahmatan Lil Alamin Foundation’s
