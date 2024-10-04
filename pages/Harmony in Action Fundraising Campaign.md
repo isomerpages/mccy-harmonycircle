@@ -83,7 +83,7 @@ Level 4, Singapore 737740)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner__1500_x_1000_px___1_.png">
 </div>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Under PayNow</strong>: Key in RLAF’s UEN 200910530ZRLA and indicate
 ‘GAZAAID2024HARMONYCIRCLE’ under remarks.</p>
@@ -92,14 +92,14 @@ Level 4, Singapore 737740)</p>
 <p><strong>Under Scan &amp; Pay</strong>: Scan or screenshot QR code. You
 will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference</p>
 </li>
-</ol>
+</ul>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <h4><strong>2. Cheque</strong></h4>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Issue a cheque payable to RAHMATAN LIL ALAMIN FOUNDATION LTD.&nbsp;</p>
 </li>
@@ -111,7 +111,7 @@ GAZAAID2024HARMONYCIRCLE’.&nbsp;</p>
 <p>Mail your cheque to RLAF (Masjid Yusof Ishak, No 10 Woodlands Drive 17,
 Level 4, Singapore 737740)</p>
 </li>
-</ol>
+</ul>
 </td>
 </tr>
 </tbody>
