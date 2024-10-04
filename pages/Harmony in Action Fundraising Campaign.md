@@ -19,7 +19,7 @@ in Gaza.</p>
 <p>This “Harmony-in-Action” fundraising appeal will be conducted from<strong> 7 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
 <h4><strong>Give now to make a difference.</strong></h4>
-<h3><strong>Modes of Payment</strong><br></h3>
+<h3><strong>Modes of Payment</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,10 +85,9 @@ they are donations for foreign charitable purposes.&nbsp;</p>
 </ul>
 <p>For enquiries, please contact <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">feedback@harmonycircle.sg</a>.</p>
 <h3><strong>FAQs</strong></h3>
-<p></p>
 <ol>
 <li>
-<p><strong>Who is Rahmatan Lil Alamin (Blessings to All) Foundation (RLAF)? &lt;to seek RLAF’s agreement&gt;</strong>
+<p><strong>Who is Rahmatan Lil Alamin (Blessings to All) Foundation (RLAF)?</strong>
 </p>
 </li>
 </ol>
@@ -138,8 +137,7 @@ that the aid reaches the children and families who need it most.</p>
 </ol>
 <p>In this fundraising appeal, RLAF follows a meticulous process to ensure
 transparency and accountability with the donations received:</p>
-<p></p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>We firstly obtained the necessary permit from the Commissioner of Charities
 to raise the fund.</p>
@@ -169,8 +167,7 @@ detailing the utilisation of the funds.</p>
 <p>RLAF would also conduct monitoring visits for due diligence to assess
 the impact of our relief efforts and ensure the funds are utilised accordingly.&nbsp;</p>
 </li>
-</ol>
-<p></p>
+</ul>
 <p>Moreover, the donations are collected through approved crowdfunding platforms,
 including <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> and
 RLAF’s own direct donation platform. Both platforms are designed with robust
@@ -199,7 +196,7 @@ campaign will be from 7 October to 30 November 2024
 <li>
 <p><strong>&nbsp;What are the platforms and methods available for donations?</strong>
 </p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>PayNow – Key in RLAF’s UEN 200910530ZRLA and indicate ‘GAZAAID2024HARMONYCIRCLE’
 under remarks (Refer to PayNow QR Code)</p>
@@ -211,7 +208,7 @@ the back of the cheque: Donor’s name, contact number and indicate GAZAAID2024H
 Mail your cheque to RLAF (Masjid Yusof Ishak, No 10 Woodlands Drive 17,
 Level 4, Singapore 737740)</p>
 </li>
-</ol>
+</ul>
 </li>
 </ol>
 <p></p>
@@ -245,5 +242,4 @@ for this campaign.
 </ol>
 <p>For accountability and transparency, we seek your understanding that&nbsp;<u>we will not be able to do a refund.</u>
 </p>
-<p></p>
 <p></p>
