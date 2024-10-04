@@ -11,10 +11,9 @@ description: ""
 provide critical aid for children and families affected by the ongoing
 crisis in Gaza.</p>
 <p>We are appealing to all Singaporeans to come together and contribute generously
-in support of this humanitarian aid.</p>
-<p>Your support can make a significant difference in providing essential
-aid such as food, water, medical aid, and sanitation to affected communities
-in Gaza.</p>
+in support of this humanitarian aid. Your support can make a significant
+difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
+affected communities in Gaza.</p>
 <p>This “Harmony-in-Action” fundraising appeal will be conducted from<strong> 7 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
 <h4><strong>Give now to make a difference.</strong></h4>
