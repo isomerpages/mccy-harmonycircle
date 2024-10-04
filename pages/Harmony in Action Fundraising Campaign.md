@@ -100,10 +100,8 @@ more information.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The donation will be used for delivering essential relief aid which includes
-food, health, sanitation, medical supplies and education. The funds raised
-may be used (and not limited to) for procurement of vital supplies such
-as food, water, medical aid and sanitation for the affected communities
-in Gaza.</p>
+(and not limited to) food, water, medical aid and sanitation for the affected
+communities in Gaza.</p>
 </div>
 </details>
 <details class="isomer-details">
