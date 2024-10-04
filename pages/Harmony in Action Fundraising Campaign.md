@@ -115,7 +115,6 @@ Level 4, Singapore 737740)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Please note the following:</p>
 <ul>
 <li>
