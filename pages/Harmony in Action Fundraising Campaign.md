@@ -18,58 +18,6 @@ affected communities in Gaza.</p>
 </p>
 <h4><strong>Give now to make a difference.</strong></h4>
 <h3><strong>Modes of Payment</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>PayNow</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GAZA_AID_2024___HARMONY_CIRCLE_QR_CODE_TILL_30_OCT_2024.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<ol>
-<li>
-<p><strong>Under PayNow</strong>: Key in RLAF’s UEN 200910530ZRLA and indicate
-‘GAZAAID2024HARMONYCIRCLE’ under remarks.</p>
-</li>
-<li>
-<p><strong>Under Scan &amp; Pay</strong>: Scan or screenshot QR code. You
-will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference</p>
-</li>
-</ol>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cheque</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ol>
-<li>
-<p>Issue a cheque payable to RAHMATAN LIL ALAMIN FOUNDATION LTD.&nbsp;</p>
-</li>
-<li>
-<p>State at the back of the cheque: Donor’s name, contact number and indicate
-GAZAAID2024HARMONYCIRCLE’.&nbsp;</p>
-</li>
-<li>
-<p>Mail your cheque to RLAF (Masjid Yusof Ishak, No 10 Woodlands Drive 17,
-Level 4, Singapore 737740)</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
