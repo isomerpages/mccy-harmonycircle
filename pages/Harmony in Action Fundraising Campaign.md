@@ -85,7 +85,7 @@ they are donations for foreign charitable purposes.&nbsp;</p>
 </ul>
 <p>For enquiries, please contact <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">feedback@harmonycircle.sg</a>.</p>
 <h3><strong>FAQs</strong></h3>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>Who is Rahmatan Lil Alamin (Blessings to All) Foundation (RLAF)?</strong>
 </p>
@@ -99,10 +99,10 @@ efforts, including providing aid to communities in crisis, supporting interfaith
 dialogue, and advocating for social harmony. Through its programs, RLAF
 aims to inspire a culture of kindness and unity, reflecting the universal
 values of care and compassion.</p>
-<p>Visit <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://rlafoundation.org.sg/</u></a> for
+<p>Visit <a href="https://rlafoundation.org.sg/" rel="noopener nofollow" target="_blank">https://rlafoundation.org.sg/</a> for
 more information.&nbsp;</p>
 <p></p>
-<ol start="2">
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>What will the donation be allocated for?</strong>
 </p>
@@ -114,7 +114,7 @@ may be used (and not limited to) for procurement of vital supplies such
 as food, water, medical aid and sanitation for the affected communities
 in Gaza.</p>
 <p></p>
-<ol start="3">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>How does RLAF ensure the funds and essential aid reach the children and their families in Gaza?</strong>
 </p>
@@ -129,7 +129,7 @@ to verify that the aid is being distributed effectively. Through these
 partnerships, RLAF is able to monitor the impact of the support and ensure
 that the aid reaches the children and families who need it most.</p>
 <p></p>
-<ol start="4">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>How does RLAF ensure the donations are properly collected and audited?</strong>
 </p>
@@ -169,12 +169,12 @@ the impact of our relief efforts and ensure the funds are utilised accordingly.&
 </li>
 </ul>
 <p>Moreover, the donations are collected through approved crowdfunding platforms,
-including <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> and
-RLAF’s own direct donation platform. Both platforms are designed with robust
-security measures to ensure the safety and protection of your contributions.
+including Giving.sg and RLAF’s own direct donation platform. Both platforms
+are designed with robust security measures to ensure the safety and protection
+of your contributions.
 <br>
 </p>
-<ol start="5">
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>When is the period of donation?</strong>
 </p>
@@ -184,47 +184,39 @@ security measures to ensure the safety and protection of your contributions.
 campaign will be from 7 October to 30 November 2024
 <br>
 </p>
-<ol start="6">
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong>What is the minimum amount for donations?</strong>
 </p>
 </li>
 </ol>
 <p>There is no minimum amount of donation.</p>
-<p></p>
-<ol start="7">
+<ol start="7" data-tight="true" class="tight">
 <li>
-<p><strong>&nbsp;What are the platforms and methods available for donations?</strong>
+<p><strong>What are the platforms and methods available for donations?</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>PayNow – Key in RLAF’s UEN 200910530ZRLA and indicate ‘GAZAAID2024HARMONYCIRCLE’
-under remarks (Refer to PayNow QR Code)</p>
-<p></p>
 </li>
-<li>
-<p>Issue a cheque payable to RAHMATAN LIL ALAMIN FOUNDATION LTD. State at
-the back of the cheque: Donor’s name, contact number and indicate GAZAAID2024HARMONYCIRCLE’.
+</ol>
+<p>a) PayNow – Key in RLAF’s UEN 200910530ZRLA and indicate ‘GAZAAID2024HARMONYCIRCLE’
+under remarks (Refer to PayNow QR Code)</p>
+<p>b) Issue a cheque payable to RAHMATAN LIL ALAMIN FOUNDATION LTD. State
+at the back of the cheque: Donor’s name, contact number and indicate GAZAAID2024HARMONYCIRCLE’.
 Mail your cheque to RLAF (Masjid Yusof Ishak, No 10 Woodlands Drive 17,
 Level 4, Singapore 737740)</p>
-</li>
-</ul>
-</li>
-</ol>
 <p></p>
-<ol start="8">
+<ol start="8" data-tight="true" class="tight">
 <li>
-<p><strong>Will receipts be issued for my donations? &lt;to confirm with Izhar&gt;</strong>
+<p><strong>Will receipts be issued for my donations?</strong>
 </p>
 </li>
 </ol>
-<p>Non tax-deductible receipts will be issued upon request via <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">rlaf@rlafoundation.org.sg</a>.
+<p>Non tax-deductible receipts will be issued upon request via rlaf@rlafoundation.org.sg.
 As per IRAS regulation, these donations are not tax-deductible as they
 are donations for “foreign charitable purposes”.</p>
-<p>Source: <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.iras.gov.sg/IRASHome/Individuals/Foreigners/Working-out-your-taxes/Deductions-for-Individuals/Donations/</a>
+<p>Source: https://www.iras.gov.sg/IRASHome/Individuals/Foreigners/Working-out-your-taxes/Deductions-for-Individuals/Donations/
 <br>
 </p>
-<ol start="9">
+<ol start="9" data-tight="true" class="tight">
 <li>
 <p><strong>Do Harmony Circle and RLAF accept in-kind or item donations for this campaign?</strong>
 </p>
@@ -234,7 +226,7 @@ are donations for “foreign charitable purposes”.</p>
 for this campaign.
 <br>
 </p>
-<ol start="10">
+<ol start="10" data-tight="true" class="tight">
 <li>
 <p><strong>I have wrongly transferred and I would like to request for a refund.</strong>
 </p>
