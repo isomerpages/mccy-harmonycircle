@@ -79,12 +79,7 @@ Level 4, Singapore 737740)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>PayNow</strong>
-</p>
-</li>
-</ol>
+<h4><strong>PayNow</strong></h4>
 </td>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
@@ -105,12 +100,7 @@ will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Cheque</strong>
-</p>
-</li>
-</ol>
+<h4><strong>Cheque</strong></h4>
 </td>
 <td rowspan="1" colspan="2">
 <ol>
