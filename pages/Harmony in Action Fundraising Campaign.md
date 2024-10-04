@@ -70,15 +70,22 @@ Level 4, Singapore 737740)</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>PayNow</p>
+</li>
+</ol>
+</td>
 <td rowspan="1" colspan="2">
-<h4><strong>PayNow</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GAZA_AID_2024___HARMONY_CIRCLE_QR_CODE_TILL_30_OCT_2024.png">
 </div>
@@ -96,8 +103,14 @@ will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Cheque</p>
+</li>
+</ol>
+</td>
 <td rowspan="1" colspan="2">
-<h4><strong>Cheque</strong></h4>
 <ol>
 <li>
 <p>Issue a cheque payable to RAHMATAN LIL ALAMIN FOUNDATION LTD.&nbsp;</p>
