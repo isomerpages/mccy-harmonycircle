@@ -75,7 +75,7 @@ this campaign.</p>
 they are donations for foreign charitable purposes.&nbsp;</p>
 </li>
 </ul>
-<p>For enquiries, please contact <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">feedback@harmonycircle.sg</a>.</p>
+<p>For enquiries, please contact <a href="mailto:harmony-in-action@harmonycircle.sg" rel="noopener noreferrer nofollow" target="_blank">harmony-in-action@harmonycircle.sg</a>.</p>
 <h3><strong>FAQs</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
