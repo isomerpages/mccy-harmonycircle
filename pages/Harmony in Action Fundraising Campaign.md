@@ -7,14 +7,14 @@ description: Harmony-in-Action Fundraising Campaign
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner__1_.png">
 </div>
-<p>The Racial and Religious Harmony Circle is supporting the <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rahmatan Lil Alamin (Blessings to All) Foundation’s (RLAF)&nbsp;fundraising appeal</u></a>  <em>(Permit No. 0062/2024) </em>to
+<p>The Racial and Religious Harmony Circle is supporting the <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rahmatan Lil Alamin (Blessings to All) Foundation’s (RLAF)&nbsp;fundraising campaign</u></a>  <em>(Permit No. 0062/2024) </em>to
 provide critical aid for children and families affected by the ongoing
 crisis in Gaza.</p>
 <p>We are appealing to all Singaporeans to come together and contribute generously
 in support of this humanitarian aid. Your support can make a significant
 difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
 affected communities in Gaza.</p>
-<p>This “Harmony-in-Action” fundraising appeal will be conducted from<strong> 7 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
+<p>The “Harmony-in-Action” fundraising campaign will be conducted from<strong> 7 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
 <h4><strong>Give now to make a difference.</strong></h4>
 <h3><strong>Modes of Payment</strong></h3>
