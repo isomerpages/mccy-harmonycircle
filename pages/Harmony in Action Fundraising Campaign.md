@@ -18,8 +18,7 @@ aid such as food, water, medical aid, and sanitation to affected communities
 in Gaza.</p>
 <p>This “Harmony-in-Action” fundraising appeal will be conducted from<strong> 7 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
-<p><strong>Give now to make a difference.</strong>
-</p>
+<h4><strong>Give now to make a difference.</strong></h4>
 <h3><strong>Modes of Payment</strong><br></h3>
 <table style="minWidth: 50px">
 <colgroup>
