@@ -26,9 +26,9 @@ sections:
       title: Harmony-In Action Fundraising Campaign
       subtitle: Relief for gaza
       id: infopic
-      description: The Harmony Circle is supporting RLAF’s fundraising campaign to
-        provide critical aid for children and families affected by the ongoing
-        crisis in Gaza.
+      description: The Harmony Circle is supporting Rahmatan Lil Alamin Foundation’s
+        (RLAF) fundraising campaign to provide critical aid to affected
+        communities in Gaza.
       button: Read More
       url: https://www.harmonycircle.sg/sginharmony/get-involved/
       alt: Image alt text
