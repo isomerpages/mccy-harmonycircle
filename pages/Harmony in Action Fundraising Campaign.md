@@ -91,8 +91,6 @@ Confidence Circle (IRCC), the Harmony Circle, was refreshed and renamed
 in July 2022 to reflect its broader mission to promote racial and religious
 harmony in Singapore by building trust, understanding and confidence among
 the various communities in peacetime and in times of crisis​​.</p>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">www.harmonycircle.sg/harmony-in-action/</a> for
-more information.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -106,7 +104,7 @@ efforts, including providing aid to communities in crisis, supporting interfaith
 dialogue, and advocating for social harmony. Through its programs, RLAF
 aims to inspire a culture of kindness and unity, reflecting the universal
 values of care and compassion.&nbsp;</p>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://rlafoundation.org.sg/</a> for
+<p>Visit <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://rlafoundation.org.sg/</a> for
 more information.&nbsp;</p>
 </div>
 </details>
@@ -240,10 +238,10 @@ Level 4, Singapore 737740)&nbsp;</p>
 <summary><strong>10. Will receipts be issued for my donations?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>Non</u></strong> tax-deductible receipts will be issued upon
-request via <a rel="noopener noreferrer nofollow" target="_blank">rlaf@rlafoundation.org.sg</a>.
+request via <a href="mailto:rlaf@rlafoundation.org.sg" rel="noopener noreferrer nofollow" target="_blank">rlaf@rlafoundation.org.sg</a>.
 As per IRAS regulation, these <strong>donations are <u>not</u> tax-deductible</strong> as
 they are donations for “foreign charitable purposes”.&nbsp;</p>
-<p>Please refer to: <a rel="noopener noreferrer nofollow" target="_blank">https://www.iras.gov.sg/IRASHome/Individuals/Foreigners/Working-out-your-taxes/Deductions-for-Individuals/Donations/</a> &nbsp;</p>
+<p>Please refer to: <a href="https://www.iras.gov.sg/IRASHome/Individuals/Foreigners/Working-out-your-taxes/Deductions-for-Individuals/Donations/" rel="noopener noreferrer nofollow" target="_blank">https://www.iras.gov.sg/IRASHome/Individuals/Foreigners/Working-out-your-taxes/Deductions-for-Individuals/Donations/</a> &nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -283,7 +281,7 @@ this fundraising campaign for Gaza.</p>
 <p>You can follow the following pages for regular updates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Harmony Circle website</a>
+<p><a href="https://www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Harmony Circle website</a>
 </p>
 </li>
 <li>
