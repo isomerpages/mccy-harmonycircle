@@ -11,8 +11,8 @@ description: Harmony-in-Action Fundraising Campaign
 provide critical aid for children and families affected by the ongoing
 crisis in Gaza.</p>
 <p>We are appealing to all Singaporeans to come together and contribute generously
-in support of this humanitarian aid.</p>
-<p>Your support can make a significant difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
+in support of this humanitarian aid. Your support can make a significant
+difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
 affected communities in Gaza.</p>
 <p>The “Harmony-in-Action” fundraising campaign will be conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
