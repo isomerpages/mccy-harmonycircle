@@ -30,9 +30,9 @@ sections:
         (RLAF) fundraising campaign to provide critical aid to affected
         communities in Gaza.
       button: Read More
-      url: https://www.harmonycircle.sg/harmony-in-action-fundraising/
+      url: https://www.harmonycircle.sg/harmony-in-action/
       alt: Image alt text
-      image: /images/HC_webpage_banner__1500_x_1000_px_.png
+      image: /images/HOMEPAGE_BANNER_FINAL.png
   - resources:
       title: Resources
       subtitle: Learn more
