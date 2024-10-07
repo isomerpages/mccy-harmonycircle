@@ -283,7 +283,7 @@ this fundraising campaign for Gaza.</p>
 <p>You can follow the following pages for regular updates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Harmony Circle website</a>
+<p><a href="https://www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Harmony Circle website</a>
 </p>
 </li>
 <li>
