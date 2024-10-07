@@ -91,7 +91,6 @@ Confidence Circle (IRCC), the Harmony Circle, was refreshed and renamed
 in July 2022 to reflect its broader mission to promote racial and religious
 harmony in Singapore by building trust, understanding and confidence among
 the various communities in peacetime and in times of crisis​​.</p>
-<p></p>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">www.harmonycircle.sg/harmony-in-action/</a> for
 more information.</p>
 </div>
@@ -107,7 +106,6 @@ efforts, including providing aid to communities in crisis, supporting interfaith
 dialogue, and advocating for social harmony. Through its programs, RLAF
 aims to inspire a culture of kindness and unity, reflecting the universal
 values of care and compassion.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://rlafoundation.org.sg/</a> for
 more information.&nbsp;</p>
 </div>
@@ -300,5 +298,4 @@ this fundraising campaign for Gaza.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
