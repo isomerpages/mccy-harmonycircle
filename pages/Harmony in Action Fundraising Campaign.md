@@ -91,8 +91,6 @@ Confidence Circle (IRCC), the Harmony Circle, was refreshed and renamed
 in July 2022 to reflect its broader mission to promote racial and religious
 harmony in Singapore by building trust, understanding and confidence among
 the various communities in peacetime and in times of crisis​​.</p>
-<p>Visit <a href="www.harmonycircle.sg/harmony-in-action/" rel="noopener noreferrer nofollow" target="_blank">www.harmonycircle.sg/harmony-in-action/</a> for
-more information.</p>
 </div>
 </details>
 <details class="isomer-details">
