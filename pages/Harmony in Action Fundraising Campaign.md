@@ -11,8 +11,8 @@ description: Harmony-in-Action Fundraising Campaign
 provide critical aid for children and families affected by the ongoing
 crisis in Gaza.</p>
 <p>We are appealing to all Singaporeans to come together and contribute generously
-in support of this humanitarian aid. Your support can make a significant
-difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
+in support of this humanitarian aid.</p>
+<p>Your support can make a significant difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
 affected communities in Gaza.</p>
 <p>The “Harmony-in-Action” fundraising campaign will be conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
@@ -38,7 +38,7 @@ affected communities in Gaza.</p>
 </li>
 <li>
 <p><strong>Under Scan &amp; Pay</strong>: Scan or screenshot QR code. You
-will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference</p>
+will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference.</p>
 </li>
 </ul>
 <p></p>
@@ -53,11 +53,11 @@ will see ‘GAZAAID2024HARMONYCIRCLE’ in the Reference</p>
 </li>
 <li>
 <p>State at the back of the cheque: Donor’s name, contact number and indicate
-GAZAAID2024HARMONYCIRCLE’.&nbsp;</p>
+'GAZAAID2024HARMONYCIRCLE’.&nbsp;</p>
 </li>
 <li>
 <p>Mail your cheque to RLAF (Masjid Yusof Ishak, No 10 Woodlands Drive 17,
-Level 4, Singapore 737740)</p>
+Level 4, Singapore 737740).</p>
 </li>
 </ul>
 </td>
@@ -167,7 +167,7 @@ of your contributions.</p>
 <summary><strong>5. When is the period of donation?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The donation period for the Harmony Circle-led “Harmony in Action” fundraising
+<p>The donation period for the Harmony Circle-led “Harmony-in-Action” fundraising
 campaign will be from 1 October to 30 November 2024</p>
 </div>
 </details>
@@ -194,9 +194,9 @@ Level 4, Singapore 737740)</p>
 <summary><strong>8. Will receipts be issued for my donations?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Non tax-deductible receipts will be issued upon request via rlaf@rlafoundation.org.sg.
-As per IRAS regulation, these donations are not tax-deductible as they
-are donations for “foreign charitable purposes”.</p>
+<p><strong><u>Non</u> </strong>tax-deductible receipts will be issued upon
+request via rlaf@rlafoundation.org.sg. As per IRAS regulation, these donations
+are not tax-deductible as they are donations for “foreign charitable purposes”.</p>
 <p>Source: https://www.iras.gov.sg/IRASHome/Individuals/Foreigners/Working-out-your-taxes/Deductions-for-Individuals/Donations/</p>
 </div>
 </details>
@@ -212,7 +212,7 @@ for this campaign.</p>
 <summary><strong>10. I have wrongly transferred and I would like to request for a refund.</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For accountability and transparency, we seek your understanding that&nbsp;<u>we will not be able to do a refund.</u>
+<p>For accountability and transparency, we seek your understanding that&nbsp;<u>we will not be able to process any refunds.</u>
 </p>
 </div>
 </details>
