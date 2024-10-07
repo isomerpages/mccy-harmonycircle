@@ -22,6 +22,17 @@ sections:
           description: Showcase of Community Projects
           url: https://www.harmonycircle.sg/sginharmony/be-inspired
       title: Many Beliefs, One Future
+  - infopic:
+      title: Harmony-In-Action Fundraising Campaign
+      subtitle: Relief for gaza
+      id: infopic
+      description: The Racial & Religious Harmony Circle is supporting Rahmatan Lil
+        Alamin Foundation’s fundraiser to provide critical aid to affected
+        communities in Gaza.
+      button: Read More
+      url: https://www.harmonycircle.sg/harmony-in-action/
+      alt: Image alt text
+      image: /images/HOMEPAGE_BANNER_FINAL.png
   - resources:
       title: Resources
       subtitle: Learn more

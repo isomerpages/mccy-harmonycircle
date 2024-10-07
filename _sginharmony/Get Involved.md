@@ -4,7 +4,7 @@ permalink: /sginharmony/get-involved/
 variant: tiptap
 description: ""
 ---
-<h3>Upcoming Events &amp; Activities 2024</h3>
+<h3>Racial &amp; Religious Harmony Month 2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Do your part for #YOUnity" src="/images/YLCha3_webpage_banner.png">
 </div>
@@ -132,7 +132,7 @@ and a frisbee tournament.</div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Past Events (2023)</summary>
+<summary>Racial &amp; Religious Harmony Month (2023)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sportshub.com.sg/who-we-are/media-centre/news/celebrate-racial-harmony-cultural-extravaganza-inaugural-harmony" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harmony Sports Fiesta 2023" src="/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Sports Fiesta 2023</div><div class="isomer-card-description">Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities!</div><div class="isomer-card-link">Find out more here!</div></div></a>
