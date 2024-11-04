@@ -29,7 +29,7 @@ affected communities in Gaza.</p>
 <td rowspan="1" colspan="3">
 <h4><strong>1. PayNow</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner__1500_x_1000_px___1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner__1500_x_1000_px_.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
