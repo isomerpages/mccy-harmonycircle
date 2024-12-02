@@ -132,6 +132,25 @@ and a frisbee tournament.</div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>Harmony-in-Action Fundraising Campaign 2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner_FINAL.png">
+</div>
+<p>The Racial and Religious Harmony Circle supported the <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rahmatan Lil Alamin (Blessings to All) Foundation’s (RLAF)&nbsp;fundraising campaign</u></a>  <em>(Permit No. 0062/2024) </em>to
+provide critical aid for children and families affected by the ongoing
+crisis in Gaza.</p>
+<p></p>
+<p>The “Harmony-in-Action” fundraising campaign was conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
+<br>
+<br><a href="https://www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Read more at the campaign webpage.</a>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary>Racial &amp; Religious Harmony Month (2023)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -293,5 +312,4 @@ to learn more about the beliefs and practices of the Latter-Day Saints.</div>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
