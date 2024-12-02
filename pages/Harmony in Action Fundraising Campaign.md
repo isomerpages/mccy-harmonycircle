@@ -14,7 +14,7 @@ crisis in Gaza.</p>
 in support of this humanitarian aid. Your support can make a significant
 difference in providing <strong>essential aid such as food, water, medical aid, and sanitation</strong> to
 affected communities in Gaza.</p>
-<p>The “Harmony-in-Action” fundraising campaign will be conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
+<p>The “Harmony-in-Action” fundraising campaign is conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
 </p>
 <h4><strong>Give now to make a difference.</strong></h4>
 <h3><strong>Modes of Payment</strong></h3>
