@@ -4,7 +4,35 @@ permalink: /sginharmony/get-involved/
 variant: tiptap
 description: ""
 ---
-<h3>Racial &amp; Religious Harmony Month 2024</h3>
+<h3>Events &amp; Programmes</h3>
+<p>Stay tuned for upcoming events and programmes!</p>
+<hr>
+<h4>Past Events &amp; Programmes</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Harmony-in-Action Fundraising Campaign 2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner_FINAL.png">
+</div>
+<p>The Racial and Religious Harmony Circle supported the <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rahmatan Lil Alamin (Blessings to All) Foundation’s (RLAF)&nbsp;fundraising campaign</u></a>  <em>(Permit No. 0062/2024) </em>to
+provide critical aid for children and families affected by the ongoing
+crisis in Gaza.</p>
+<p></p>
+<p>The “Harmony-in-Action” fundraising campaign was conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
+<br>
+<br><a href="https://www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Read more at the campaign webpage.</a>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Racial &amp; Religious Harmony Month (2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Do your part for #YOUnity" src="/images/YLCha3_webpage_banner.png">
 </div>
@@ -129,29 +157,14 @@ and a frisbee tournament.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/OnePeople.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HarmonyWorks! Conference 2024 by OnePeople.SG" src="/images/11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HarmonyWorks! Conference 2024 @ ITE College East</div><div class="isomer-card-description">📅3 Aug ⏰9am-4.30pm 🔹OnePeople.sg’s HarmonyWorks! Conference is a signature, annual youth-driven initiative which explores key trends and issues of race relations in Singapore. This year's theme is "Bridging Differences through Conversations".</div><div class="isomer-card-link">Find out more here!</div></div></a>
 </div>
-<hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Harmony-in-Action Fundraising Campaign 2024</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HC_webpage_banner_FINAL.png">
-</div>
-<p>The Racial and Religious Harmony Circle supported the <a href="https://rlafoundation.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Rahmatan Lil Alamin (Blessings to All) Foundation’s (RLAF)&nbsp;fundraising campaign</u></a>  <em>(Permit No. 0062/2024) </em>to
-provide critical aid for children and families affected by the ongoing
-crisis in Gaza.</p>
-<p></p>
-<p>The “Harmony-in-Action” fundraising campaign was conducted from<strong> 1 October to 30 November 2024</strong>.<strong>&nbsp;</strong>
-<br>
-<br><a href="https://www.harmonycircle.sg/harmony-in-action/" rel="noopener nofollow" target="_blank">Read more at the campaign webpage.</a>
-</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Racial &amp; Religious Harmony Month (2023)</summary>
+<summary><strong>Racial &amp; Religious Harmony Month (2023)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sportshub.com.sg/who-we-are/media-centre/news/celebrate-racial-harmony-cultural-extravaganza-inaugural-harmony" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harmony Sports Fiesta 2023" src="/images/racial-harmony-digital-assets_what's-happening-thumbnail-6480x4320px.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Sports Fiesta 2023</div><div class="isomer-card-description">Join us for the inaugural Harmony Sports Fiesta 2023 at Singapore Sports Hub! Come celebrate the beauty of diversity and the harmonious ties that bind our multicultural communities!</div><div class="isomer-card-link">Find out more here!</div></div></a>
