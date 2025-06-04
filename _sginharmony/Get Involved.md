@@ -35,7 +35,8 @@ exhibitions</p>
 Singapore's distinct flavours and heritage.</p>
 <p>💝 <strong>Uplift Together</strong> Make a difference by donating to @comchestsg
 SGSHARE.</p>
-<p>For more information, click here</p>
+<p>For more information, click <a href="https://www.sportshub.com.sg/events/harmony-fest-25" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <hr>
 <p></p>
 <hr>
