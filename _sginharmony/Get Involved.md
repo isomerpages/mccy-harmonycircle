@@ -38,8 +38,6 @@ SGSHARE.</p>
 <p>For more information, click <a href="https://www.sportshub.com.sg/events/harmony-fest-25" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <hr>
-<p></p>
-<hr>
 <h4>Past Events &amp; Programmes</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
