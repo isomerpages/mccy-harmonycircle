@@ -6,6 +6,37 @@ description: ""
 ---
 <h3>Events &amp; Programmes</h3>
 <p>Stay tuned for upcoming events and programmes!</p>
+<p><strong>Racial &amp; Religious Harmony Month (2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RRHM_Logo__Two_Liner_.jpg">
+</div>
+<p>💫 Celebrate 60 years of unity during Racial &amp; Religious Harmony Month
+this July!</p>
+<p>👀 Stay tuned to this page for the exciting events happening across Singapore</p>
+<p>#SGinHarmony #WeavingUnity</p>
+<p><strong>Events happening in July:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/V1_HF_4Jun25__1_.jpg">
+</div>
+<p>Join us for two incredible days celebrating our diverse heritage. Revel
+in the shared values that keep us strongly united throughout this Racial
+and Religious Harmony Month and beyond!</p>
+<p>📅 5-6 July 2025 | ⏰ 10am-4pm
+<br>📍 Singapore Sports Hub, OCBC Square
+<br>&nbsp;🎫 FREE ADMISSION</p>
+<p>🚶‍♀️ <strong>Walk Together</strong> Join Singapore's first-ever <strong>Harmony Walk</strong> at
+100PLUS Promenade, open to all ages and abilities.</p>
+<p>🎨 <strong>Play Together</strong> Get hands-on at the workshops and interactive
+exhibitions</p>
+<p>🎭 <strong>Celebrate Together</strong> Enjoy vibrant multi-cultural performances</p>
+<p>🍜 <strong>Feast Together</strong> Embark on a culinary journey through
+Singapore's distinct flavours and heritage.</p>
+<p>💝 <strong>Uplift Together</strong> Make a difference by donating to @comchestsg
+SGSHARE.</p>
+<p>For more information, click <a href="https://www.sportshub.com.sg/events/harmony-fest-25" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <hr>
 <h4>Past Events &amp; Programmes</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
