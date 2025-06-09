@@ -37,6 +37,20 @@ Singapore's distinct flavours and heritage.</p>
 SGSHARE.</p>
 <p>For more information, click <a href="https://www.sportshub.com.sg/events/harmony-fest-25" rel="noopener nofollow" target="_blank">here</a>
 </p>
+<p>Kaleidoscope: Harmony in Motion</p>
+<p></p>
+<p>The youths from Youth Leaders @ Harmony Circle are back with a one-night
+only intercultural showcase.</p>
+<p>📅 27 July 2025 | ⏰ 5.30pm-10pm</p>
+<p>📍 Singapore Chinese Cultural Centre</p>
+<p>There will be two parts to Kaleidoscope:</p>
+<p>🎉 Kaleidoscope Fair</p>
+<p>🎫 Free Admission</p>
+<p>More details coming soon</p>
+<p>🪗 Kaleidoscope Concert</p>
+<p>🎫 A minimum donation of $20 to secure a ticket, all proceeds go to charity</p>
+<p>More details coming soon</p>
+<p></p>
 <hr>
 <h4>Past Events &amp; Programmes</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
