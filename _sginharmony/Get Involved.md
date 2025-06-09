@@ -38,7 +38,6 @@ SGSHARE.</p>
 <p>For more information, click <a href="https://www.sportshub.com.sg/events/harmony-fest-25" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>Kaleidoscope: Harmony in Motion</p>
-<p></p>
 <p>The youths from Youth Leaders @ Harmony Circle are back with a one-night
 only intercultural showcase.</p>
 <p>📅 27 July 2025 | ⏰ 5.30pm-10pm</p>
