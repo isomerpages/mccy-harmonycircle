@@ -18,7 +18,10 @@ this July!</p>
 <p><strong>Events happening in July:</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sportshub.com.sg/events/harmony-fest-25" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/HF.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest!'25</div><div class="isomer-card-description">Join us for two days celebrating our diverse heritage. Revel in the shared values that keep us strongly united throughout this Racial and Religious Harmony Month and beyond!</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sportshub.com.sg/events/harmony-fest-25" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/HF.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest!'25</div><div class="isomer-card-description">5 &amp; 6 July 2025 | 10am-4pm
+Singapore Sports Hub
+
+Join us for two days celebrating our diverse heritage. Revel in the shared values that keep us strongly united throughout this Racial and Religious Harmony Month and beyond!</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid">
