@@ -18,14 +18,9 @@ this July!</p>
 <p><strong>Events happening in July:</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/V1_HF_4Jun25__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest!'25</div><div class="isomer-card-description">Join us for two days celebrating our diverse heritage. Revel in the shared values that keep us strongly united throughout this Racial and Religious Harmony Month and beyond!
-
-📅 5-6 July 2025 | ⏰ 10am-4pm 
-📍 Singapore Sports Hub, OCBC Square 
- 🎫 FREE ADMISSION
-
-For more information, click here</div><div class="isomer-card-link">https://www.sportshub.com.sg/events/harmony-fest-25</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/V1_HF_4Jun25__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest!'25</div><div class="isomer-card-description">Join us for two days celebrating our diverse heritage. Revel in the shared values that keep us strongly united throughout this Racial and Religious Harmony Month and beyond!</div><div class="isomer-card-link">https://www.sportshub.com.sg/events/harmony-fest-25</div></div></a>
 </div>
+<p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div><div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural showcase.
 
@@ -39,6 +34,7 @@ For more information, click here</div><div class="isomer-card-link">https://www.
 🪗 Kaleidoscope Concert
 🎫 A minimum donation of $20 to secure a ticket, all donations support SGSHARE</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<p></p>
 <p></p>
 <hr>
 <h4>Past Events &amp; Programmes</h4>
