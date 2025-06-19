@@ -17,39 +17,31 @@ this July!</p>
 <p>#SGinHarmony #WeavingUnity</p>
 <p><strong>Events happening in July:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/V1_HF_4Jun25__1_.jpg">
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sportshub.com.sg/events/harmony-fest-25" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/HF.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Harmony Fest!'25</div><div class="isomer-card-description">Join us for two incredible days celebrating our diverse heritage. Revel in the shared values that keep us strongly united throughout this Racial and Religious Harmony Month and beyond! 📅 5-6 July 2025 | ⏰ 10am-4pm 📍 Singapore Sports Hub, OCBC Square 🎫 FREE ADMISSION</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
-<p>Join us for two incredible days celebrating our diverse heritage. Revel
-in the shared values that keep us strongly united throughout this Racial
-and Religious Harmony Month and beyond!</p>
-<p>📅 5-6 July 2025 | ⏰ 10am-4pm
-<br>📍 Singapore Sports Hub, OCBC Square
-<br>&nbsp;🎫 FREE ADMISSION</p>
-<p>🚶‍♀️ <strong>Walk Together</strong> Join Singapore's first-ever <strong>Harmony Walk</strong> at
-100PLUS Promenade, open to all ages and abilities.</p>
-<p>🎨 <strong>Play Together</strong> Get hands-on at the workshops and interactive
-exhibitions</p>
-<p>🎭 <strong>Celebrate Together</strong> Enjoy vibrant multi-cultural performances</p>
-<p>🍜 <strong>Feast Together</strong> Embark on a culinary journey through
-Singapore's distinct flavours and heritage.</p>
-<p>💝 <strong>Uplift Together</strong> Make a difference by donating to @comchestsg
-SGSHARE.</p>
-<p>For more information, click <a href="https://www.sportshub.com.sg/events/harmony-fest-25" rel="noopener nofollow" target="_blank">here</a>
-</p>
-<p><strong>Kaleidoscope: Harmony in Motion</strong>
-</p>
-<p>The youths from Youth Leaders @ Harmony Circle are back with a one-night
-only intercultural showcase.</p>
-<p>📅 27 July 2025 | ⏰ 5.30pm-10pm</p>
-<p>📍 Singapore Chinese Cultural Centre</p>
-<p>There will be two parts to Kaleidoscope:</p>
-<p>🎉 Kaleidoscope Fair</p>
-<p>🎫 Free Admission</p>
-<p>More details coming soon</p>
-<p>🪗 Kaleidoscope Concert</p>
-<p>🎫 A minimum donation of $20 to secure a ticket, all proceeds go to charity</p>
-<p>More details coming soon</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div>
+<div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural
+showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre
+🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum
+donation of $20 to secure a ticket, all donations support SGSHARE</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <hr>
 <h4>Past Events &amp; Programmes</h4>
