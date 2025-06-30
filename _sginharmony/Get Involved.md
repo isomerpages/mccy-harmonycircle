@@ -81,7 +81,7 @@ various religious organisations and engage in conversations.</div>
 PassionARTS Festival with a variety of stage performances, food and arts
 and crafts booths.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/bishan-east-sin-ming-splash-of-harmony-celebrating-diversity-unity-water-carnival-43128889" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Splash_of_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bishan Splash of Harmony: Celebrating Diversity &amp; Unity</div><div class="isomer-card-description">[19 July 2025] This event is in conjunction with Racial and Religious Harmony Month. Enjoy a day of fun under the sun at Bishan Swimming Complex with water carnival, racial harmony related games booth and food. The event will be opened 30mins earlier for special needs participants to enjoy.</div><div class="isomer-card-link">For more Information </div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/bishan-east-sin-ming-splash-of-harmony-celebrating-diversity-unity-water-carnival-43128889" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Splash_of_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bishan Splash of Harmony: Celebrating Diversity &amp; Unity</div><div class="isomer-card-description">[19 July 2025] This event is in conjunction with Racial and Religious Harmony Month. Enjoy a day of fun under the sun at Bishan Swimming Complex with water carnival, racial harmony related games booth and food. The event will be opened 30mins earlier for special needs participants to enjoy.</div><div class="isomer-card-link">For more Information</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/seletar-serangoon-racial-harmony-tour-2025-25593764" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -96,19 +96,34 @@ of Singapore’s diverse religious groups through Jalan Kayu’s Harmony Tour.</
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/boon_lay.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Boon Lay Racial Harmony Carnival 2025</div>
+<div class="isomer-card-description">[20 July 2025] Boon Lay Harmony Circle will be supporting Boon Lay Racial
+Harmony Carnival at Boon Lay CC, participants will get to enjoy various
+stage performances and interactive booth activities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Unity_in_Harmony.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Unity in Harmony</div>
+<div class="isomer-card-description">[20 July 2025] Chua Chu Kang Harmony Circle will be supporting Unity in
+Harmony Celebration at Chua Chu Kang CC. Participants will get to enjoy
+various stage performaces, game booths, live station food and fancy dress
+contest for all ages.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
