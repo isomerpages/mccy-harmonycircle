@@ -35,35 +35,66 @@ multicultural heritage through performances, traditional games, and food.
 The programme will feature vibrant stage performances, including traditional
 dances and songs.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/yck-racial-harmony-day-sg60-celebration-75854662" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YCK Racial Harmony Day &amp; SG60 Celebrations</div><div class="isomer-card-description">[5 July 2025] Enjoy food, activities and performances at Blk 618 Ang Mo Kio ave 4 to celebrate Racial Harmony Day &amp; SG60. </div><div class="isomer-card-link">For more Information</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/yck-racial-harmony-day-sg60-celebration-75854662" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YCK Racial Harmony Day &amp; SG60 Celebrations</div><div class="isomer-card-description">[5 July 2025] Enjoy food, activities and performances at Blk 618 Ang Mo Kio ave 4 to celebrate Racial Harmony Day &amp; SG60.</div><div class="isomer-card-link">For more Information</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/jalan-kayu-harmony-brisk-walk-20888527" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Harmony Brisk Walk</div><div class="isomer-card-description">[12 July] 2025] Engage in spiritual and physical wellness at Fernvale CC. Enjoy a morning walk with fellow residents followed by a sharing by religious leaders on spiritual wellness.</div><div class="isomer-card-link">For more Information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/echo-sixty-passion-arts-festival-2025-68745990" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/echo_sixty.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Echo Sixty Passion Festival</div>
+<div class="isomer-card-description">[13 July 2025] Echo Sixty PAssion Festival - a Youth Concert organised
+in conjunction SG60 celebrations. The initiative uses community arts to
+provide a platform for young performers to showcase their talents, while
+commemorating Singapore's diamond jubilee.</div>
+<div class="isomer-card-link">For more Information</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/8.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Macpherson Harmony Walk</div>
+<div class="isomer-card-description">[19 July 2025] The MacPherson Harmony Walk at Geylang East Neighbourhood
+is a collaboration between the MacPherson Youth Network and MacPherson
+Harmony Circle that presents an opportunity for the community to visit
+various religious organisations and engage in conversations.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/9.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">West Coast PAssionARTS Festival</div>
+<div class="isomer-card-description">[19 July 2025] West Coast Harmony Circle will be supporting West Coast
+PassionARTS Festival with a variety of stage performances, food and arts
+and crafts booths.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/bishan-east-sin-ming-splash-of-harmony-celebrating-diversity-unity-water-carnival-43128889" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Splash_of_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bishan Splash of Harmony: Celebrating Diversity &amp; Unity</div><div class="isomer-card-description">[19 July 2025] This event is in conjunction with Racial and Religious Harmony Month. Enjoy a day of fun under the sun at Bishan Swimming Complex with water carnival, racial harmony related games booth and food. The event will be opened 30mins earlier for special needs participants to enjoy.</div><div class="isomer-card-link">For more Information </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/seletar-serangoon-racial-harmony-tour-2025-25593764" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/JK_Harmony_TOur.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jalan Kayu Harmony Tour</div>
+<div class="isomer-card-description">[19 July 2025] Learn more about the cultures, beliefs and rich history
+of Singapore’s diverse religious groups through Jalan Kayu’s Harmony Tour.</div>
+<div class="isomer-card-link">For More Information</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
