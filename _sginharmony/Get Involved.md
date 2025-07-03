@@ -37,6 +37,20 @@ dances and songs.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/yck-racial-harmony-day-sg60-celebration-75854662" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YCK Racial Harmony Day &amp; SG60 Celebrations</div><div class="isomer-card-description">[5 July 2025] Enjoy food, activities and performances at Blk 618 Ang Mo Kio ave 4 to celebrate Racial Harmony Day &amp; SG60.</div><div class="isomer-card-link">For more Information</div></div></a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/bb-hc-tour" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5_July_BB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bukit Batok Harmony Learning Journey (Harmony Walk)</div><div class="isomer-card-description">[5 July 2025] Explore the Religious Organisations around Bukit Batok to understand more about the different religions in the area. </div><div class="isomer-card-link">For More Information </div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Movie_night.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Movie Night &amp; Potluck @ Jurong Spring</div>
+<div class="isomer-card-description">[12 July 2025] Watch movies with your fellow neighbours and enjoy a night
+out with fun and games to celebrate the racial and religious harmony month.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/punggol-coast-and-punggol-west-harmony-circle-and-c2e-racial-harmony-day-living-in-harmony-growing-together-2025-97975135" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Living_in_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Living in Harmony, Growing Together</div><div class="isomer-card-description">[13 July 2025] Enjoy cultural and dance performances, arts &amp; craft booths, bouncy castle, cultural display and snacks at One Punggol!</div><div class="isomer-card-link">For More Information</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/jalan-kayu-harmony-brisk-walk-20888527" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Harmony Brisk Walk</div><div class="isomer-card-description">[12 July] 2025] Engage in spiritual and physical wellness at Fernvale CC. Enjoy a morning walk with fellow residents followed by a sharing by religious leaders on spiritual wellness.</div><div class="isomer-card-link">For more Information</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/echo-sixty-passion-arts-festival-2025-68745990" class="isomer-card">
 <div class="isomer-card-image">
