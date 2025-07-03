@@ -211,6 +211,19 @@ Circle will be setting up booths and playing some activities to create
 aware about HC and getting people to like our socials.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="United in Arts, United in Heart @ Hougang" src="/images/Hougang_CC.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">United in Arts, United in Heart @ Hougang</div>
+<div class="isomer-card-description">[26 July 2025] Hougang’s annual PAssionArts Festival celebrates Racial
+Harmony by showcasing how art can serve as a powerful medium for fostering
+cultural understanding and social cohesion.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
