@@ -148,11 +148,11 @@ tapestry.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Rhythm of Harmony @ Clement</div>
-<div class="isomer-card-description">Clementi Harmony Circle will collaborate with the Religious Organisations
-to create mock ups of their places of worship and celebrate racial unity
-through music and art.</div>
+<div class="isomer-card-description">[20 July 2025] Clementi Harmony Circle will collaborate with the Religious
+Organisations to create mock ups of their places of worship and celebrate
+racial unity through music and art.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLScEuUfUbrSWSVicUULxUE3V-sTIqcpVNbivo5IJFQgXz7CPJA/viewform?pli=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jurong_Lake_Gardens.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yuhua Harmony Walk @ Jurong Lake</div><div class="isomer-card-description">Enjoy a walk around Jurong Lake Gardens with your friends and family with games and a picnic to celebrate the racial and religious harmony in Singapore.</div><div class="isomer-card-link">For More Information</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLScEuUfUbrSWSVicUULxUE3V-sTIqcpVNbivo5IJFQgXz7CPJA/viewform?pli=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jurong_Lake_Gardens.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yuhua Harmony Walk @ Jurong Lake</div><div class="isomer-card-description">[20 July 2025] Enjoy a walk around Jurong Lake Gardens with your friends and family with games and a picnic to celebrate the racial and religious harmony in Singapore.</div><div class="isomer-card-link">For More Information</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
