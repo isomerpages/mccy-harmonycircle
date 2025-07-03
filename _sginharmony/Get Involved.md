@@ -37,6 +37,20 @@ dances and songs.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/yck-racial-harmony-day-sg60-celebration-75854662" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">YCK Racial Harmony Day &amp; SG60 Celebrations</div><div class="isomer-card-description">[5 July 2025] Enjoy food, activities and performances at Blk 618 Ang Mo Kio ave 4 to celebrate Racial Harmony Day &amp; SG60.</div><div class="isomer-card-link">For more Information</div></div></a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/bb-hc-tour" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/5_July_BB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bukit Batok Harmony Learning Journey (Harmony Walk)</div><div class="isomer-card-description">[5 July 2025] Explore the Religious Organisations around Bukit Batok to understand more about the different religions in the area.</div><div class="isomer-card-link">For More Information</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Movie_night.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Movie Night &amp; Potluck @ Jurong Spring</div>
+<div class="isomer-card-description">[12 July 2025] Watch movies with your fellow neighbours and enjoy a night
+out with fun and games to celebrate the racial and religious harmony month.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/punggol-coast-and-punggol-west-harmony-circle-and-c2e-racial-harmony-day-living-in-harmony-growing-together-2025-97975135" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Living_in_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Living in Harmony, Growing Together</div><div class="isomer-card-description">[13 July 2025] Enjoy cultural and dance performances, arts &amp; craft booths, bouncy castle, cultural display and snacks at One Punggol!</div><div class="isomer-card-link">For More Information</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/jalan-kayu-harmony-brisk-walk-20888527" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Harmony Brisk Walk</div><div class="isomer-card-description">[12 July] 2025] Engage in spiritual and physical wellness at Fernvale CC. Enjoy a morning walk with fellow residents followed by a sharing by religious leaders on spiritual wellness.</div><div class="isomer-card-link">For more Information</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/echo-sixty-passion-arts-festival-2025-68745990" class="isomer-card">
 <div class="isomer-card-image">
@@ -96,6 +110,50 @@ of Singapore’s diverse religious groups through Jalan Kayu’s Harmony Tour.</
 </div>
 </a>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Kaki_Bukit.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kaki Bukit Racial Harmony Day 2025</div>
+<div class="isomer-card-description">[19 July 2025] Celebrate Racial Harmony Day with Kaki Bukit! Join us on
+for a day filled with food booths, game booths, and exciting stage performances.
+Don’t miss out on this wonderful opportunity to celebrate our diverse community.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/7.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marsiling Harmony Walk</div>
+<div class="isomer-card-description">[19 July] Join us for a unique opportunity to explore and learn about
+diverse religious practices. Connect with people from different backgrounds,
+engage in interactive activities, and appreciate our community’s rich cultural
+tapestry.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/bbeharmony" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Bukit_Batok_East.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Celebration at BBE</div><div class="isomer-card-description">[20 July 2025] This event will start on 6 and 13 July, where trainers will be engaged to teach residents traditional Chinese, Indian and Malay dances. On 20 July 2025, these residents will be able to showcase all that they have learnt in the past few weeks, together with a kids fashion parade.</div><div class="isomer-card-link">For More Information</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Clementi.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rhythm of Harmony @ Clement</div>
+<div class="isomer-card-description">[20 July 2025] Clementi Harmony Circle will collaborate with the Religious
+Organisations to create mock ups of their places of worship and celebrate
+racial unity through music and art.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLScEuUfUbrSWSVicUULxUE3V-sTIqcpVNbivo5IJFQgXz7CPJA/viewform?pli=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jurong_Lake_Gardens.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yuhua Harmony Walk @ Jurong Lake</div><div class="isomer-card-description">[20 July 2025] Enjoy a walk around Jurong Lake Gardens with your friends and family with games and a picnic to celebrate the racial and religious harmony in Singapore.</div><div class="isomer-card-link">For More Information</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -134,9 +192,9 @@ contest for all ages.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">BH Talk &amp; Harmony Walk</div>
-<div class="isomer-card-description">Participants will be invited to a talk by Mr Sarafian Sallehh from Ganealogy
-Society Singapore on “Tales of Togetherness”, followed by a Harmony Walk
-to Bidadari Park.</div>
+<div class="isomer-card-description">[21 July 2025] Participants will be invited to a talk by Mr Sarafian Sallehh
+from Ganealogy Society Singapore on “Tales of Togetherness”, followed by
+a Harmony Walk to Bidadari Park.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -151,6 +209,19 @@ to Bidadari Park.</div>
 partners. There will be multi-cultural performances and ethnic food. Harmony
 Circle will be setting up booths and playing some activities to create
 aware about HC and getting people to like our socials.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="United in Arts, United in Heart @ Hougang" src="/images/Hougang_CC.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">United in Arts, United in Heart @ Hougang</div>
+<div class="isomer-card-description">[26 July 2025] Hougang’s annual PAssionArts Festival celebrates Racial
+Harmony by showcasing how art can serve as a powerful medium for fostering
+cultural understanding and social cohesion.</div>
 </div>
 </div>
 </div>
