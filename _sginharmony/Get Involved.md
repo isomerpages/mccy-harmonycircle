@@ -81,6 +81,33 @@ Harmony Circle that presents an opportunity for the community to visit
 various religious organisations and engage in conversations.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photos" src="/images/Racial_Diversity.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG60 Racial Diversity &amp; Harmony Festival 2025</div>
+<div class="isomer-card-description">[19 July 2025] Join us for the Racial Harmony Festival 2025 and experience
+Singapore's cultures! You will get to try Chinese calligraphy, batik painting,
+Indian henna and many more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Serangoon.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Serangoon National &amp; Racial Harmony Day Carnival</div>
+<div class="isomer-card-description">Join us for an exciting day of multicultural performances, SCDF safety
+demonstrations, and hands-on art activities. Experience three events in
+one - Racial Harmony Day, Emergency Preparedness Day, and PassionArts Festival.
+Come create, learn, and celebrate together!</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/buona-vista-harmony-and-friendship-day---19-july-2025-89877167" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Buona.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrating Diversity: Buona Vista Harmony and Friendship Day</div><div class="isomer-card-description">Enjoy lively performance, delicious food and fun craft workshops at Buona Vista Community Club. Witness the unveiling of a stunning new mural artwork, a testament to the community’s diversity and unity. The event will also feature the largest SG60 logo with Kolam Arts.</div><div class="isomer-card-link">For More Information</div></div></a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
