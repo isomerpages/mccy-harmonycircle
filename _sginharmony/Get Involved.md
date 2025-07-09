@@ -280,21 +280,7 @@ religions.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div>
-<div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural
-showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre
-🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum
-donation of $20 to secure a ticket, all donations support SGSHARE</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://harmonycircle-kaleidoscope.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div><div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre 🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum donation of $20 to secure a ticket, all donations support SGSHARE</div><div class="isomer-card-link">Get your tickets now!</div></div></a>
 </div>
 <p></p>
 <p></p>
