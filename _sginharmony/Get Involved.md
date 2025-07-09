@@ -165,6 +165,19 @@ engage in interactive activities, and appreciate our community’s rich cultural
 tapestry.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Limbang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Limbang Racial Harmony Day Line Dance</div>
+<div class="isomer-card-description">Join this line dance event in celebration of Racial Harmony Day 2025.
+Participants will learn and perform line dances set to a diverse mix of
+multicultural music, including Malay, Chinese, Indian, and English songs.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/bbeharmony" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Bukit_Batok_East.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Celebration at BBE</div><div class="isomer-card-description">[20 July 2025] This event will start on 6 and 13 July, where trainers will be engaged to teach residents traditional Chinese, Indian and Malay dances. On 20 July 2025, these residents will be able to showcase all that they have learnt in the past few weeks, together with a kids fashion parade.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
