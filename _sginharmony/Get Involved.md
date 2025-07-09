@@ -173,9 +173,10 @@ tapestry.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Limbang Racial Harmony Day Line Dance</div>
-<div class="isomer-card-description">Join this line dance event in celebration of Racial Harmony Day 2025.
-Participants will learn and perform line dances set to a diverse mix of
-multicultural music, including Malay, Chinese, Indian, and English songs.</div>
+<div class="isomer-card-description">[20 July 2025] Join this line dance event in celebration of Racial Harmony
+Day 2025. Participants will learn and perform line dances set to a diverse
+mix of multicultural music, including Malay, Chinese, Indian, and English
+songs.</div>
 </div>
 </div>
 </div>
