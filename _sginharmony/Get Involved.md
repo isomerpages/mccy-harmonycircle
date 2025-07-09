@@ -263,7 +263,21 @@ aware about HC and getting people to like our socials.</div>
 Harmony by showcasing how art can serve as a powerful medium for fostering
 cultural understanding and social cohesion.</div>
 </div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/goldhill-nc-sg60-kampong-pasiran-73644961" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Kampong_Pasiran.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrate SG60 @ Kampong Pasiran</div><div class="isomer-card-description">[26 July 2025] Celebrate SG60 at Kampong Pasiran Mosque inclusive of a guided tour, heritage exhibition, prayer session and traditional culinary delights. Catch performances such as social circus, kampong music ensemble, ukelele band and pipa recital. Prizes to be won during games and quizzes!</div><div class="isomer-card-link">For More Information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-seletar-serangoon-sg60-harmony-walk-70219293" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/AMK_JK.png">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ang Mo Kio-Hougang; Jalan Kayu Harmony Walk</div>
+<div class="isomer-card-description">[27 July 2025] Join Seletar-Serangoon and Ang Mo Kio Hougang Harmony Circles
+and enjoy a morning walk with your neighbours from different races and
+religions.</div>
+<div class="isomer-card-link">For More Information</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
