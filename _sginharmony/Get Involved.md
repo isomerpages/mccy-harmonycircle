@@ -194,6 +194,21 @@ Organisations to create mock ups of their places of worship and celebrate
 racial unity through music and art.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLScEuUfUbrSWSVicUULxUE3V-sTIqcpVNbivo5IJFQgXz7CPJA/viewform?pli=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jurong_Lake_Gardens.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yuhua Harmony Walk @ Jurong Lake</div><div class="isomer-card-description">[20 July 2025] Enjoy a walk around Jurong Lake Gardens with your friends and family with games and a picnic to celebrate the racial and religious harmony in Singapore.</div><div class="isomer-card-link">For More Information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/rmcacc-rh" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/radin_mas.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Colours of Rhythm</div>
+<div class="isomer-card-description">[20 July 2025] Celebrate RRHM at Radin Mas! Join a vibrant colouring event
+with your friends and family to be part of a mission to colour 60 beautiful
+flower artworks - symbolising Singapore's diversity, growth and unity.
+Don’t miss exciting stage performances during this event too!</div>
+<div class="isomer-card-link">For More Information</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
@@ -279,6 +294,20 @@ religions.</div>
 <div class="isomer-card-link">For More Information</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/st_anne_s_church.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">St Anne's Church Feast Day</div>
+<div class="isomer-card-description">[27 July 2025] Harmony Circle will be setting up a booth at St Anne's
+Church Feast Day which will have interactive games to promote racial and
+religious harmony. Multi-ethnic snacks will also be distributed to participants
+at the booth.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://harmonycircle-kaleidoscope.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div><div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre 🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum donation of $20 to secure a ticket, all donations support SGSHARE</div><div class="isomer-card-link">Get your tickets now!</div></div></a>
 </div>
