@@ -49,9 +49,9 @@ dances and songs.</div>
 <div class="isomer-card-description">[12 July 2025] Watch movies with your fellow neighbours and enjoy a night
 out with fun and games to celebrate the racial and religious harmony month.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/punggol-coast-and-punggol-west-harmony-circle-and-c2e-racial-harmony-day-living-in-harmony-growing-together-2025-97975135" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Living_in_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Living in Harmony, Growing Together</div><div class="isomer-card-description">[13 July 2025] Enjoy cultural and dance performances, arts &amp; craft booths, bouncy castle, cultural display and snacks at One Punggol!</div><div class="isomer-card-link">For More Information</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/jalan-kayu-harmony-brisk-walk-20888527" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Harmony Brisk Walk</div><div class="isomer-card-description">[12 July 2025] Engage in spiritual and physical wellness at Fernvale CC. Enjoy a morning walk with fellow residents followed by a sharing by religious leaders on spiritual wellness.</div><div class="isomer-card-link">For More Information</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/jalan-kayu-harmony-brisk-walk-20888527" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Harmony Brisk Walk</div><div class="isomer-card-description">[12 July] 2025] Engage in spiritual and physical wellness at Fernvale CC. Enjoy a morning walk with fellow residents followed by a sharing by religious leaders on spiritual wellness.</div><div class="isomer-card-link">For more Information</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/punggol-coast-and-punggol-west-harmony-circle-and-c2e-racial-harmony-day-living-in-harmony-growing-together-2025-97975135" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Living_in_Harmony.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Living in Harmony, Growing Together</div><div class="isomer-card-description">[13 July 2025] Enjoy cultural and dance performances, arts &amp; crafts booths, bouncy castle, cultural display, and snacks at One Punggol!</div><div class="isomer-card-link">For more Information</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/echo-sixty-passion-arts-festival-2025-68745990" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -81,6 +81,33 @@ Harmony Circle that presents an opportunity for the community to visit
 various religious organisations and engage in conversations.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photos" src="/images/Racial_Diversity.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SG60 Racial Diversity &amp; Harmony Festival 2025</div>
+<div class="isomer-card-description">[19 July 2025] Join us for the Racial Harmony Festival 2025 and experience
+Singapore's cultures! You will get to try Chinese calligraphy, batik painting,
+Indian henna and many more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Serangoon.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Serangoon National &amp; Racial Harmony Day Carnival</div>
+<div class="isomer-card-description">[19 July 2025] Join us for an exciting day of multicultural performances,
+SCDF safety demonstrations, and hands-on art activities. Experience three
+events in one - Racial Harmony Day, Emergency Preparedness Day, and PassionArts
+Festival. Come create, learn, and celebrate together!</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/buona-vista-harmony-and-friendship-day---19-july-2025-89877167" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Buona.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrating Diversity: Buona Vista Harmony and Friendship Day</div><div class="isomer-card-description">[19 July 2025] Enjoy lively performance, delicious food and fun craft workshops at Buona Vista Community Club. Witness the unveiling of a stunning new mural artwork, a testament to the community’s diversity and unity. The event will also feature the largest SG60 logo with Kolam Arts.</div><div class="isomer-card-link">For More Information</div></div></a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -138,6 +165,20 @@ engage in interactive activities, and appreciate our community’s rich cultural
 tapestry.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Limbang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Limbang Racial Harmony Day Line Dance</div>
+<div class="isomer-card-description">[20 July 2025] Join this line dance event in celebration of Racial Harmony
+Day 2025. Participants will learn and perform line dances set to a diverse
+mix of multicultural music, including Malay, Chinese, Indian, and English
+songs.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.go.gov.sg/bbeharmony" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Bukit_Batok_East.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Racial Harmony Celebration at BBE</div><div class="isomer-card-description">[20 July 2025] This event will start on 6 and 13 July, where trainers will be engaged to teach residents traditional Chinese, Indian and Malay dances. On 20 July 2025, these residents will be able to showcase all that they have learnt in the past few weeks, together with a kids fashion parade.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
@@ -153,6 +194,21 @@ Organisations to create mock ups of their places of worship and celebrate
 racial unity through music and art.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://docs.google.com/forms/d/e/1FAIpQLScEuUfUbrSWSVicUULxUE3V-sTIqcpVNbivo5IJFQgXz7CPJA/viewform?pli=1" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Jurong_Lake_Gardens.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yuhua Harmony Walk @ Jurong Lake</div><div class="isomer-card-description">[20 July 2025] Enjoy a walk around Jurong Lake Gardens with your friends and family with games and a picnic to celebrate the racial and religious harmony in Singapore.</div><div class="isomer-card-link">For More Information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/rmcacc-rh" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/radin_mas.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Colours of Rhythm</div>
+<div class="isomer-card-description">[20 July 2025] Celebrate RRHM at Radin Mas! Join a vibrant colouring event
+with your friends and family to be part of a mission to colour 60 beautiful
+flower artworks - symbolising Singapore's diversity, growth and unity.
+Don’t miss exciting stage performances during this event too!</div>
+<div class="isomer-card-link">For More Information</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
@@ -223,23 +279,37 @@ aware about HC and getting people to like our socials.</div>
 Harmony by showcasing how art can serve as a powerful medium for fostering
 cultural understanding and social cohesion.</div>
 </div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/goldhill-nc-sg60-kampong-pasiran-73644961" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Kampong_Pasiran.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrate SG60 @ Kampong Pasiran</div><div class="isomer-card-description">[26 July 2025] Celebrate SG60 at Kampong Pasiran Mosque inclusive of a guided tour, heritage exhibition, prayer session and traditional culinary delights. Catch performances such as social circus, kampong music ensemble, ukelele band and pipa recital. Prizes to be won during games and quizzes!</div><div class="isomer-card-link">For More Information</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-seletar-serangoon-sg60-harmony-walk-70219293" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/AMK_JK.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div>
-<div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural
-showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre
-🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum
-donation of $20 to secure a ticket, all donations support SGSHARE</div>
+<div class="isomer-card-title">Ang Mo Kio-Hougang; Jalan Kayu Harmony Walk</div>
+<div class="isomer-card-description">[27 July 2025] Join Seletar-Serangoon and Ang Mo Kio Hougang Harmony Circles
+and enjoy a morning walk with your neighbours from different races and
+religions.</div>
+<div class="isomer-card-link">For More Information</div>
+</div>
+</a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/st_anne_s_church.png">
 </div>
 </div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">St Anne's Church Feast Day</div>
+<div class="isomer-card-description">[27 July 2025] Harmony Circle will be setting up a booth at St Anne's
+Church Feast Day which will have interactive games to promote racial and
+religious harmony. Multi-ethnic snacks will also be distributed to participants
+at the booth.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://harmonycircle-kaleidoscope.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div><div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre 🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum donation of $20 to secure a ticket, all donations support SGSHARE</div><div class="isomer-card-link">Get your tickets now!</div></div></a>
 </div>
 <p></p>
 <p></p>
