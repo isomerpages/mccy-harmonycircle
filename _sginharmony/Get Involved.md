@@ -209,6 +209,20 @@ Don’t miss exciting stage performances during this event too!</div>
 <div class="isomer-card-link">For More Information</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/yishun.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Racial Harmony Visit</div>
+<div class="isomer-card-description">[20 July 2025] The Racial Harmony visit fosters deeper interfaith understanding
+and respect. Cultivate your appreciation for diverse religious practices
+and beliefs. This visit will empower us to collectively and more effectively
+address community needs, ensuring a resilient and harmonious Yishun.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
