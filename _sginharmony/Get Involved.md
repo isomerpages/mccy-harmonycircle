@@ -308,6 +308,18 @@ religious harmony. Multi-ethnic snacks will also be distributed to participants
 at the booth.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/HC_website_20250715_150342_0000.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Holland-Bukit Timah Racial Harmony Carnival</div>
+<div class="isomer-card-description">Enjoy performances and food from different cultures as a celebration of
+Racial and Religious Harmony month 2025.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://harmonycircle-kaleidoscope.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/kscope.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kaleidoscope: Harmony in Motion</div><div class="isomer-card-description">The youths from Youth Leaders @ Harmony Circle are back with an intercultural showcase. 27 July 2025 | 5.30-10pm | Singapore Chinese Cultural Centre 🎉 Kaleidoscope Fair 🎫 Free Admission 🪗 Kaleidoscope Concert 🎫 A minimum donation of $20 to secure a ticket, all donations support SGSHARE</div><div class="isomer-card-link">Get your tickets now!</div></div></a>
 </div>
