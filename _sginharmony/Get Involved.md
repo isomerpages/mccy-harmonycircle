@@ -209,6 +209,20 @@ Don’t miss exciting stage performances during this event too!</div>
 <div class="isomer-card-link">For More Information</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/yishun.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Racial Harmony Visit</div>
+<div class="isomer-card-description">[20 July 2025] The Racial Harmony visit fosters deeper interfaith understanding
+and respect. Cultivate your appreciation for diverse religious practices
+and beliefs. This visit will empower us to collectively and more effectively
+address community needs, ensuring a resilient and harmonious Yishun.</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/events/s/art-unite-2024-art-exhibition-/1349306476458652/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mountbatten Art Unites</div><div class="isomer-card-description">[20 July 2025] Promoting art forms of different racial groups, Art Unites will also feature on site activities including the Longest Toran Display in Singapore, Art Competition, Multi Racial Costume Design Competition, Cultural Performances, Food Decoration, and Live Demonstration.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
@@ -280,20 +294,47 @@ Harmony by showcasing how art can serve as a powerful medium for fostering
 cultural understanding and social cohesion.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/goldhill-nc-sg60-kampong-pasiran-73644961" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/Kampong_Pasiran.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Celebrate SG60 @ Kampong Pasiran</div><div class="isomer-card-description">[26 July 2025] Celebrate SG60 at Kampong Pasiran Mosque inclusive of a guided tour, heritage exhibition, prayer session and traditional culinary delights. Catch performances such as social circus, kampong music ensemble, ukelele band and pipa recital. Prizes to be won during games and quizzes!</div><div class="isomer-card-link">For More Information</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-seletar-serangoon-sg60-harmony-walk-70219293" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/AMK_JK.png">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/HC_website_20250715_150343_0001.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ang Mo Kio-Hougang; Jalan Kayu Harmony Walk</div>
-<div class="isomer-card-description">[27 July 2025] Join Seletar-Serangoon and Ang Mo Kio Hougang Harmony Circles
-and enjoy a morning walk with your neighbours from different races and
-religions.</div>
-<div class="isomer-card-link">For More Information</div>
+<div class="isomer-card-title">Beyond Breath</div>
+<div class="isomer-card-description">[26 July 2025] Join us for an enriching wellness program designed to help
+you unwind, sharpen your focus, and energize your everyday life! Dive into
+effortless guided meditation sessions alongside a vibrant community where
+you can connect and forge new friendships.</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/HC_website_20250715_150343_0003.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flavours of Harmony</div>
+<div class="isomer-card-description">[26 July 2025] Come together to celebrate racial harmony! Immerse yourself
+in a vibrant showcase of diverse cuisines and cultures, where we foster
+unity, understanding, and friendship within our community.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/HC_website_20250715_150343_0002.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Marymount Cultural &amp; Dance Festival</div>
+<div class="isomer-card-description">This event will feature captivating cultural performances and interactive
+activities that showcase the richness of our traditions. Get ready for
+a spectacular highlight: we aim to break a record in the Singapore Book
+of Records for the largest Lions' Dance performance!</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.onepa.gov.sg/events/ang-mo-kio-hougang-seletar-serangoon-sg60-harmony-walk-70219293" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/AMK_JK.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ang Mo Kio-Hougang; Jalan Kayu Harmony Walk</div><div class="isomer-card-description">[27 July 2025] Join Seletar-Serangoon and Ang Mo Kio Hougang Harmony Circles and enjoy a morning walk with your neighbours from different races and religions.</div><div class="isomer-card-link">For More Information</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -306,6 +347,18 @@ religions.</div>
 Church Feast Day which will have interactive games to promote racial and
 religious harmony. Multi-ethnic snacks will also be distributed to participants
 at the booth.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="poster" src="/images/HC_website_20250715_150342_0000.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Holland-Bukit Timah Racial Harmony Carnival</div>
+<div class="isomer-card-description">[27 July 2025] Enjoy performances and food from different cultures as
+a celebration of Racial and Religious Harmony month 2025.</div>
 </div>
 </div>
 </div>
