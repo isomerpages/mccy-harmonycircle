@@ -330,8 +330,8 @@ at the booth.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Holland-Bukit Timah Racial Harmony Carnival</div>
-<div class="isomer-card-description">Enjoy performances and food from different cultures as a celebration of
-Racial and Religious Harmony month 2025.</div>
+<div class="isomer-card-description">[27 July 2025] Enjoy performances and food from different cultures as
+a celebration of Racial and Religious Harmony month 2025.</div>
 </div>
 </div>
 </div>
