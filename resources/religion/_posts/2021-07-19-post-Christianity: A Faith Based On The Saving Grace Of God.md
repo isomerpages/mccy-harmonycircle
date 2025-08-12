@@ -7,6 +7,7 @@ description: Christians believe that they can receive salvation through faith in
   Jesus Christ. This is why Christians often say that they are “saved by grace
   through faith”.
 image: ""
+variant: markdown
 ---
 Mention Christianity and the cross comes to mind. It is seen marking church buildings, printed on the cover of Bibles, and worn around the neck. 
  
